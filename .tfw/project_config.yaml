@@ -1,0 +1,154 @@
+# TFW Project Configuration
+# Upgraded to TFW v3.4.0 from upstream trace-first-starter
+
+project:
+  name: "Abai University Transformation"
+  description: "Система проектирования внутренних нормативных актов (Положений о подразделениях, Должностных инструкций) и каталога функций университета на основе законодательства РК"
+  repo: "Abai-University-Transformation"
+  branch: "main"
+
+tfw:
+  version: "3.4.0"
+  installed_from: "https://github.com/saubakirov/trace-first-starter@v3.4.0"
+  upstream: "https://github.com/saubakirov/trace-first-starter"
+  content_language: ru
+
+  task_containers: [workspace]
+  historical_containers: [workspace, tasks]
+
+  id_format: "{PREFIX}_{YYYYMMDD}-{HHMMSS}_{ABBR}"
+  legacy_id_format: "{prefix}-{seq}"
+  task_prefix: ABAI
+
+  scope_budgets:
+    files_per_phase: 14
+    new_files: 8
+    new_loc: 1200
+    modified_files: 12
+    decomposition_trigger_files: 50
+    decomposition_trigger_loc: 5000
+
+  templates:
+    hl: .tfw/templates/HL.md
+    ts: .tfw/templates/TS.md
+    res: .tfw/templates/RES.md
+    rf: .tfw/templates/RF.md
+    onb: .tfw/templates/ONB.md
+    review: .tfw/templates/REVIEW.md
+    knowledge: .tfw/templates/KNOWLEDGE.md
+    release: .tfw/templates/RELEASE.md
+    evidence: .tfw/templates/evidence/EV.md
+    briefing: .tfw/templates/briefing.md
+    department_regulation: .tfw/templates/DEPARTMENT_REGULATION.md
+    job_description: .tfw/templates/JOB_DESCRIPTION.md
+    function_spec: .tfw/templates/FUNCTION_SPEC.md
+
+  workflows:
+    plan: .tfw/workflows/plan.md
+    research: .tfw/workflows/research/base.md
+    handoff: .tfw/workflows/handoff.md
+    review: .tfw/workflows/review.md
+    resume: .tfw/workflows/resume.md
+    docs: .tfw/workflows/docs.md
+    release: .tfw/workflows/release.md
+    update: .tfw/workflows/update.md
+    init: .tfw/workflows/init.md
+    knowledge: .tfw/workflows/knowledge.md
+    config: .tfw/workflows/config.md
+
+  research:
+    max_web_queries_per_stage: 5
+    max_files_per_stage: 15
+    max_questions_per_turn: 3
+    max_passes: 3
+    min_iterations: 2
+    default_mode: focused
+    modes:
+      focused:
+        loops_per_stage: 1
+        verify_user_tech_claims: true
+      deep:
+        loops_per_stage: 3
+        verify_user_tech_claims: true
+        require_counter_evidence: true
+
+  review:
+    min_verify_ratio: 0.42
+
+  statuses:
+    - id: TODO
+      emoji: "⬜"
+      description: "Task registered, work not started"
+    - id: HL_DRAFT
+      emoji: "📝"
+      description: "HL being drafted or discussed"
+      role: coordinator
+    - id: RES
+      emoji: "🔬"
+      description: "Research in progress (optional)"
+      role: researcher
+    - id: PHASES
+      emoji: "🧩"
+      description: "Phases are running; each phase carries its own state"
+      role: coordinator
+    - id: TS_DRAFT
+      emoji: "🟡"
+      description: "TS written, awaiting approval"
+      role: coordinator
+    - id: ONB
+      emoji: "🟠"
+      description: "Executor onboarding and readiness check"
+      role: executor
+    - id: RF
+      emoji: "🟢"
+      description: "Execution complete, RF written"
+      role: executor
+    - id: REV
+      emoji: "🔍"
+      description: "Review in progress (Map → Verify → Judge → Decide)"
+      role: reviewer
+    - id: KNW
+      emoji: "📚"
+      description: "Knowledge capture and verification"
+      role: coordinator
+    - id: DONE
+      emoji: "✅"
+      description: "Task closed"
+    - id: BLOCKED
+      emoji: "❌"
+      description: "Blocked by dependency"
+    - id: REJECTED
+      emoji: "❌"
+      description: "Closed unsuccessfully, terminal, trace retained"
+
+roles:
+  coordinator:
+    allowed_phases: ["HL", "TS", "REVIEW", "KNW"]
+    responsibilities: "Стратегическое планирование, декомпозиция задач, ревью актов, верификация знаний"
+  researcher:
+    allowed_phases: ["RES"]
+    responsibilities: "Исследование законодательства РК, выявление требований НПА, структурирование норм"
+  executor:
+    allowed_phases: ["ONB", "DEV", "RF"]
+    responsibilities: "Разработка положений, должностных инструкций, матриц функций и регламентов, сбор доказательств (EV)"
+  reviewer:
+    allowed_phases: ["REVIEW"]
+    responsibilities: "Проверка юридического соответствия НПА РК, антидублирования, полноты и аудит доказательств (Evidence Audit)"
+
+paths:
+  tasks: "workspace"
+  templates: ".tfw/templates"
+  workflows: ".tfw/workflows"
+  regulations: "docs/regulations"
+  functions: "docs/functions_and_powers"
+  internal_acts: "docs/internal_acts"
+  knowledge: "KNOWLEDGE.md"
+  tech_debt: "TECH_DEBT.md"
+
+standards:
+  rk_legal_acts:
+    - "Закон РК «Об образовании»"
+    - "Закон РК «О науке и технологической политике»"
+    - "Типовые правила деятельности ОВПО (Приказ МОН РК № 595)"
+    - "Квалификационные требования к образовательной деятельности ОВПО (Приказ МОН РК № 391)"
+    - "ГОСО ВО и ПВО"

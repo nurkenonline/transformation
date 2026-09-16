@@ -1,0 +1,22 @@
+# Knowledge State Tracking for TFW
+version: "1.0"
+last_updated: "2026-09-02"
+
+facts:
+  - id: "FACT-001"
+    category: "legal_rk"
+    statement: "Квалификационные требования к ОВПО регламентируются Приказом МОН РК № 391 со всеми изменениями и дополнениями."
+    source: "Приказ МОН РК № 391"
+    status: "verified"
+  - id: "FACT-002"
+    category: "legal_rk"
+    statement: "Типовые правила деятельности ОВПО регламентируются Приказом МОН РК № 595."
+    source: "Приказ МОН РК № 595"
+    status: "verified"
+  - id: "FACT-003"
+    category: "structure"
+    statement: "Каждое структурное подразделение университета должно иметь утвержденное Положение, а каждая штатная единица — Должностную инструкцию."
+    source: "Трудовой кодекс РК, Типовые правила ОВПО"
+    status: "verified"
+
+candidates: []
