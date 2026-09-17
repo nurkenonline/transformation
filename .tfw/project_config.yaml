@@ -2,9 +2,9 @@
 # Upgraded to TFW v3.4.0 from upstream trace-first-starter
 
 project:
-  name: "Abai University Transformation"
-  description: "Система проектирования внутренних нормативных актов (Положений о подразделениях, Должностных инструкций) и каталога функций университета на основе законодательства РК"
-  repo: "Abai-University-Transformation"
+  name: "Kazakhstan University Transformation Framework"
+  description: "Универсальная система проектирования внутренних нормативных актов (Положений о подразделениях, Должностных инструкций), цифрового профиля и каталога функций ОВПО на основе законодательства РК"
+  repo: "Kazakhstan-University-Transformation-Framework"
   branch: "main"
 
 tfw:

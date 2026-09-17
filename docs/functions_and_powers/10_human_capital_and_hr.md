@@ -1,11 +1,34 @@
 # Домен 10: Человеческий капитал и управление персоналом (Human Capital & HR)
 
-## Реестр функций домена
+> **Модельный пакет внутренних нормативных актов:**  
+> - 📑 [**Положение о Департаменте управления человеческими ресурсами (HR)**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/regulations/hr_department_regulation.md)  
+> - 📑 [**Регламент (СОП) открытого конкурсного замещения должностей ППС и ученых**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_faculty_and_researcher_recruitment_competition.md)  
+> - 📑 [**Регламент (СОП) 7-классного грейдирования и Комиссии по оценке достижений ученых ($K_{дос}$)**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_researcher_compensation_and_kdos_commission.md)  
+> - 👤 [**Должностная инструкция Директора Департамента HR**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/job_descriptions/jd_director_hr.md)  
+> - 👤 [**Должностная инструкция Специалиста по кадровому администрированию и ЕСУТД Enbek.kz**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/job_descriptions/jd_hr_recruitment_and_records_specialist.md)  
 
-| Код функции | Наименование функции | Основание в НПА РК | Ответственный (Accountable) | Соисполнители (Responsible) |
-| :--- | :--- | :--- | :--- | :--- |
-| `FUNC-HR-RECRUIT-001` | Организация конкурсного замещения должностей ППС и научных работников | Закон РК «Об образовании» (ст. 52), Приказ МОН РК о правилах конкурсного замещения | Директор Департамента HR | Конкурсная комиссия, Институты, Кафедры |
-| `FUNC-HR-QUAL-002` | Мониторинг соответствия ППС квалификационным требованиям (остепененность, базовое образование, стаж) | Приказ МОН РК № 391 | Начальник отдела кадрового администрирования | Департамент HR, Департамент качества |
-| `FUNC-HR-TRAIN-003` | Организация повышения квалификации и стажировок ППС (не реже 1 раза в 3-5 лет, ≥72 ч.) | Закон РК «Об образовании» (ст. 51), Квалтребования (№ 391) | Руководитель центра непрерывного образования / HR | Институты, Кафедры |
-| `FUNC-HR-KPI-004` | Администрирование системы KPI, рейтинговой оценки и дифференцированной оплаты труда | Трудовой кодекс РК, Положение об оплате труда Университета | Директор Департамента HR | Финансово-экономический департамент, ДАВ |
-| `FUNC-HR-CYBER-005` | Организация обязательного обучения, периодического тестирования и инструктажей работников по кибербезопасности и защите данных | Трудовой кодекс РК (ст. 22, 23, 181, 182), Постановление Правительства РК № 832 (ЕТИКТ и ИБ) | Директор Департамента HR | Служба информационной безопасности, Директора институтов, Руководители подразделений |
+---
+
+## 1. Реестр функций домена
+
+| Код функции | Наименование функции | Основание в НПА РК | Ответственный (Accountable) | Соисполнители (Responsible) | Внутренний регламентирующий акт |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `FUNC-HR-RECRUIT-001` | Организация и проведение открытого конкурсного замещения должностей ППС и научных работников | Закон РК «Об образовании» (ст. 52), Закон «О науке и технологической политике», Приказ МОН РК № 230 | Директор Департамента HR | Университетская конкурсная комиссия, Институты, Кафедры | [`sop_faculty_and_researcher_recruitment_competition.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_faculty_and_researcher_recruitment_competition.md) |
+| `FUNC-HR-TRACK-002` | Дифференциация и администрирование треков ППС (Teaching Track vs Research Track) | Закон РК «О статусе педагога», Приказ МОН РК № 230 | Директор Департамента HR | Проректор по академической деятельности, Проректор по науке | [`sop_faculty_and_researcher_recruitment_competition.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_faculty_and_researcher_recruitment_competition.md) |
+| `FUNC-HR-SCI-GRADE-003`| 7-классная классификация должностей научных работников и расчет базовых окладов | Приказ и.о. МНВО РК № 592, **Приказ МНВО РК № 424 от 04.09.2026** (в силе с 22.09.2026) | Директор Департамента HR | Директор Департамента науки, ФЭД | [`sop_researcher_compensation_and_kdos_commission.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_researcher_compensation_and_kdos_commission.md) |
+| `FUNC-HR-KDOS-004` | Администрирование работы Комиссии по оценке достижений ученых и начисление коэффициента $K_{дос}$ (1.0–1.5) | **Приказ МНВО РК № 424 от 04.09.2026** | Проректор по науке (Председатель комиссии) | Директор HR, Директор Департамента науки | [`sop_researcher_compensation_and_kdos_commission.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_researcher_compensation_and_kdos_commission.md) |
+| `FUNC-HR-ENBEK-005` | Регистрация и ведение сведений о трудовых договорах в ЕСУТД Enbek.kz (в течение 3 рабочих дней) | Трудовой кодекс РК (ст. 23), Приказ МТСЗН РК № 353, КоАП РК (ст. 98) | Директор Департамента HR | Специалист по кадровому администрированию | [`jd_hr_recruitment_and_records_specialist.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/job_descriptions/jd_hr_recruitment_and_records_specialist.md) |
+| `FUNC-HR-QUAL-006` | Мониторинг соответствия ППС квалификационным характеристикам (степени, стаж, публикационная активность) | Приказ МОН РК № 338, Квалификационные требования МОН РК № 391 | Директор Департамента HR | Департамент обеспечения качества, Кафедры | [`hr_department_regulation.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/regulations/hr_department_regulation.md) |
+| `FUNC-HR-TRAIN-007` | Организация непрерывного повышения квалификации ППС (не реже 1 раза в 3 года, объем $\ge 72$ ч.) | Закон РК «Об образовании» (ст. 51), Квалтребования № 391 | Руководитель сектора развития персонала | Институты, Кафедры | [`hr_department_regulation.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/regulations/hr_department_regulation.md) |
+| `FUNC-HR-MILITARY-008`| Персональный воинский учет военнообязанных и призывников, взаимодействие с УДО | Закон РК «О воинской службе и статусе военнослужащих», КоАП РК (ст. 643) | Специалист по кадровому администрированию | Служба безопасности и ГО, Управления по делам обороны | [`jd_hr_recruitment_and_records_specialist.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/job_descriptions/jd_hr_recruitment_and_records_specialist.md) |
+| `FUNC-HR-CYBER-009` | Организация инструктажей и проверок знаний по безопасности и охране труда (БиОТ) и кибергигиене | Трудовой кодекс РК (ст. 22, 23, 181, 182), ПП РК № 832 | Директор Департамента HR | Служба ИБ, Инженер по БиОТ | [`sop_employee_cybersecurity_and_labor_safety.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_employee_cybersecurity_and_labor_safety.md) |
+| `FUNC-HR-DATA-010` | Обеспечение защиты персональных данных работников Университета и соблюдение конфиденциальности | Закон РК «О персональных данных и их защите», КоАП РК (ст. 79) | Директор Департамента HR | Все специалисты Департамента HR, Служба ИБ | [`sop_personal_data_protection.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_personal_data_protection.md) |
+
+---
+
+## 2. Цифровой профиль функций HR в университетской информационной системе
+
+1. **Модуль «Кадры и ППС»:** электронные карточки сотрудников (Т-2), учет ученых степеней, званий, публикаций и стажа.
+2. **Модуль «Приказы по личному составу»:** автоматизированная генерация и электронное визирование приказов о приеме, отпусках, премировании и увольнении.
+3. **Модуль «Личный кабинет соискателя»:** онлайн-подача документов кандидатами на конкурс ППС и научных сотрудников с авторизацией через eGov/ЭЦП.
+4. **Интеграционный шлюз ЕСУТД Enbek.kz:** автоматическая передача данных о трудовых договорах в государственную систему учета.

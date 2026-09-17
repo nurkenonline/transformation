@@ -1,5 +1,5 @@
 # ДОЛЖНОСТНАЯ ИНСТРУКЦИЯ
-## Начальника Управления цифровизации НАО «КазНПУ имени Абая»
+## Начальника Управления цифровизации [V_UNIVERSITY_SHORT_NAME]
 
 ---
 
@@ -19,7 +19,7 @@
 2.3. **Профессиональные знания:**
 - Принципы проектирования распределенных информационных систем, микросервисной архитектуры и реляционных СУБД (MariaDB, PostgreSQL, Oracle);
 - Стандарты интеграции API (REST, SOAP, JSON, XML) и протоколы обмена данными государственных платформ (ЕПВО / НОБД);
-- Архитектура и принципы администрирования университетских SIS и LMS платформ (Abai Digital, Moodle, Platonus);
+- Архитектура и принципы администрирования университетских SIS и LMS платформ ([V_SIS_SYSTEM_NAME], Moodle, Platonus);
 - Законодательство РК в сфере информатизации и защиты персональных данных;
 - Основы гибких методологий управления разработкой (Agile, Scrum, Kanban).
 
@@ -29,7 +29,7 @@
 
 Начальник Управления цифровизации исполняет следующие обязанности:
 3.1. Руководит разработкой, развитием, модернизацией и сопровождением корпоративных информационных систем и цифровых сервисов Университета.  
-3.2. Обеспечивает техническое и программное сопровождение 22 модулей цифровой платформы Abai Digital (включая личные кабинеты студентов, преподавателей, модуль приема RegAbai и LMS Moodle 5.1).  
+3.2. Обеспечивает техническое и программное сопровождение 22 модулей цифровой платформы [V_SIS_SYSTEM_NAME] (включая личные кабинеты студентов, преподавателей, модуль приема [V_ADMISSION_MODULE] и LMS Moodle 5.1).  
 3.3. Организует бесперебойное функционирование интеграционного шлюза сопряжения баз данных Университета с ИС ЕПВО и НОБД по 5 утвержденным отраслевым протоколам МНВО РК.  
 3.4. Координирует внедрение инновационных образовательных технологий (EdTech), сервисов прокторинга на экзаменах и инструментов цифровой дидактики.  
 3.5. Обеспечивает программную реализацию расчета Интегрального GPA ($GPA_{int}$) и индекса исследовательской активности (ROS).  
@@ -51,7 +51,7 @@
 ### 5. ОТВЕТСТВЕННОСТЬ
 
 Начальник Управления цифровизации несет ответственность за:
-5.1. Работоспособность и отказоустойчивость сервисов цифровой платформы Abai Digital, LMS Moodle и интеграционных шлюзов ЕПВО/НОБД.  
+5.1. Работоспособность и отказоустойчивость сервисов цифровой платформы [V_SIS_SYSTEM_NAME], LMS Moodle и интеграционных шлюзов ЕПВО/НОБД.  
 5.2. Срыв сроков регламентной выгрузки данных в государственные сервисы МНВО РК.  
 5.3. Допущение утечек баз данных Университета по причине уязвимостей программного кода.
 
@@ -62,6 +62,6 @@
 Настоящая Должностная инструкция разработана в соответствии с квалификационными справочниками РК и архитектурой TFW v3.4.0:
 1. **Нормативная база:** Закон РК «Об информатизации» (`NPA-048`), Приказы МЦРИАП РК № 395/НҚ и № 396/НҚ (`MDIAI-01`, `MDIAI-02`).
 2. **Связанные внутренние акты:** [`docs/internal_acts/regulations/digitalization_department_regulation.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/regulations/digitalization_department_regulation.md) — Положение об Управлении цифровизации.
-3. **Архитектура платформы:** [`docs/internal_acts/blueprints/abai_digital_platform_architecture.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/blueprints/abai_digital_platform_architecture.md) — Архитектура 22 модулей Abai Digital и LMS Moodle 5.1.
+3. **Архитектура платформы:** [`docs/internal_acts/blueprints/abai_digital_platform_architecture.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/blueprints/abai_digital_platform_architecture.md) — Архитектура 22 модулей [V_SIS_SYSTEM_NAME] и LMS Moodle 5.1.
 4. **СОПы и регламенты:** [`docs/internal_acts/sops_and_rules/sop_epvo_nobd_integration.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_epvo_nobd_integration.md), [`docs/internal_acts/sops_and_rules/sop_personal_data_protection.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_personal_data_protection.md).
 5. **База знаний:** [`KNOWLEDGE.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/KNOWLEDGE.md) — Факты `FACT-007`, `FACT-008`, `FACT-015`, `FACT-016`.

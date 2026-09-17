@@ -1,6 +1,6 @@
-# Abai University Transformation: Проектирование системы внутренних НПА и функций
+# Kazakhstan University Transformation Framework: Проектирование системы внутренних НПА и функций ОВПО РК
 
-Система нормативного и функционального проектирования КазНПУ имени Абая (НАО «Казахский национальный педагогический университет имени Абая») по методологии **Trace-First Workflow (TFW v3.4.0)** на основе Новой регуляторной политики («С чистого листа» / РЧЛ).
+Универсальная система нормативного, функционального и цифрового проектирования для высших учебных заведений (ОВПО) Республики Казахстан по методологии **Trace-First Workflow (TFW v3.4.0)** на основе Новой регуляторной политики («С чистого листа» / РЧЛ).
 
 ---
 
@@ -23,8 +23,8 @@
 
 ---
 
-## ⚖️ База внешних НПА Республики Казахстан (Архитектура РЧЛ: 67 НПА)
-- 📑 [**Сводный реестр внешних НПА РК**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/external_npa_registry.md) (13 Законов и Кодексов, 38 приказов МНВО/МОН, 20 актов МЗ, 9 актов МЧС).
+## ⚖️ База внешних НПА Республики Казахстан (Архитектура РЧЛ + Стратегия и Безопасность: 91 НПА)
+- 📑 [**Сводный реестр внешних НПА РК**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/external_npa_registry.md) (17 Законов и Кодексов, 39 приказов МНВО/МОН, 20 актов МЗ, 9 актов МЧС, 6 актов МЦРИАП, 10 актов МНЭ/МФ).
 - 🎓 [**1. Академический блок и образовательная деятельность**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/01_academic_and_educational_npa.md) (ГОСО № 2, Приказ № 595, Приказ № 391, Кредитная система № 152, Прием № 600, ДО № 137).
 - 🔬 [**2. Наука, инновации и технологическое развитие**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/02_science_and_innovations_npa.md) (Закон о науке 2024 г., коммерциализация, диссоветы № 126, степени PhD № 127, звания № 128, КОКСНВО № 20).
 - 👥 [**3. Кадровый потенциал, ППС и трудовые отношения**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/03_hr_and_faculty_npa.md) (Трудовой кодекс, конкурсный отбор № 230, квалхарактеристики № 338, профстандарт «Педагог» № 374).
@@ -51,6 +51,8 @@
 | **ABAI-8** (`ABAI_20260915-160000_OKR_STRAT`) | Внедрение методологии OKR в стратегические документы (Регламент OKR, Общеуниверситетские OKR 1 уровня, модель Run/Change) | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260915-160000_OKR_STRAT/review/REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260915-160000_OKR_STRAT/review/REVIEW.md) |
 | **ABAI-9** (`ABAI_20260915-163000_KPI_SYSTEMATIZATION`) | Систематизация фонда KPI МНВО РК и Программы развития (239 требований, 65 KPI, 195 разрывов, 406 поручений 2026 г.) | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260915-163000_KPI_SYSTEMATIZATION/review/REVIEW.md`](workspace/ABAI_20260915-163000_KPI_SYSTEMATIZATION/review/REVIEW.md) |
 | **ABAI-10** (`ABAI_20260916-140000_STUD_SOC`) | Нормативная база студенческого блока (Положение о Департаменте, общежития по № 606, СанПиН № 68, Центр карьеры, отработка грантов по № 39, КДМ/Омбудсмен, ДИ) | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260916-140000_STUD_SOC/review/REVIEW.md`](workspace/ABAI_20260916-140000_STUD_SOC/review/REVIEW.md) |
+| **ABAI-11** (`ABAI_20260917-113000_GENERIC_OVPO`) | Универсализация модели ОВПО РК, обезличивание ВНД и сквозная интеграция эталонного профиля ИС в ДИ и Положения | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260917-113000_GENERIC_OVPO/review/REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260917-113000_GENERIC_OVPO/review/REVIEW.md) |
+| **ABAI-12** (`ABAI_20260917-122500_HR_SYSTEM`) | Разработка пакета НПА блока HR (Положение об HR, конкурсный отбор ППС по № 230, 7-классная система и $K_{дос}$ по Приказу № 424, ДИ) | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260917-122500_HR_SYSTEM/review/REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260917-122500_HR_SYSTEM/review/REVIEW.md) |
 
 ---
 
@@ -69,9 +71,11 @@
 ├── .agents/                        # Канонический корень настроек агентов (правила, воркфлоу, скиллы)
 ├── .agent/                         # Обратная совместимость для Antigravity
 ├── docs/                           # Предметная документация и базы данных
-│   ├── regulations/                # Реестр и 7 аналитических модулей НПА РК (67 актов РЧЛ)
+│   ├── generic_framework/         # Универсальный тиражируемый фреймворк ВНД и цифровой профиль ОВПО
+│   ├── regulations/                # Реестр и 9 аналитических модулей НПА РК (91+ актов РЧЛ)
 │   ├── functions_and_powers/       # Каталог функций университета по 10 функциональным доменам
-│   └── internal_acts/              # Разработанные проекты внутренних НПА
+│   ├── internal_acts/              # Разработанные проекты внутренних НПА (Reference Case: Abai University)
+│   └── kpi_and_metrics/            # Фонд KPI МНВО РК, Программы развития и дорожные карты разрывов
 ├── workspace/                      # Артефакты задач жизненного цикла TFW
 ├── AGENTS.md                       # Ролевые протоколы и поведение ИИ-агентов
 ├── KNOWLEDGE.md                    # Сводная база верифицированных знаний проекта
