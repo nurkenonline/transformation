@@ -108,17 +108,35 @@
 
 ---
 
-### 8. ПРИМЕЧАНИЯ И СВЯЗАННЫЕ АРТЕФАКТЫ
+### 8. РЕГЛАМЕНТАЦИЯ ДЕЯТЕЛЬНОСТИ В УНИВЕРСИТЕТСКОЙ ИНФОРМАЦИОННОЙ СИСТЕМЕ («[V_PRIMARY_EDTECH_PLATFORM]»)
+
+8.1. Директорат Института осуществляет оперативное академическое и административное управление контингентом в информационной системе «[V_PRIMARY_EDTECH_PLATFORM]» по следующим модулям:
+- **Модуль «Эдвайзер» (`АД.ТЗ.ADVISER-01`):** координация работы академических эдвайзеров по индивидуальным траекториям обучения студентов, цифровая верификация и утверждение индивидуальных учебных планов (ИУП);
+- **Модуль «Академический процесс»:** сквозной мониторинг посещаемости и текущей успеваемости студентов института в режиме реального времени, контроль соблюдения преподавателями кафедр сроков выставления оценок;
+- **Модуль «Выпускные работы и Антиплагиат» (`АД.ТЗ.GRADUATION-01`):** регистрация и закрепление тем дипломных работ/магистерских диссертаций, назначение научных руководителей и рецензентов, контроль прохождения обязательной проверки на заимствования;
+- **Модуль «Приказы по контингенту»:** электронное инициирование и согласование представлений на перевод, отчисление, предоставление академических отпусков и назначение старост.  
+8.2. Должностным лицам института назначаются роли в системе RBAC: `Dean_Director` (Директор института / Заместители) и `Adviser_Coordinator` (Старший эдвайзер института).  
+8.3. **Регламентные сроки исполнения цифровых процедур (SLA):**
+- Согласование и электронное утверждение индивидуальных учебных планов (ИУП) студентов — не позднее **3 (трех) рабочих дней** после закрытия периода регистрации;
+- Утверждение тем дипломных работ (проектов) и научных руководителей в УИС — не позднее **15 ноября** выпускного курса;
+- Допуск выпускных квалификационных работ к защите в ГАК (проверка наличия положительного протокола модуля «Антиплагиат») — не позднее **5 (пяти) рабочих дней** до даты защиты.  
+8.4. Запрещается требовать от кафедр и студентов предоставления бумажных дубликатов ведомостей, транскриптов и заявлений, если процесс полностью реализован в «[V_PRIMARY_EDTECH_PLATFORM]».  
+8.5. Непринятие мер по систематическим нарушениям дедлайнов выставления оценок преподавателями института влечет дисциплинарную ответственность Директора института в соответствии с Трудовым кодексом РК.
+
+---
+
+### 9. ПРИМЕЧАНИЯ И СВЯЗАННЫЕ АРТЕФАКТЫ
 
 Настоящее Положение разработано и верифицировано в рамках институционального контура трансформации Университета (TFW v3.4.0):
 1. **Внешние нормативные правовые акты (НПА РК):**
    - [`docs/regulations/external_npa_registry.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/external_npa_registry.md) — Закон РК «Об образовании» (`NPA-001`), Приказ МОН РК № 595 (`NPA-003`), Закон РК «О науке и технологической политике» (`NPA-002`).
-2. **Архитектурные и цифровые спецификации платформы [V_SIS_SYSTEM_NAME]:**
-   - [`docs/internal_acts/blueprints/abai_digital_platform_architecture.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/blueprints/abai_digital_platform_architecture.md) — Спецификации модулей «Эдвайзер» (`АД.ТЗ.ADVISER-01`), «Контингент», «Выпускные работы» (`АД.ТЗ.GRADUATION-01`), аналитический контур.
+2. **Архитектурные и цифровые спецификации платформы:**
+   - [`docs/generic_framework/digital/01_university_is_reference_blueprint.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/01_university_is_reference_blueprint.md) — Эталонный профиль УИС (22 модуля).
+   - [`docs/generic_framework/digital/02_digital_to_job_integration_matrix.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/02_digital_to_job_integration_matrix.md) — Матрица интеграции функций ИС в Положения и ДИ.
+   - [`docs/generic_framework/digital/03_sop_digital_governance_and_sla.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/03_sop_digital_governance_and_sla.md) — Регламент цифрового взаимодействия и SLA.
 3. **Операционные регламенты и СОПы:**
    - [`docs/internal_acts/sops_and_rules/sop_individual_curriculum_and_schedule.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_individual_curriculum_and_schedule.md) — СОП администрирования эдвайзерской службы и формирования ИУП.
    - [`docs/internal_acts/sops_and_rules/sop_research_output_score.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_research_output_score.md) — СОП студенческого исследовательского рейтинга ROS.
    - [`docs/internal_acts/sops_and_rules/sop_personal_data_protection.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_personal_data_protection.md) — Регламент защиты персональных данных контингента.
 4. **Контур доказательств и база знаний:**
-   - [`workspace/ABAI_20260914-191500_ACAD/evidence/EV__ACAD.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260914-191500_ACAD/evidence/EV__ACAD.md) — Артефакт верификации Положения об Институте.
-   - [`KNOWLEDGE.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/KNOWLEDGE.md) — Верифицированные факты `FACT-002`, `FACT-014`, `FACT-016`.
+   - [`KNOWLEDGE.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/KNOWLEDGE.md) — Верифицированные факты `FACT-014`, `FACT-016`, `FACT-023`.

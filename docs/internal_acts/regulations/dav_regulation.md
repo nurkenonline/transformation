@@ -113,17 +113,34 @@
 
 ---
 
-### 8. ПРИМЕЧАНИЯ И СВЯЗАННЫЕ АРТЕФАКТЫ
+### 8. РЕГЛАМЕНТАЦИЯ ДЕЯТЕЛЬНОСТИ В УНИВЕРСИТЕТСКОЙ ИНФОРМАЦИОННОЙ СИСТЕМЕ («[V_PRIMARY_EDTECH_PLATFORM]»)
+
+8.1. Департамент по академическим вопросам осуществляет свои функции с обязательным использованием информационной системы Университета («[V_PRIMARY_EDTECH_PLATFORM]») в следующих базовых модулях:
+- **Модуль «Академический процесс» (`АД.ТЗ.ACADEMIC-01`):** ведение цифровых каталогов ОП бакалавриата, магистратуры и докторантуры, каталогов элективных дисциплин (КЭД), рабочих учебных планов (РУП) и привязка пререквизитов/постреквизитов;
+- **Модуль «Силлабусы и УМКД»:** верификация структуры цифровых силлабусов, соответствия дескрипторам результатов обучения Дублинской рамки и критериям оценивания;
+- **Модуль «Интеграция с ЕПВО и НОБД»:** контроль и валидация передаваемых сведений об образовательных программах в государственные реестры МНВО РК;
+- **Модуль «Академический календарь»:** цифровая фиксация дат теоретического обучения, экзаменационных сессий, каникул и практик.  
+8.2. Сотрудникам ДАВ назначаются роли в ролевой модели доступа RBAC: `Academic_Administrator` (Администратор ОП) и `Curriculum_Validator` (Валидатор силлабусов).  
+8.3. **Регламентные сроки исполнения цифровых процедур (SLA):**
+- Загрузка и утверждение каталогов образовательных программ и КЭД на новый учебный год — не позднее чем **за 30 (тридцать) календарных дней** до старта кампании записи на дисциплины;
+- Экспертиза и валидация силлабусов в УИС — не позднее чем **за 5 (пять) рабочих дней** до начала соответствующего академического периода;
+- Цифровая выгрузка актуальных паспортов ОП в шлюз ЕПВО — не позднее **3 рабочих дней** со дня утверждения Ученым советом.  
+8.4. При наличии функционала электронного согласования в «[V_PRIMARY_EDTECH_PLATFORM]» категорически запрещается требование и ведение параллельного бумажного документооборота.  
+8.5. Несвоевременное внесение данных в УИС, повлекшее срыв выборной кампании или искажение сведений в ЕПВО, квалифицируется как неисполнение трудовых обязанностей по ст. 22 Трудового кодекса РК с привлечением виновных лиц к дисциплинарной ответственности по ст. 64 ТК РК.
+
+---
+
+### 9. ПРИМЕЧАНИЯ И СВЯЗАННЫЕ АРТЕФАКТЫ
 
 Настоящее Положение разработано и верифицировано в рамках академического контура трансформации Университета (TFW v3.4.0):
 1. **Внешние нормативные правовые акты (НПА РК):**
    - [`docs/regulations/external_npa_registry.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/external_npa_registry.md) — Закон РК «Об образовании» (`NPA-001`), Приказ МОН РК № 595 (Типовые правила ОВПО, `NPA-003`), Приказ МОН РК № 152 (Кредитная технология ECTS, `NPA-005`), Приказ МНВО РК № 2 (ГОСО ВО и ППО, `NPA-004`).
 2. **Архитектурные и цифровые артефакты платформы [V_SIS_SYSTEM_NAME]:**
-   - [`docs/internal_acts/blueprints/abai_digital_platform_architecture.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/blueprints/abai_digital_platform_architecture.md) — Спецификация модуля «Академический процесс» (`АД.ТЗ.ACADEMIC-01`), каталоги ОП, КЭД и РУП.
-   - [`docs/internal_acts/blueprints/aitu_innovations_for_abai.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/blueprints/aitu_innovations_for_abai.md) — Регламент кодировки курсов и признания микроквалификаций (Micro-credentials).
+   - [`docs/generic_framework/digital/01_university_is_reference_blueprint.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/01_university_is_reference_blueprint.md) — Эталонный профиль УИС (22 модуля).
+   - [`docs/generic_framework/digital/02_digital_to_job_integration_matrix.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/02_digital_to_job_integration_matrix.md) — Матрица интеграции функций ИС в Положения и ДИ.
+   - [`docs/generic_framework/digital/03_sop_digital_governance_and_sla.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/03_sop_digital_governance_and_sla.md) — Регламент цифрового взаимодействия и SLA.
 3. **Операционные регламенты и СОПы:**
    - [`docs/internal_acts/sops_and_rules/sop_individual_curriculum_and_schedule.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_individual_curriculum_and_schedule.md) — СОП формирования рабочих учебных планов и академического расписания.
    - [`docs/internal_acts/sops_and_rules/sop_epvo_nobd_integration.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_epvo_nobd_integration.md) — СОП передачи данных по образовательным программам в ЕПВО.
 4. **Контур доказательств и база знаний:**
-   - [`workspace/ABAI_20260914-191500_ACAD/evidence/EV__ACAD.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260914-191500_ACAD/evidence/EV__ACAD.md) — Артефакт верификации академических нормативных актов.
-   - [`KNOWLEDGE.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/KNOWLEDGE.md) — Верифицированные факты `FACT-002`, `FACT-016`.
+   - [`KNOWLEDGE.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/KNOWLEDGE.md) — Верифицированные факты `FACT-016`, `FACT-023`.

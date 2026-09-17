@@ -117,17 +117,38 @@
 
 ---
 
-### 8. ПРИМЕЧАНИЯ И СВЯЗАННЫЕ АРТЕФАКТЫ
+### 8. РЕГЛАМЕНТАЦИЯ ДЕЯТЕЛЬНОСТИ В УНИВЕРСИТЕТСКОЙ ИНФОРМАЦИОННОЙ СИСТЕМЕ («[V_PRIMARY_EDTECH_PLATFORM]»)
+
+8.1. Офис регистратора является главным операционным администратором данных учебного процесса в информационной системе «[V_PRIMARY_EDTECH_PLATFORM]» по следующим модулям:
+- **Модуль «Офис регистратора»:** ведение электронных личных дел студентов, фиксация индивидуальных учебных планов (ИУП), расчет семестрового и кумулятивного GPA, расчет академических рейтингов, формирование транскриптов с цифровой подписью;
+- **Модуль «Приказы по контингенту»:** автоматизированная подготовка, маршрутизация и учет приказов о зачислении, переводе, выходе из академического отпуска, отчислении, назначении стипендий и выпуске;
+- **Модуль «Экзаменационные ведомости»:** мониторинг своевременности закрытия электронных ведомостей преподавателями, автоматическое блокирование доступа к редактированию по истечении контрольного срока, администрирование ведомостей пересдач и ликвидации академических задолженностей (FX, F);
+- **Модуль «Дипломы с QR-кодом»:** защищенная генерация номеров дипломов, формирование электронных приложений (Diploma Supplement по стандарту ECTS) с QR-кодом для валидации через eGov/ЕПВО;
+- **Интеграционный шлюз «ЕПВО / НОБД»:** регулярная верификация и пакетная синхронизация академических данных и контингента студентов с государственными системами МНВО РК.  
+8.2. Сотрудникам ОР присваиваются роли в ролевой модели RBAC: `Registrar_SuperAdmin` (Руководитель ОР) и `Registrar_Operator` (Специалисты ОР).  
+8.3. **Регламентные сроки исполнения цифровых процедур (SLA):**
+- Регистрация и проведение приказов по движению контингента обучающихся в УИС — **день-в-день** с момента подписания акта [V_CHANCELLOR_TITLE];
+- Автоматическая блокировка возможности внесения оценок в экзаменационную ведомость преподавателем — ровно через **24 часа** после завершения экзамена;
+- Выдача электронного транскрипта в личный кабинет студента — в течение **24 часов** с момента подачи цифрового запроса;
+- Формирование и выгрузка реестра дипломов с QR-кодами в государственную систему ЕПВО — не позднее **5 (пяти) рабочих дней** со дня утверждения протокола Государственной аттестационной комиссии (ГАК).  
+8.4. **Запрет несанкционированного изменения академических записей:**
+- Любые изменения в закрытых экзаменационных ведомостях допускаются исключительно на основании решения Апелляционной комиссии либо приказа [V_CHANCELLOR_TITLE] с обязательным визированием Комплаенс-офицера и фиксацией цифрового следа (Audit Trail) в системном журнале БД.  
+8.5. Несвоевременное внесение данных о движении контингента или фальсификация академических записей в УИС влечет привлечение виновных работников ОР к строгой дисциплинарной ответственности по ст. 22, 23, 52 ТК РК и передачу материалов в правоохранительные органы.
+
+---
+
+### 9. ПРИМЕЧАНИЯ И СВЯЗАННЫЕ АРТЕФАКТЫ
 
 Настоящее Положение разработано и верифицировано в рамках академического контура трансформации Университета (TFW v3.4.0):
 1. **Внешние нормативные правовые акты (НПА РК):**
    - [`docs/regulations/external_npa_registry.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/external_npa_registry.md) — Приказ МОН РК № 595 (Типовые правила ОВПО, `NPA-003`), Приказ МОН РК № 39 (Формы документов об образовании с QR-кодами, `NPA-007`), Приказ МОН РК № 152 (Кредитная технология ECTS, `NPA-005`), Закон РК «О персональных данных и их защите» (`NPA-049`).
-2. **Архитектурные и цифровые спецификации платформы [V_SIS_SYSTEM_NAME]:**
-   - [`docs/internal_acts/blueprints/abai_digital_platform_architecture.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/blueprints/abai_digital_platform_architecture.md) — Спецификации модулей «Группы студентов» (`STUDENT_GROUPS-01`), «Назначение ППС» (`STAFF_ASSIGN-01`), «Итоговая аттестация» (`FINAL_ATTEST-01`), «Пересдачи» (`RETAKE-01`), «Транскрипты» (`TRANSCRIPT-01`), «Дипломы» (`DIPLOMA-01`).
+2. **Архитектурные и цифровые спецификации платформы:**
+   - [`docs/generic_framework/digital/01_university_is_reference_blueprint.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/01_university_is_reference_blueprint.md) — Эталонный профиль УИС (22 модуля).
+   - [`docs/generic_framework/digital/02_digital_to_job_integration_matrix.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/02_digital_to_job_integration_matrix.md) — Матрица интеграции функций ИС в Положения и ДИ.
+   - [`docs/generic_framework/digital/03_sop_digital_governance_and_sla.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/03_sop_digital_governance_and_sla.md) — Регламент цифрового взаимодействия и SLA.
 3. **Операционные регламенты и СОПы:**
    - [`docs/internal_acts/sops_and_rules/sop_individual_curriculum_and_schedule.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_individual_curriculum_and_schedule.md) — СОП формирования академического расписания и записи на курсы.
    - [`docs/internal_acts/sops_and_rules/sop_epvo_nobd_integration.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_epvo_nobd_integration.md) — СОП интеграции данных контингента и дипломов с ЕПВО/НОБД.
    - [`docs/internal_acts/sops_and_rules/sop_personal_data_protection.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_personal_data_protection.md) — Регламент защиты персональных данных обучающихся.
 4. **Контур доказательств и база знаний:**
-   - [`workspace/ABAI_20260914-191500_ACAD/evidence/EV__ACAD.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260914-191500_ACAD/evidence/EV__ACAD.md) — Артефакт доказательств регламентов Офиса регистратора.
-   - [`KNOWLEDGE.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/KNOWLEDGE.md) — Верифицированные факты `FACT-002`, `FACT-014`, `FACT-016`.
+   - [`KNOWLEDGE.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/KNOWLEDGE.md) — Верифицированные факты `FACT-014`, `FACT-016`, `FACT-023`.

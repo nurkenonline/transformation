@@ -23,8 +23,8 @@
 
 ---
 
-## ⚖️ База внешних НПА Республики Казахстан (Архитектура РЧЛ + Стратегия и Безопасность: 91 НПА)
-- 📑 [**Сводный реестр внешних НПА РК**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/external_npa_registry.md) (17 Законов и Кодексов, 39 приказов МНВО/МОН, 20 актов МЗ, 9 актов МЧС, 6 актов МЦРИАП, 10 актов МНЭ/МФ).
+## ⚖️ База внешних НПА Республики Казахстан (Архитектура РЧЛ + Стратегия, Безопасность, Архивы и Медиа: 101 НПА)
+- 📑 [**Сводный реестр внешних НПА РК**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/external_npa_registry.md) (21 Закон и Кодекс, 39 приказов МНВО/МОН, 20 актов МЗ, 9 актов МЧС, 6 актов МЦРИАП, 10 актов МНЭ/МФ, 6 актов МКИ РК).
 - 🎓 [**1. Академический блок и образовательная деятельность**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/01_academic_and_educational_npa.md) (ГОСО № 2, Приказ № 595, Приказ № 391, Кредитная система № 152, Прием № 600, ДО № 137).
 - 🔬 [**2. Наука, инновации и технологическое развитие**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/02_science_and_innovations_npa.md) (Закон о науке 2024 г., коммерциализация, диссоветы № 126, степени PhD № 127, звания № 128, КОКСНВО № 20).
 - 👥 [**3. Кадровый потенциал, ППС и трудовые отношения**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/03_hr_and_faculty_npa.md) (Трудовой кодекс, конкурсный отбор № 230, квалхарактеристики № 338, профстандарт «Педагог» № 374).
@@ -32,13 +32,16 @@
 - 🏢 [**5. Корпоративное управление, финансы, комплаенс и оценка рисков**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/05_governance_finance_compliance_npa.md) (Приказ № 166/116 — риски ОВПО по 10 направлениям, НАО, антикоррупция, госзакупки 2024 г., персданные).
 - 🏥 [**6. Здравоохранение и санитарно-эпидемиологический контроль (20 НПА МЗ РК)**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/06_healthcare_and_sanitary_npa.md) (СанПиН № ҚР ДСМ-76, медосмотры № 131/927, медпункт вуза, СанПиН общежитий № 68, утилизация отходов, производственный контроль).
 - 🚒 [**7. Пожарная безопасность, ГО и защита при ЧС (9 НПА МЧС РК)**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/07_fire_and_emergency_safety_npa.md) (Закон о гражданской защите, Правила ПБ № 55, Техрегламент № 405, обучение ПТМ № 280, гражданская оборона № 268, бомбоубежища № 368, промбезопасность).
+- 💻 [**8. Цифровизация, информационная безопасность и ИИ (6 НПА МЦРИАП РК)**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/08_digitalization_infosec_ai_npa.md) (ПДн № 395/НҚ, ЕТИКТ и ИБ № 832, Smart Bridge № 143/НҚ, аттестация ИС № 153/НҚ, ИИ № 604).
+- 📈 [**9. Стратегическое планирование и корпоративное управление (10 НПА МНЭ и МФ РК)**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/09_strategic_planning_and_governance_npa.md) (Планы развития НАО № 56, Кодекс корп. управления № 178, бухучет № 241, МСФО № 110, госаудит № 598).
+- 🏛️ [**10. Культура, архивное дело, библиотечные фонды и масс-медиа (10 НПА МКИ РК)**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/10_culture_archives_and_media_npa.md) (Закон об архивах № 326-I, Закон о культуре № 207-III, Закон о масс-медиа № 94-VIII от 19.06.2024, Закон о памятниках № 288-VI, Правила СЭД № 236, **Перечень со сроками хранения — 75 лет личные дела студентов № 566-НҚ**, архивы № 134, библиотеки № 153, музеи № 95, учет СМИ № 368-НҚ).
 
 ---
 
 ## 📋 Доска задач (Task Board)
 
 | ID | Задача | Статус | Фаза TFW | Исполнитель | Ссылка на артефакты |
-| :--- | :--- | :---: | :---: | :--- | :--- |
+| :--- | :--- | :--- | :---: | :--- | :--- |
 | **ABAI-1** (`ABAI_20260914-190000_REG_BASE`) | Формирование реестра внешних НПА РК (67 актов РЧЛ) и первичная декомпозиция функций ОВПО | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260914-190000_REG_BASE/review/REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260914-190000_REG_BASE/review/REVIEW.md) |
 | **ABAI_20260914-190500_AITU** | Бенчмаркинг ВНД Astana IT University на соответствие РЧЛ и выявление уникальных функций | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_.../review/REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260914-190500_AITU/review/REVIEW.md) |
 | **ABAI_20260914-191500_ACAD** | Разработка пакета НПА академического блока (ДАВ, Офис регистратора, институты, кафедры, ДИ, ликвидация DEBT-001) | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_.../review/REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260914-191500_ACAD/review/REVIEW.md) |
@@ -53,6 +56,8 @@
 | **ABAI-10** (`ABAI_20260916-140000_STUD_SOC`) | Нормативная база студенческого блока (Положение о Департаменте, общежития по № 606, СанПиН № 68, Центр карьеры, отработка грантов по № 39, КДМ/Омбудсмен, ДИ) | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260916-140000_STUD_SOC/review/REVIEW.md`](workspace/ABAI_20260916-140000_STUD_SOC/review/REVIEW.md) |
 | **ABAI-11** (`ABAI_20260917-113000_GENERIC_OVPO`) | Универсализация модели ОВПО РК, обезличивание ВНД и сквозная интеграция эталонного профиля ИС в ДИ и Положения | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260917-113000_GENERIC_OVPO/review/REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260917-113000_GENERIC_OVPO/review/REVIEW.md) |
 | **ABAI-12** (`ABAI_20260917-122500_HR_SYSTEM`) | Разработка пакета НПА блока HR (Положение об HR, конкурсный отбор ППС по № 230, 7-классная система и $K_{дос}$ по Приказу № 424, ДИ) | 🟢 Выполнено | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260917-122500_HR_SYSTEM/review/REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260917-122500_HR_SYSTEM/review/REVIEW.md) |
+| **ABAI-13** (`ABAI_20260917-123500_IS_RETROFIT`) | Сквозная интеграция требований УИС, регламентных сроков (SLA) и ответственности по ТК РК во внутренние акты (Фазы A, B, C: Академический, студенческий, научный, комплаенс, стратегия, ИТ, инфраструктура, безопасность, карьера — 34 акта) | 🟢 Выполнено (Фазы A, B, C — 34 акта) | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260917-123500_IS_RETROFIT/review/REVIEW_PHASE_C.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260917-123500_IS_RETROFIT/review/REVIEW_PHASE_C.md) |
+| **ABAI-14** (`ABAI_20260917-174500_CULTURE_NPA`) | Разработка модуля внешних НПА сферы культуры, архивов, библиотечного дела и масс-медиа (МКИ РК) | 🟢 Выполнено (Фаза A: Модуль 10, Реестр 101 НПА) | `REV` / `DONE` | Coordinator / Reviewer | [`workspace/ABAI_20260917-174500_CULTURE_NPA/review/REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260917-174500_CULTURE_NPA/review/REVIEW.md) |
 
 ---
 

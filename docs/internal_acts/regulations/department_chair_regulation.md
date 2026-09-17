@@ -111,16 +111,35 @@
 
 ---
 
-### 8. ПРИМЕЧАНИЯ И СВЯЗАННЫЕ АРТЕФАКТЫ
+### 8. РЕГЛАМЕНТАЦИЯ ДЕЯТЕЛЬНОСТИ В УНИВЕРСИТЕТСКОЙ ИНФОРМАЦИОННОЙ СИСТЕМЕ («[V_PRIMARY_EDTECH_PLATFORM]»)
+
+8.1. Кафедра осуществляет оперативное планирование и управление учебным процессом в информационной системе «[V_PRIMARY_EDTECH_PLATFORM]» по следующим закрепленным модулям:
+- **Модуль «Распределение учебной нагрузки ППС»:** цифровой расчет ставок, распределение лекционных, семинарских, лабораторных часов и практик между преподавателями кафедры в соответствии с нормами нагрузки;
+- **Модуль «Силлабусы и УМКД»:** проверка полноты размещения учебно-методических комплексов, графика СРО/СРСП и критериев балльно-рейтингового оценивания;
+- **Модуль «Академический процесс и электронный журнал»:** сквозной мониторинг ежедневного ведения занятий, своевременности фиксации посещаемости и текущих баллов;
+- **Модуль «Экзаменационные ведомости»:** мониторинг подписания электронных ведомостей экзаменаторами кафедры и соблюдения лимита времени на закрытие ведомостей;
+- **Модуль «Выпускные работы и Антиплагиат»:** проверка закрепления студентов за научными руководителями кафедры и контроль прохождения антиплагиат-фильтра.  
+8.2. Заведующему кафедрой присваивается роль в модели RBAC: `Department_Chair` (Руководитель кафедры).  
+8.3. **Регламентные сроки исполнения цифровых процедур (SLA):**
+- Формирование и утверждение распределения педагогической нагрузки в УИС — не позднее **25 августа** (на осенний семестр) и **15 января** (на весенний семестр);
+- Проверка размещения утвержденных силлабусов преподавателями кафедры — не позднее чем **за 10 (десять) календарных дней** до начала семестра;
+- Контроль закрытия экзаменационных ведомостей преподавателями кафедры — в течение **24 часов** с момента окончания экзамена;
+- Контроль 100% проверки курсовых и дипломных работ кафедры на плагиат — не позднее чем **за 10 календарных дней** до защиты.  
+8.4. Заведующий кафедрой несет персональную дисциплинарную ответственность в соответствии с Трудовым кодексом РК за сокрытие фактов задержки выставления оценок, передачу учетных записей преподавателей лаборантам и необеспечение контроля академической честности.
+
+---
+
+### 9. ПРИМЕЧАНИЯ И СВЯЗАННЫЕ АРТЕФАКТЫ
 
 Настоящее Положение разработано и верифицировано в рамках академического контура трансформации Университета (TFW v3.4.0):
 1. **Внешние нормативные правовые акты (НПА РК):**
    - [`docs/regulations/external_npa_registry.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/external_npa_registry.md) — Закон РК «Об образовании» (`NPA-001`), Приказ МОН РК № 595 (`NPA-003`), Приказ МОН РК № 338 (Типовые квалификационные характеристики педагогических работников, `NPA-018`).
-2. **Архитектурные и цифровые спецификации платформы [V_SIS_SYSTEM_NAME] / LMS Moodle:**
-   - [`docs/internal_acts/blueprints/abai_digital_platform_architecture.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/blueprints/abai_digital_platform_architecture.md) — Спецификации модуля «ППС» (`АД.ТЗ.PPS-01`), модуля «LMS Moodle 5.1» (`АД.Тઝ.MOODLE-01`), модуля «Выпускные работы» (`АД.ТЗ.GRADUATION-01`).
+2. **Архитектурные и цифровые спецификации платформы:**
+   - [`docs/generic_framework/digital/01_university_is_reference_blueprint.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/01_university_is_reference_blueprint.md) — Эталонный профиль УИС (22 модуля).
+   - [`docs/generic_framework/digital/02_digital_to_job_integration_matrix.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/02_digital_to_job_integration_matrix.md) — Матрица интеграции функций ИС в Положения и ДИ.
+   - [`docs/generic_framework/digital/03_sop_digital_governance_and_sla.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/03_sop_digital_governance_and_sla.md) — Регламент цифрового взаимодействия и SLA.
 3. **Операционные регламенты и СОПы:**
-   - [`docs/internal_acts/sops_and_rules/sop_online_courses_quality_standard.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_online_courses_quality_standard.md) — Стандарт сертификации и оценки качества онлайн-курсов в LMS Moodle.
+   - [`docs/internal_acts/sops_and_rules/sop_online_courses_quality_standard.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_online_courses_quality_standard.md) — Стандарт сертификации и оценки качества онлайн-курсов в LMS.
    - [`docs/internal_acts/sops_and_rules/sop_mvp_and_internal_grants.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/internal_acts/sops_and_rules/sop_mvp_and_internal_grants.md) — Положение о создании прикладных продуктов (MVP) в НИР преподавателей.
 4. **Контур доказательств и база знаний:**
-   - [`workspace/ABAI_20260914-191500_ACAD/evidence/EV__ACAD.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260914-191500_ACAD/evidence/EV__ACAD.md) — Артефакт доказательств положений кафедр.
-   - [`KNOWLEDGE.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/KNOWLEDGE.md) — Верифицированные факты `FACT-002`, `FACT-014`, `FACT-016`.
+   - [`KNOWLEDGE.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/KNOWLEDGE.md) — Верифицированные факты `FACT-014`, `FACT-016`, `FACT-023`.

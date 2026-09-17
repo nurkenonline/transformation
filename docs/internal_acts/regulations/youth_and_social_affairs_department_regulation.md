@@ -83,9 +83,25 @@
 
 ---
 
-## 6. Примечания и связанные артефакты
+## 6. Регламентация деятельности в университетской информационной системе («[V_PRIMARY_EDTECH_PLATFORM]»)
+
+6.1. Департамент по молодежной политике использует цифровую платформу «[V_PRIMARY_EDTECH_PLATFORM]» по следующим направлениям:
+- **Модуль «Студент и молодежные инициативы»:** учет активности членов органов студенческого самоуправления, волонтерских клубов и спортивных секций, фиксация внеучебных достижений для портфолио выпускника;
+- **Модуль «Общежития»:** участие уполномоченных сотрудников в работе комиссии по распределению мест, верификация льготных категорий студентов (сироты, ОБПР, лица с инвалидностью) по базам eGov/Smart Bridge;
+- **Модуль «Психологическая поддержка»:** защищенный контур онлайн-записи к университетским психологам с шифрованием персональных данных и сохранением тайны обращений.  
+6.2. Должностным лицам департамента назначаются роли в системе RBAC: `Youth_Affairs_Admin` и `Dormitory_Commission_Member`.  
+6.3. **Регламентные сроки (SLA):**
+- Рассмотрение электронных заявлений студентов на получение мер адресной социальной поддержки и льгот — в течение **48 часов** с момента подачи в личном кабинете;
+- Формирование ведомостей внеучебной активности обучающихся — не позднее **5 (пяти) календарных дней** после окончания каждого семестра.  
+6.4. Разглашение сведений о социальном статусе студентов или материалах психологических консультаций влечет ответственность по ст. 79 КоАП РК и увольнение по ст. 52 ТК РК.
+
+---
+
+## 7. Примечания и связанные артефакты
 - **Закон РК «Об образовании»:** [adilet.zan.kz/rus/docs/Z070000319_](https://adilet.zan.kz/rus/docs/Z070000319_) (ст. 47 «Права, обязанности и ответственность обучающихся»).
 - **Закон РК «О государственной молодежной политике»:** [adilet.zan.kz/rus/docs/Z1500000285](https://adilet.zan.kz/rus/docs/Z1500000285).
 - **Сводный реестр внешних НПА РК:** [`docs/regulations/external_npa_registry.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/external_npa_registry.md) (раздел 4).
+- **Архитектурные и цифровые спецификации платформы:**
+  - [`docs/generic_framework/digital/01_university_is_reference_blueprint.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/01_university_is_reference_blueprint.md) — Модуль «Общежития» и «Студент».
+  - [`docs/generic_framework/digital/02_digital_to_job_integration_matrix.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/generic_framework/digital/02_digital_to_job_integration_matrix.md) — Матрица интеграции функций ИС в Положения и ДИ.
 - **Каталог функций Университета:** [`docs/functions_and_powers/03_student_affairs.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/functions_and_powers/03_student_affairs.md).
-- **Протокол доказательств TFW:** [`workspace/ABAI_20260916-140000_STUD_SOC/evidence/EV__STUD_SOC.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260916-140000_STUD_SOC/evidence/EV__STUD_SOC.md).
