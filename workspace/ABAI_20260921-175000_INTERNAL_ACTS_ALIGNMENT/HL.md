@@ -4,7 +4,9 @@
 > **Author**: Coordinator / Regulatory Architecture Lead  
 > **Title**: Сквозная синхронизация и гармонизация Положений, ДИ и СОП Университета с расширенным Каталогом функций доменов и 11 Специальными отраслевыми стандартами РК  
 > **Abbreviation**: INTERNAL_ACTS_ALIGNMENT  
-> **Status**: 🟢 HL_APPROVED  
+> **Status**: 🟢 ALL_PHASES_COMPLETE (DONE)  
+> **Phase A Status**: 🟢 DONE (6 files aligned)  
+> **Phase B Status**: 🟢 DONE (7 files aligned)  
 > **Contract**: 🔒 FROZEN — approved by owner 2026-09-21  
 > **Frozen**: §1 · §3 · §4 · §5 · §6 · §7 — locked on owner approval  
 > **Free**: §2 · §7.2 · §8 · §9 · §10 · §11 — research updates these directly  
