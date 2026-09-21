@@ -23,8 +23,23 @@
 
 ---
 
-### 3. Специальные отраслевые нормативные стандарты
-- [`rk_ovpo_model_rules.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_ovpo_model_rules.md) — Типовые правила деятельности ОВПО (Приказ МОН РК № 595).
-- [`rk_qualification_requirements.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_qualification_requirements.md) — Квалификационные требования к ОВПО (Приказ МОН РК № 391).
-- [`rk_science_and_tech_policy.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_science_and_tech_policy.md) — Закон РК «О науке и технологической политике».
-- [`rk_law_on_education.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_law_on_education.md) — Закон РК «Об образовании».
+### 3. Специальные отраслевые нормативные стандарты (10 стандартов)
+
+Фундаментальный контур стандартизированных нормативов, формул, порогов и регламентов прямого действия:
+
+| Код стандарта | Документ | Нормативное основание РК | Ключевой регуляторный фокус |
+|:---:|---|---|---|
+| `STD-RK-GOSO-001` | [**`rk_goso_standard.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_goso_standard.md) | Приказ МНВО РК № 2 | Циклы 240/120/180 ECTS, пропорции контакт/СРО (1:2, 1:3, 1:5), Minor (20–30 ECTS), Microcredentials |
+| `STD-RK-CREDIT-001` | [**`rk_credit_technology_rules.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_credit_technology_rules.md) | Приказ МОН РК № 152 | 1 ECTS = 30 ч, буквенная шкала и GPA, правила пересдач FX/F, регламент Летнего семестра |
+| `STD-RK-SUR-001` | [**`rk_sur_risk_assessment_standard.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_sur_risk_assessment_standard.md) | Приказ МНВО № 166 / МНЭ № 116 | Система управления рисками КОКСНВО, 10 направлений проверки, критерии высокой зоны ($\ge 60$ баллов) |
+| `STD-RK-QUAL-001` | [**`rk_qualification_requirements.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_qualification_requirements.md) | Приказ МОН РК № 391 | Остепененность 45–50%/60%/100%, учебные площади $\ge 6\text{ м}^2$, книгообеспеченность, трудоустройство $\ge 50\%$ |
+| `STD-RK-OVPO-001` | [**`rk_ovpo_model_rules.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_ovpo_model_rules.md) | Приказ МОН РК № 595 | Ученый совет, кворум 2/3, комитеты по обеспечению качества (QA), академическая автономия |
+| `STD-RK-DEGREE-001` | [**`rk_academic_degrees_and_titles.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_academic_degrees_and_titles.md) | Приказы МНВО № 126, 127, 128 | Публикации Scopus Q1–Q3/WoS, CiteScore, 3 статьи Q1 для PhD, антиплагиат $\ge 80\%$, звания доцента/профессора |
+| `STD-RK-PEDAGOGUE-001` | [**`rk_pedagogue_professional_standard.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_pedagogue_professional_standard.md) | Приказ Минпросв./МНВО № 374 | Дескрипторы квалификационных уровней 6–8 НРК/ОРК, кластеры компетенций, НПР не реже 1 раза в 3 года |
+| `STD-RK-ESG-001` | [**`rk_esg_quality_assurance_standards.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_esg_quality_assurance_standards.md) | ESG 2015 Part 1 / НААР / НКАОКО | 10 стандартов ВСОКО, цикл PDCA, студентоцентрированное обучение, аккредитация 1 раз в 5 лет |
+| `STD-RK-SCI-001` | [**`rk_science_and_tech_policy.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_science_and_tech_policy.md) | Закон РК № 103-VIII, Приказ № 538 | Шкала TRL 1–9, финансирование ГФ/ПЦФ, роялти авторам $\ge 30\%$, научные закупки без общих тендеров |
+| `STD-RK-LAW-001` | [**`rk_law_on_education.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_law_on_education.md) | Закон РК «Об образовании» № 319-III | Академическая автономия ст. 43-1, 3-летняя отработка грантов ст. 47, доплаты за степени ст. 52 |
+
+---
+
+*Реестр актуализирован в рамках задач трансформации ОВПО ABAI-19 / ABAI-20.*
