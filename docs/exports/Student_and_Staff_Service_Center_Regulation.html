@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>НАО «КазНПУ имени Абая» — Сводная нормативно-функциональная система</title>
+    <style>
+@page {
+    size: A4;
+    margin: 16mm 12mm 16mm 12mm;
+    @bottom-right {
+        content: counter(page) " / " counter(pages);
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 8pt;
+        color: #64748b;
+    }
+    @bottom-left {
+        content: "НАО «КазНПУ имени Абая» — Регуляторная политика и каталог функций";
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 8pt;
+        color: #64748b;
+    }
+}
+* { box-sizing: border-box; }
+body {
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+    color: #1e293b;
+    line-height: 1.5;
+    font-size: 9pt;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+.page-break {
+    page-break-after: always;
+}
+h1 {
+    font-size: 17pt;
+    font-weight: 800;
+    color: #0f2b5c;
+    border-bottom: 2.5px solid #1e40af;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    page-break-before: auto;
+    page-break-after: avoid;
+}
+h2 {
+    font-size: 12.5pt;
+    font-weight: 700;
+    color: #1e3a8a;
+    border-bottom: 1.5px solid #cbd5e1;
+    padding-bottom: 4px;
+    margin-top: 18px;
+    margin-bottom: 8px;
+    page-break-after: avoid;
+}
+h3 {
+    font-size: 10.5pt;
+    font-weight: 600;
+    color: #1e293b;
+    margin-top: 14px;
+    margin-bottom: 6px;
+    page-break-after: avoid;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 8px;
+    text-align: justify;
+}
+a {
+    color: #1d4ed8;
+    text-decoration: underline;
+    font-weight: 500;
+}
+a:hover {
+    color: #0c4a6e;
+}
+blockquote {
+    margin: 10px 0;
+    padding: 8px 14px;
+    background-color: #eff6ff;
+    border-left: 4px solid #2563eb;
+    color: #1e3a8a;
+    font-size: 8.8pt;
+    border-radius: 0 5px 5px 0;
+    page-break-inside: avoid;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+    font-size: 8pt;
+    page-break-inside: auto;
+}
+tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+}
+th, td {
+    border: 1px solid #cbd5e1;
+    padding: 5px 7px;
+    vertical-align: top;
+}
+th {
+    background-color: #1e3a8a;
+    color: #ffffff;
+    font-weight: 600;
+    text-align: left;
+}
+tr:nth-child(even) { background-color: #f8fafc; }
+code {
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 8pt;
+    background-color: #f1f5f9;
+    color: #0f172a;
+    padding: 1px 4px;
+    border-radius: 3px;
+    border: 1px solid #e2e8f0;
+}
+pre {
+    background-color: #ffffff;
+    color: #0f172a;
+    border: 1px solid #94a3b8;
+    border-left: 4px solid #1e3a8a;
+    padding: 10px 14px;
+    border-radius: 4px;
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 7.8pt;
+    line-height: 1.35;
+    page-break-inside: avoid;
+    margin: 10px 0;
+}
+pre code { background-color: transparent; color: inherit; padding: 0; border: none; }
+@media print {
+    pre {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        border: 1px solid #64748b !important;
+        border-left: 4px solid #1e3a8a !important;
+    }
+}
+ul, ol { margin-top: 0; margin-bottom: 8px; padding-left: 18px; }
+li { margin-bottom: 2px; }
+hr { border: none; border-top: 1px solid #e2e8f0; margin: 15px 0; }
+</style>
+</head>
+<body>
+<h1 id="_1">ПОЛОЖЕНИЕ О ЦЕНТРЕ ОБСЛУЖИВАНИЯ СТУДЕНТОВ И СОТРУДНИКОВ (ЕДИНОМ СЕРВИСНОМ ЦЕНТРЕ)</h1>
+<h2 id="v_legal_form-v_university_full_name">[V_LEGAL_FORM] «[V_UNIVERSITY_FULL_NAME]»</h2>
+<blockquote>
+<p><strong>Идентификатор акта:</strong> <code>REG-CSS-001</code><br />
+<strong>Версия:</strong> 1.0<br />
+<strong>Орган утверждения:</strong> Правление [V_LEGAL_FORM] «[V_UNIVERSITY_FULL_NAME]»<br />
+<strong>Курирующий руководитель:</strong> Проректор по цифровизации и трансформации<br />
+<strong>Дата введения:</strong> 2026 год  </p>
+</blockquote>
+<hr />
+<h3 id="1">1. ОБЩИЕ ПОЛОЖЕНИЯ</h3>
+<p>1.1. Центр обслуживания студентов и сотрудников (далее — ЦОСиС / Центр) является самостоятельным структурным подразделением [V_LEGAL_FORM] «[V_UNIVERSITY_FULL_NAME]» (далее — Университет), функционирующим по принципу <strong>«Единого окна» (One-Stop Shop)</strong> и выступающим единой точкой контакта (<strong>Single Point of Contact — SPOC</strong>) по всем административным, академическим, кадровым и информационно-технологическим сервисам Университета.<br />
+1.2. В своей деятельности Центр руководствуется Конституцией Республики Казахстан, Законами РК «Об образовании», «Об информатизации», «О персональных данных и их защите», «О миграции населения», Трудовым кодексом РК, Уставом Университета, международными стандартами сервисного менеджмента <strong>ITIL v4</strong> и <strong>СТ РК ISO/IEC 20000-1-2019</strong>, а также настоящим Положением.<br />
+1.3. Центр осуществляет непосредственное взаимодействие со всеми структурными подразделениями Университета, выполняя роль <strong>Фронт-офиса (Front-Office)</strong> в дуальной сервисной модели Университета, где предметные департаменты (ДАВ, Офис регистратора, HR, Бухгалтерия, ДМСиИ, УИТ, Управление цифровизации) выступают специализированными <strong>Бэк-офисами (Back-Office)</strong>.</p>
+<hr />
+<h3 id="2">2. МИССИЯ, ЦЕЛИ И ПРИНЦИПЫ ДЕЯТЕЛЬНОСТИ</h3>
+<p>2.1. <strong>Миссия Центра</strong> — обеспечение высокого качества университетской жизни и труда обучающихся, преподавателей и сотрудников через предоставление быстрых, прозрачных, цифровизированных и дружелюбных сервисов в комфортной безбарьерной среде.<br />
+2.2. <strong>Основные цели Центра:</strong><br />
+* Ликвидация бюрократических барьеров и исключение хождения обучающихся и работников по кабинетам различных служб;<br />
+* Внедрение и развитие профессиональной службы <strong>IT Service Desk первой линии (L1)</strong> по методологии ITIL v4 для оперативного решения проблем с доступом к УИС, Microsoft 365, Microsoft Entra ID и сетевым сервисам;<br />
+* Обеспечение безупречного миграционного и адаптационного сервиса для иностранных обучающихся в рамках окна <em>International Student Desk</em> во взаимодействии с миграционными органами;<br />
+* Формирование прозрачной цифровой среды обслуживания на основе электронного документооборота, электронной очереди и омниканального контакт-центра.<br />
+2.3. <strong>Базовые принципы функционирования:</strong><br />
+* <strong>Клиентоориентированность и эмпатия:</strong> уважение к запросам каждого студента, преподавателя и сотрудника;<br />
+* <strong>Принцип первого контакта (First Contact Resolution — FCR):</strong> не менее 70% типовых обращений должны разрешаться оператором Центра при первичном контакте;<br />
+* <strong>Омниканальность:</strong> возможность получения сервиса через очные окна Центра, веб-портал самообслуживания, мобильное приложение, корпоративный чат-бот, email и телефонную линию;<br />
+* <strong>Персональная безопасность данных:</strong> неукоснительное соблюдение законодательства о защите персональных данных при идентификации и выдаче документов.</p>
+<hr />
+<h3 id="3">3. ОРГАНИЗАЦИОННАЯ СТРУКТУРА ЦЕНТРА</h3>
+<p>3.1. Структура и штатная численность Центра утверждаются Председателем Правления – Ректором Университета.<br />
+3.2. Центр возглавляет Руководитель, назначаемый и освобождаемый от должности приказом Председателя Правления – Ректора по представлению курирующего Проректора.<br />
+3.3. В организационную структуру Центра входят следующие профильные секторы (рабочие зоны):<br />
+* <strong>Сектор академических сервисов для студентов:</strong> выдача справок, транскриптов, оформление дубликатов, прием заявлений на академический отпуск, перевод, восстановление, оформление обходных листов и заселение в общежития;<br />
+* <strong>Сектор международного фронт-офиса («International Student Desk»):</strong> очный прием иностранных граждан, первичная проверка штампов КПП в паспорте, сканирование документов в АИС (SLA ≤ 2 ч) для передачи в бэк-офис ДМСиИ, проверка комплектности визовых пакетов C9, выдача Маршрутных листов адаптации;<br />
+* <strong>Сектор обслуживания сотрудников (ППС и АУП):</strong> выдача кадровых справок с места работы, справок о заработной плате и пенсионных отчислениях, первичное цифровое фотографирование и биометрическая регистрация профиля лица в СКУД (Face ID), прием заявлений на социальную поддержку;<br />
+* <strong>Сектор информационно-технологической поддержки (IT Service Desk L1):</strong> очная и дистанционная техническая поддержка пользователей УИС «[V_SIS_SYSTEM_NAME]» (Abai Digital), администрирование базовых доступов в <strong>Microsoft Entra ID (Azure AD)</strong>, верифицированный сброс паролей, перевыпуск многофакторной аутентификации (MFA), настройка сервисов Microsoft 365 (Teams, Outlook, OneDrive), подключение к защищенным сетям Wi-Fi (Eduroam / Abai-Secure).</p>
+<hr />
+<h3 id="4">4. ОСНОВНЫЕ ЗАДАЧИ И ФУНКЦИИ</h3>
+<h4 id="41">4.1. В области студенческого сервиса:</h4>
+<ol>
+<li>Прием, регистрация и выдача стандартизированных академических документов (справки об обучении, транскрипты на трех языках, выписки из приказов);</li>
+<li>Консультирование обучающихся по вопросам образовательной траектории, академических правил, балльно-рейтинговой системы и порядка ликвидации задолженностей;</li>
+<li>Первичный прием заявлений на получение скидок по оплате обучения, социальных льгот и мест в студенческих общежитиях;</li>
+<li>Оформление электронного обходного листа выпускников и отчисляемых студентов в АИС без сбора бумажных подписей.</li>
+</ol>
+<h4 id="42-international-student-desk">4.2. В области международного фронт-офиса (<code>International Student Desk</code>):</h4>
+<ol>
+<li>Очная идентификация вновь прибывших иностранных обучающихся и преподавателей в день заезда;</li>
+<li>Проверка штампа пограничного контроля и высокоскоростное сканирование страниц паспорта с внесением в карточку АИС в течение не более 2 часов для безусловного соблюдения бэк-офисом ДМСиИ 72-часового лимита нотификации органов внутренних дел по ст. 518 ч. 2 КоАП РК;</li>
+<li>Входной контроль комплектности пакета документов для продления учебной визы C9 за 45 дней до истечения текущей визы по нормативному чек-листу;</li>
+<li>Передача физических дел в визово-миграционный сектор ДМСиИ дважды в день по описи-реестру и выдача готовых паспортов с продленными визами студентам под роспись;</li>
+<li>Выдача «Маршрутного листа адаптации» (содействие в получении ИИН, открытии банковских карт, прохождении медосмотра 075/у).</li>
+</ol>
+<h4 id="43">4.3. В области сервисов для преподавателей (ППС) и сотрудников (АУП):</h4>
+<ol>
+<li>Прием заявок и оперативная выдача справок с места работы, справок для посольств, справок о доходах за различные периоды;</li>
+<li>Цифровое фотографирование, валидация биометрических параметров и первичная регистрация цифрового профиля лица в биометрической системе контроля и управления доступом (Face ID / СКУД) для бесконтактного прохода через турникеты учебных корпусов и общежитий;</li>
+<li>Прием документов и консультирование по вопросам оформления отпусков, листков нетрудоспособности, материальной помощи и путевок санаторно-курортного оздоровления;</li>
+<li>Помощь новым сотрудникам в первичной адаптации (Welcome-пакет, доступы к корпоративным порталам).</li>
+</ol>
+<h4 id="44-it-service-desk-l1-itil-v4">4.4. В области IT Service Desk L1 (по стандартам ITIL v4):</h4>
+<ol>
+<li>Выполнение роли Единой точки контакта (SPOC) по всем IT-инцидентам и сервисным запросам пользователей Университета;</li>
+<li>Регистрация 100% обращений в тикет-системе с присвоением приоритета (P1–P4) и автоматическим контролем SLA;</li>
+<li><strong>Identity &amp; Access Management:</strong><br />
+   * Проведение очной верификации личности заявителя (по оригиналу удостоверения личности / паспорта или цифровому документу в eGov Mobile) перед выполнением любых операций с учетными записями;<br />
+   * Сброс паролей и временная разблокировка учетных записей в <strong>Microsoft Entra ID (Azure AD)</strong> и УИС «[V_SIS_SYSTEM_NAME]» (Abai Digital);<br />
+   * Сброс и повторная инициализация методов многофакторной аутентификации (<strong>Microsoft Authenticator MFA</strong>, SMS-коды);</li>
+<li><strong>Поддержка Microsoft 365 и офисного окружения:</strong><br />
+   * Консультации и помощь в настройке клиентов Microsoft Teams, Outlook (Exchange Online), пакета Office на мобильных и портативных устройствах;<br />
+   * Разъяснение правил безопасного хранения файлов в корпоративном облаке OneDrive;</li>
+<li><strong>Сетевой доступ и Wi-Fi:</strong><br />
+   * Диагностика и настройка профилей аутентификации WPA2/WPA3-Enterprise (802.1X) для доступа к международной академической сети <strong>Eduroam</strong> и университетской сети Wi-Fi;</li>
+<li><strong>Маршрутизация и эскалация инцидентов:</strong><br />
+   * Эскалация сложных инфраструктурных и аппаратных сбоев на 2-ю линию поддержки (Управление информационных технологий — УИТ);<br />
+   * Эскалация системных программных ошибок и багов УИС на 3-ю линию поддержки (Управление цифровизации и внешние вендоры);</li>
+<li>Анализ причин типовых сбоев, пополнение Базы знаний (KCS) инструкциями и скриптами для самообслуживания пользователей.</li>
+</ol>
+<hr />
+<h3 id="5">5. ПРАВА И ОБЯЗАННОСТИ ЦЕНТРА</h3>
+<p>5.1. <strong>Центр имеет право:</strong><br />
+* Запрашивать и получать от структурных подразделений Университета информацию и материалы, необходимые для своевременного и качественного оказания услуг;<br />
+* Требовать от бэк-офисных подразделений соблюдения установленных Соглашением об уровне услуг (SLA) сроков подготовки документов;<br />
+* Отказать заявителю в сбросе учетных данных Microsoft Entra ID / УИС при невозможности однозначной верификации личности или отказе предъявить удостоверяющий документ;<br />
+* Вносить предложения руководству Университета по оптимизации бизнес-процессов, ликвидации избыточных согласований и расширению перечня электронных услуг;<br />
+* Проводить регулярные опросы удовлетворенности потребителей услуг (CSAT) и публиковать их результаты.<br />
+5.2. <strong>Работники Центра обязаны:</strong><br />
+* Обеспечивать высокую культуру обслуживания, вежливость, корректность и соблюдение норм педагогической и служебной этики;<br />
+* Неукоснительно соблюдать регламентные сроки обслуживания (SLA) и нормативы времени ожидания в электронной очереди;<br />
+* Обеспечивать режим строгой конфиденциальности и защиты персональных данных обучающихся и работников в соответствии с Законом РК «О персональных данных и их защите»;<br />
+* Немедленно (в течение не более 15 минут) информировать Службу информационной безопасности обо всех подозрительных запросах на изменение учетных записей или признаках компрометации паролей.</p>
+<hr />
+<h3 id="6-raci">6. МАТРИЦА РАСПРЕДЕЛЕНИЯ ОТВЕТСТВЕННОСТИ (RACI)</h3>
+<p>Матрица RACI разграничивает полномочия и зоны ответственности между фронт-офисом (ЦОСиС), бэк-офисными службами и обеспечивающими подразделениями Университета при реализации административных, академических, кадровых и IT-сервисов:</p>
+<table>
+<thead>
+<tr>
+<th>Процесс / Функция</th>
+<th style="text-align: center;">ЦОСиС (Фронт)</th>
+<th style="text-align: center;">ОР</th>
+<th style="text-align: center;">ДАВ</th>
+<th style="text-align: center;">HR</th>
+<th style="text-align: center;">ДМСиИ</th>
+<th style="text-align: center;">УИТ (L2)</th>
+<th style="text-align: center;">Упр. цифр. (L3)</th>
+<th style="text-align: center;">СБ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Выдача академических справок, транскриптов и дубликатов</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">R</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+</tr>
+<tr>
+<td>2. Оформление электронного обходного листа выпускников/отчисляемых</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">R</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+</tr>
+<tr>
+<td>3. Прием документов и выдача ордеров на заселение в общежития</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+</tr>
+<tr>
+<td>4. Первичный очный прием иностранцев и скан штампа въезда (≤ 2 ч)</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+</tr>
+<tr>
+<td>5. Направление уведомления в <code>vmp.gov.kz</code> / <code>e-Qonaq</code> (≤ 72 ч)</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+</tr>
+<tr>
+<td>6. Прием пакета документов на продление учебной визы C9 (за 45 дн.)</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">R</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+</tr>
+<tr>
+<td>7. Сдача ходатайства на визу C9 в миграционную полицию УМС ДП</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+</tr>
+<tr>
+<td>8. Выдача кадровых справок с места работы сотрудникам (ППС/АУП)</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">R</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+</tr>
+<tr>
+<td>9. Биометрическая регистрация и обновление профиля лица в СКУД (Face ID)</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">R</td>
+</tr>
+<tr>
+<td>10. Прием, регистрация и решение IT-инцидентов L1 (FCR ≥ 70%)</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+</tr>
+<tr>
+<td>11. Верифицированный сброс паролей Microsoft Entra ID и УИС</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+</tr>
+<tr>
+<td>12. Настройка профилей Microsoft 365 и сети Eduroam на устройствах</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+</tr>
+<tr>
+<td>13. Устранение аппаратных сбоев ПК и локальной сети сотрудников (L2)</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+</tr>
+<tr>
+<td>14. Исправление программного кода УИС и шлюзов ЕПВО/НОБД (L3)</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;"><strong>A</strong></td>
+<td style="text-align: center;">I</td>
+</tr>
+<tr>
+<td>15. Реагирование и расследование инцидентов ИБ (SLA ≤ 15 мин)</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">I</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;"><strong>A</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Пояснение модели и институциональных принципов RACI:</strong><br />
+* <strong>A (Accountable):</strong> единственный утверждающий и несущий персональную ответственность за конечный результат процесса (в соответствии со стандартами TFW v3.4.0 дублирование роли Accountable строго запрещено — на каждый процесс назначен ровно один <code>A</code>);<br />
+* <strong>R (Responsible):</strong> непосредственный исполнитель конкретного этапа или формирователь результирующего документа;<br />
+* <strong>C (Consulted):</strong> согласующее лицо, эксперт, предоставляющий исходные данные или проводящий верификацию;<br />
+* <strong>I (Informed):</strong> информируемое лицо / подразделение, уведомляемое о статусе или результатах операции через АИС.</p>
+<p><strong>Ключевой институциональный баланс:</strong><br />
+* <strong>ЦОСиС (Фронт-офис)</strong> является единолично ответственным (<strong>Accountable</strong>) за организацию приема, соблюдение стандартов вежливости, нормативов времени ожидания (AWT $\le 7$ мин), первичную идентификацию заявителей, решение типовых IT-обращений (FCR $\ge 70\%$) и своевременную выдачу документов;<br />
+* <strong>Бэк-офисы (ОР, HR, ДМСиИ, УИТ, Управление цифровизации, СБ)</strong> несут ответственность за предметную достоверность данных, работоспособность систем, юридическую отправку уведомлений в госорганы и аппаратный ремонт оборудования.</p>
+</blockquote>
+<hr />
+<h3 id="7-kpi">7. КРИТЕРИИ ЭФФЕКТИВНОСТИ И КОНТРОЛЬ ДЕЯТЕЛЬНОСТИ (KPI)</h3>
+<p>Деятельность Центра оценивается на основе следующих объективных метрик:<br />
+1. <strong>Индекс удовлетворенности пользователей (CSAT — Customer Satisfaction Score):</strong> не менее <strong>90%</strong> положительных оценок по результатам постобслуживания в электронной очереди / мобильном приложении;<br />
+2. <strong>Коэффициент разрешения инцидентов при первом контакте (FCR — First Contact Resolution):</strong> не менее <strong>70%</strong> обращений по каталогу услуг разрешаются непосредственно специалистом L1 без эскалации;<br />
+3. <strong>Среднее время ожидания в очереди (AWT — Average Wait Time):</strong> не более <strong>7 минут</strong> в стандартные дни и не более <strong>15 минут</strong> в пиковые периоды массового заезда и экзаменационных сессий;<br />
+4. <strong>Соблюдение регламентного времени решения (SLA Compliance):</strong> не менее <strong>95%</strong> тикетов и заявок закрываются строго в установленные Каталогом услуг сроки;<br />
+5. <strong>Отсутствие инцидентов нарушения миграционного законодательства (Zero Fines):</strong> 100% передача сканов въезда иностранцев в ДМСиИ в нормативный срок $\le 2$ часов.</p>
+<hr />
+<p><em>Положение о Центре обслуживания студентов и сотрудников (<code>REG-CSS-001</code>) | НАО «КазНПУ имени Абая», 2026</em></p>
+</body>
+</html>

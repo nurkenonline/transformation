@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>НАО «КазНПУ имени Абая» — Сводная нормативно-функциональная система</title>
+    <style>
+@page {
+    size: A4;
+    margin: 16mm 12mm 16mm 12mm;
+    @bottom-right {
+        content: counter(page) " / " counter(pages);
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 8pt;
+        color: #64748b;
+    }
+    @bottom-left {
+        content: "НАО «КазНПУ имени Абая» — Регуляторная политика и каталог функций";
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 8pt;
+        color: #64748b;
+    }
+}
+* { box-sizing: border-box; }
+body {
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+    color: #1e293b;
+    line-height: 1.5;
+    font-size: 9pt;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+.page-break {
+    page-break-after: always;
+}
+h1 {
+    font-size: 17pt;
+    font-weight: 800;
+    color: #0f2b5c;
+    border-bottom: 2.5px solid #1e40af;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    page-break-before: auto;
+    page-break-after: avoid;
+}
+h2 {
+    font-size: 12.5pt;
+    font-weight: 700;
+    color: #1e3a8a;
+    border-bottom: 1.5px solid #cbd5e1;
+    padding-bottom: 4px;
+    margin-top: 18px;
+    margin-bottom: 8px;
+    page-break-after: avoid;
+}
+h3 {
+    font-size: 10.5pt;
+    font-weight: 600;
+    color: #1e293b;
+    margin-top: 14px;
+    margin-bottom: 6px;
+    page-break-after: avoid;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 8px;
+    text-align: justify;
+}
+a {
+    color: #1d4ed8;
+    text-decoration: underline;
+    font-weight: 500;
+}
+a:hover {
+    color: #0c4a6e;
+}
+blockquote {
+    margin: 10px 0;
+    padding: 8px 14px;
+    background-color: #eff6ff;
+    border-left: 4px solid #2563eb;
+    color: #1e3a8a;
+    font-size: 8.8pt;
+    border-radius: 0 5px 5px 0;
+    page-break-inside: avoid;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+    font-size: 8pt;
+    page-break-inside: auto;
+}
+tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+}
+th, td {
+    border: 1px solid #cbd5e1;
+    padding: 5px 7px;
+    vertical-align: top;
+}
+th {
+    background-color: #1e3a8a;
+    color: #ffffff;
+    font-weight: 600;
+    text-align: left;
+}
+tr:nth-child(even) { background-color: #f8fafc; }
+code {
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 8pt;
+    background-color: #f1f5f9;
+    color: #0f172a;
+    padding: 1px 4px;
+    border-radius: 3px;
+    border: 1px solid #e2e8f0;
+}
+pre {
+    background-color: #ffffff;
+    color: #0f172a;
+    border: 1px solid #94a3b8;
+    border-left: 4px solid #1e3a8a;
+    padding: 10px 14px;
+    border-radius: 4px;
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 7.8pt;
+    line-height: 1.35;
+    page-break-inside: avoid;
+    margin: 10px 0;
+}
+pre code { background-color: transparent; color: inherit; padding: 0; border: none; }
+@media print {
+    pre {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        border: 1px solid #64748b !important;
+        border-left: 4px solid #1e3a8a !important;
+    }
+}
+ul, ol { margin-top: 0; margin-bottom: 8px; padding-left: 18px; }
+li { margin-bottom: 2px; }
+hr { border: none; border-top: 1px solid #e2e8f0; margin: 15px 0; }
+</style>
+</head>
+<body>
+<h1 id="service-catalog-sla">КАТАЛОГ УСЛУГ И СОГЛАШЕНИЕ ОБ УРОВНЕ ОБСЛУЖИВАНИЯ (SERVICE CATALOG &amp; SLA)</h1>
+<h2 id="v_legal_form-v_university_full_name">[V_LEGAL_FORM] «[V_UNIVERSITY_FULL_NAME]»</h2>
+<blockquote>
+<p><strong>Идентификатор акта:</strong> <code>SLA-CSS-ITSM-001</code><br />
+<strong>Версия:</strong> 1.0<br />
+<strong>Держатели регламента:</strong> Центр обслуживания студентов и сотрудников (ЦОСиС), Управление информационных технологий (УИТ), Управление цифровизации<br />
+<strong>Область действия:</strong> все структурные подразделения, институты, кафедры, обучающиеся и работники Университета  </p>
+</blockquote>
+<hr />
+<h3 id="1">1. ОБЩИЕ ПОЛОЖЕНИЯ И ЦЕЛИ КАТАЛОГА</h3>
+<p>1.1. Настоящий Каталог услуг и Соглашение об уровне обслуживания (Service Level Agreement — SLA) разработан в соответствии со стандартами <strong>ITIL v4</strong> и <strong>СТ РК ISO/IEC 20000-1-2019</strong> с целью установления единых, измеримых и прозрачных стандартов предоставления административных, академических, кадровых и информационно-технологических сервисов в [V_LEGAL_FORM] «[V_UNIVERSITY_FULL_NAME]» (далее — Университет).<br />
+1.2. Документ регламентирует обязательства служб фронт-офиса (ЦОСиС) и бэк-офисов (УИТ, Управление цифровизации, HR, ДАВ, ОР, ДМСиИ) перед конечными потребителями (обучающимися, ППС и АУП) по срокам и качеству предоставления услуг.<br />
+1.3. Принцип действия SLA основан на строгом автоматическом хронометраже в тикет-системе:<br />
+* <strong>Время первичной реакции (First Response Time — FRT):</strong> интервал от момента регистрации обращения до первого содержательного ответа специалиста или взятия тикета в работу;<br />
+* <strong>Время решения (Resolution Time — RT):</strong> интервал от момента регистрации обращения до полного восстановления работоспособности сервиса или выдачи запрашиваемого документа.</p>
+<hr />
+<h3 id="2-sla">2. КАТАЛОГ СЕРВИСОВ И МАТРИЦА SLA</h3>
+<h4 id="1-identity-access-management">ДОМЕН 1: УПРАВЛЕНИЕ УЧЕТНЫМИ ДАННЫМИ И ДОСТУПОМ (IDENTITY &amp; ACCESS MANAGEMENT)</h4>
+<table>
+<thead>
+<tr>
+<th>Код услуги</th>
+<th>Наименование услуги</th>
+<th>Категория пользователей</th>
+<th style="text-align: center;">Линия поддержки</th>
+<th>Канал обращения</th>
+<th style="text-align: center;">Время реакции (FRT)</th>
+<th style="text-align: center;">Нормативное время решения (RT)</th>
+<th>Необходимые документы / Условия</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>IAM-001</code></td>
+<td>Верифицированный сброс пароля Microsoft Entra ID (Azure AD)</td>
+<td>Студенты, ППС, АУП</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Очно в окне ЦОС</td>
+<td style="text-align: center;">≤ 3 мин</td>
+<td style="text-align: center;"><strong>≤ 10 мин</strong></td>
+<td>Оригинал удостоверения личности / eGov Mobile</td>
+</tr>
+<tr>
+<td><code>IAM-002</code></td>
+<td>Сброс и перепривязка многофакторной аутентификации (MFA)</td>
+<td>ППС, АУП, Студенты</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Очно в окне ЦОС</td>
+<td style="text-align: center;">≤ 5 мин</td>
+<td style="text-align: center;"><strong>≤ 15 мин</strong></td>
+<td>Личный смартфон + удостоверение личности</td>
+</tr>
+<tr>
+<td><code>IAM-003</code></td>
+<td>Разблокировка / сброс пароля в УИС «[V_SIS_SYSTEM_NAME]» (Abai Digital)</td>
+<td>Студенты, ППС</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Очно / Портал</td>
+<td style="text-align: center;">≤ 5 мин</td>
+<td style="text-align: center;"><strong>≤ 15 мин</strong></td>
+<td>ИИН, подтверждение личности</td>
+</tr>
+<tr>
+<td><code>IAM-004</code></td>
+<td>Создание новой служебной учетной записи сотрудника</td>
+<td>АУП, ППС (новые)</td>
+<td style="text-align: center;">L1 / L2</td>
+<td>СЭД (заявка HR)</td>
+<td style="text-align: center;">≤ 30 мин</td>
+<td style="text-align: center;"><strong>≤ 4 рабочих часов</strong></td>
+<td>Приказ о приеме на работу в 1С / ЕСУТД</td>
+</tr>
+<tr>
+<td><code>IAM-005</code></td>
+<td>Предоставление расширенных прав доступа к сетевым папкам</td>
+<td>ППС, АУП</td>
+<td style="text-align: center;">L2 (УИТ)</td>
+<td>Тикет в АИС / СЭД</td>
+<td style="text-align: center;">≤ 1 час</td>
+<td style="text-align: center;"><strong>≤ 8 рабочих часов</strong></td>
+<td>Согласование руководителя подразделения</td>
+</tr>
+<tr>
+<td><code>IAM-006</code></td>
+<td>Отзыв и полная блокировка доступов при увольнении</td>
+<td>АУП, ППС</td>
+<td style="text-align: center;">L1 / L2</td>
+<td>Приказ HR в СЭД</td>
+<td style="text-align: center;">≤ 15 мин</td>
+<td style="text-align: center;"><strong>≤ 2 часов</strong></td>
+<td>Автоматическая нотификация из кадрового приказа</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h4 id="2-microsoft-365-ecosystem">ДОМЕН 2: ОФИСНЫЕ ПРИЛОЖЕНИЯ И КОММУНИКАЦИИ (MICROSOFT 365 ECOSYSTEM)</h4>
+<table>
+<thead>
+<tr>
+<th>Код услуги</th>
+<th>Наименование услуги</th>
+<th>Категория пользователей</th>
+<th style="text-align: center;">Линия поддержки</th>
+<th>Канал обращения</th>
+<th style="text-align: center;">Время реакции (FRT)</th>
+<th style="text-align: center;">Нормативное время решения (RT)</th>
+<th>Необходимые документы / Условия</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>M365-01</code></td>
+<td>Консультация и первичная настройка Microsoft Teams / Outlook</td>
+<td>ППС, АУП</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Очно в окне ЦОС</td>
+<td style="text-align: center;">≤ 5 мин</td>
+<td style="text-align: center;"><strong>≤ 20 мин</strong></td>
+<td>Персональное устройство / логин Entra ID</td>
+</tr>
+<tr>
+<td><code>M365-02</code></td>
+<td>Назначение / продление корпоративной лицензии Microsoft 365</td>
+<td>ППС, АУП, Докторанты</td>
+<td style="text-align: center;">L1 / L2</td>
+<td>Тикет-портал</td>
+<td style="text-align: center;">≤ 30 мин</td>
+<td style="text-align: center;"><strong>≤ 2 часов</strong></td>
+<td>Наличие статуса действующего работника/докторанта</td>
+</tr>
+<tr>
+<td><code>M365-03</code></td>
+<td>Настройка корпоративного почтового ящика на смартфоне сотрудника</td>
+<td>ППС, АУП</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Очно в ЦОС</td>
+<td style="text-align: center;">≤ 5 мин</td>
+<td style="text-align: center;"><strong>≤ 15 мин</strong></td>
+<td>Смартфон с установленным MS Outlook</td>
+</tr>
+<tr>
+<td><code>M365-04</code></td>
+<td>Восстановление удаленных файлов из корзины OneDrive / SharePoint</td>
+<td>ППС, АУП</td>
+<td style="text-align: center;">L2 (УИТ)</td>
+<td>Тикет в системе</td>
+<td style="text-align: center;">≤ 1 час</td>
+<td style="text-align: center;"><strong>≤ 4 рабочих часов</strong></td>
+<td>Срок с момента удаления не более 30 дней</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h4 id="3-abai-digital-moodle-directum">ДОМЕН 3: ОБСЛУЖИВАНИЕ УИС («ABAI DIGITAL» / MOODLE / DIRECTUM)</h4>
+<table>
+<thead>
+<tr>
+<th>Код услуги</th>
+<th>Наименование услуги</th>
+<th>Категория пользователей</th>
+<th style="text-align: center;">Линия поддержки</th>
+<th>Канал обращения</th>
+<th style="text-align: center;">Время реакции (FRT)</th>
+<th style="text-align: center;">Нормативное время решения (RT)</th>
+<th>Необходимые документы / Условия</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>UIS-001</code></td>
+<td>Консультирование преподавателя по заполнению электронного журнала</td>
+<td>ППС</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Очно / Чат-бот</td>
+<td style="text-align: center;">≤ 5 мин</td>
+<td style="text-align: center;"><strong>≤ 15 мин</strong></td>
+<td>Корпоративный логин</td>
+</tr>
+<tr>
+<td><code>UIS-002</code></td>
+<td>Ошибка отображения дисциплины / группы в нагрузке преподавателя</td>
+<td>ППС, Зав. кафедрой</td>
+<td style="text-align: center;">L1 $\rightarrow$ ОР</td>
+<td>Тикет в АИС</td>
+<td style="text-align: center;">≤ 30 мин</td>
+<td style="text-align: center;"><strong>≤ 4 рабочих часов</strong></td>
+<td>Утвержденное распределение педнагрузки</td>
+</tr>
+<tr>
+<td><code>UIS-003</code></td>
+<td>Сбой закрытия / формирования экзаменационной ведомости</td>
+<td>ППС, ДАВ</td>
+<td style="text-align: center;">L1 $\rightarrow$ L3</td>
+<td>Экстренный тикет</td>
+<td style="text-align: center;">≤ 15 мин (P2)</td>
+<td style="text-align: center;"><strong>≤ 2 часов</strong></td>
+<td>Номер группы, код дисциплины</td>
+</tr>
+<tr>
+<td><code>UIS-004</code></td>
+<td>Программный сбой модуля УИС (баг отображения, системная ошибка)</td>
+<td>Все пользователи</td>
+<td style="text-align: center;">L3 (Цифровизация)</td>
+<td>Тикет в системе</td>
+<td style="text-align: center;">≤ 30 мин</td>
+<td style="text-align: center;"><strong>≤ 8 часов (P3) / ≤ 2 ч (P1)</strong></td>
+<td>Скриншот ошибки, шаги воспроизведения</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h4 id="4-wi-fi-workplace-network">ДОМЕН 4: СЕТЕВАЯ ИНФРАСТРУКТУРА, Wi-Fi И ОБОРУДОВАНИЕ (WORKPLACE &amp; NETWORK)</h4>
+<table>
+<thead>
+<tr>
+<th>Код услуги</th>
+<th>Наименование услуги</th>
+<th>Категория пользователей</th>
+<th style="text-align: center;">Линия поддержки</th>
+<th>Канал обращения</th>
+<th style="text-align: center;">Время реакции (FRT)</th>
+<th style="text-align: center;">Нормативное время решения (RT)</th>
+<th>Необходимые документы / Условия</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>NET-001</code></td>
+<td>Настройка защищенного подключения к Wi-Fi (Eduroam / Abai)</td>
+<td>Студенты, ППС, Гости</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Очно в окне ЦОС</td>
+<td style="text-align: center;">≤ 3 мин</td>
+<td style="text-align: center;"><strong>≤ 10 мин</strong></td>
+<td>Устройство с поддержкой WPA2-Enterprise</td>
+</tr>
+<tr>
+<td><code>NET-002</code></td>
+<td>Сбой интернет-подключения / локальной сети в аудитории кафедры</td>
+<td>ППС, АУП</td>
+<td style="text-align: center;">L2 (УИТ)</td>
+<td>Телефон / Тикет</td>
+<td style="text-align: center;">≤ 15 мин</td>
+<td style="text-align: center;"><strong>≤ 2 часов</strong></td>
+<td>Номер корпуса, номер аудитории</td>
+</tr>
+<tr>
+<td><code>NET-003</code></td>
+<td>Аппаратный сбой ПК на рабочем месте сотрудника (не включается, ОС)</td>
+<td>ППС, АУП</td>
+<td style="text-align: center;">L2 (УИТ)</td>
+<td>Вызов инженера</td>
+<td style="text-align: center;">≤ 30 мин</td>
+<td style="text-align: center;"><strong>≤ 4 рабочих часов</strong></td>
+<td>Заявка в системе Service Desk</td>
+</tr>
+<tr>
+<td><code>NET-004</code></td>
+<td>Подключение и настройка нового сетевого принтера / МФУ</td>
+<td>АУП, ППС</td>
+<td style="text-align: center;">L2 (УИТ)</td>
+<td>Заявка в системе</td>
+<td style="text-align: center;">≤ 1 час</td>
+<td style="text-align: center;"><strong>≤ 4 рабочих часов</strong></td>
+<td>Наличие картриджа и кабельного подключения</td>
+</tr>
+<tr>
+<td><code>NET-005</code></td>
+<td>Подготовка и техническое сопровождение видеоконференций (ВКС)</td>
+<td>АУП, ППС</td>
+<td style="text-align: center;">L2 (УИТ)</td>
+<td>Заявка за 24 ч</td>
+<td style="text-align: center;">≤ 1 час</td>
+<td style="text-align: center;"><strong>В назначенное время</strong></td>
+<td>Регламент мероприятия, ссылка на подключение</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h4 id="5-student-services">ДОМЕН 5: АДМИНИСТРАТИВНЫЕ СЕРВИСЫ ДЛЯ СТУДЕНТОВ (STUDENT SERVICES)</h4>
+<table>
+<thead>
+<tr>
+<th>Код услуги</th>
+<th>Наименование услуги</th>
+<th>Категория пользователей</th>
+<th style="text-align: center;">Линия поддержки</th>
+<th>Канал обращения</th>
+<th style="text-align: center;">Время реакции (FRT)</th>
+<th style="text-align: center;">Нормативное время решения (RT)</th>
+<th>Необходимые документы / Условия</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>STU-001</code></td>
+<td>Выдача стандартной справки об обучении (с гербовой печатью)</td>
+<td>Студенты</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Очно в окне ЦОС</td>
+<td style="text-align: center;">≤ 3 мин</td>
+<td style="text-align: center;"><strong>≤ 5 мин (в окне) / мгновенно в АИС</strong></td>
+<td>Студенческий билет / удостоверение</td>
+</tr>
+<tr>
+<td><code>STU-002</code></td>
+<td>Оформление официального транскрипта с подписью руководства</td>
+<td>Студенты, Выпускники</td>
+<td style="text-align: center;">L1 $\rightarrow$ ОР</td>
+<td>Заявка в АИС / Окно</td>
+<td style="text-align: center;">≤ 10 мин</td>
+<td style="text-align: center;"><strong>≤ 1 рабочий день</strong></td>
+<td>Заявление, квитанция (при платном запросе)</td>
+</tr>
+<tr>
+<td><code>STU-003</code></td>
+<td>Оформление электронного обходного листа при отчислении/выпуске</td>
+<td>Студенты</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Личный кабинет АИС</td>
+<td style="text-align: center;">≤ 1 час</td>
+<td style="text-align: center;"><strong>≤ 1 рабочий день</strong></td>
+<td>Сдача книг в библиотеку, ключей от общежития</td>
+</tr>
+<tr>
+<td><code>STU-004</code></td>
+<td>Прием заявления и документов на заселение в студенческое общежитие</td>
+<td>Студенты</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Портал / Окно ЦОС</td>
+<td style="text-align: center;">≤ 10 мин</td>
+<td style="text-align: center;"><strong>≤ 2 рабочих дней (по шкале)</strong></td>
+<td>Справка о доходах семьи / соц. статус</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h4 id="6-staff-services">ДОМЕН 6: АДМИНИСТРАТИВНЫЕ И КАДРОВЫЕ СЕРВИСЫ ДЛЯ СОТРУДНИКОВ (STAFF SERVICES)</h4>
+<table>
+<thead>
+<tr>
+<th>Код услуги</th>
+<th>Наименование услуги</th>
+<th>Категория пользователей</th>
+<th style="text-align: center;">Линия поддержки</th>
+<th>Канал обращения</th>
+<th style="text-align: center;">Время реакции (FRT)</th>
+<th style="text-align: center;">Нормативное время решения (RT)</th>
+<th>Необходимые документы / Условия</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>STF-001</code></td>
+<td>Выдача кадровой справки с места работы (на бланке Университета)</td>
+<td>ППС, АУП</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Окно ЦОС / Портал</td>
+<td style="text-align: center;">≤ 5 мин</td>
+<td style="text-align: center;"><strong>≤ 30 мин (в окне) / ≤ 4 ч (онлайн)</strong></td>
+<td>Удостоверение личности / табельный номер</td>
+</tr>
+<tr>
+<td><code>STF-002</code></td>
+<td>Выдача справки о заработной плате и пенсионных отчислениях</td>
+<td>ППС, АУП</td>
+<td style="text-align: center;">L1 $\rightarrow$ Бухг.</td>
+<td>Заявка в окне ЦОС</td>
+<td style="text-align: center;">≤ 10 мин</td>
+<td style="text-align: center;"><strong>≤ 1 рабочий день</strong></td>
+<td>Период справки (для банка / посольства)</td>
+</tr>
+<tr>
+<td><code>STF-003</code></td>
+<td>Первичная биометрическая регистрация лица в СКУД (Face ID)</td>
+<td>Новые работники</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Окно ЦОС</td>
+<td style="text-align: center;">≤ 3 мин</td>
+<td style="text-align: center;"><strong>≤ 10 мин (на месте)</strong></td>
+<td>Приказ о назначении, личное присутствие</td>
+</tr>
+<tr>
+<td><code>STF-004</code></td>
+<td>Повторное фотографирование и калибровка профиля Face ID</td>
+<td>ППС, АУП, Студенты</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Окно ЦОС</td>
+<td style="text-align: center;">≤ 3 мин</td>
+<td style="text-align: center;"><strong>≤ 10 мин</strong></td>
+<td>Личное присутствие при сбоях распознавания</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h4 id="7-international-desk">ДОМЕН 7: СЕРВИСЫ МЕЖДУНАРОДНОГО ФРОНТ-ОФИСА (INTERNATIONAL DESK)</h4>
+<table>
+<thead>
+<tr>
+<th>Код услуги</th>
+<th>Наименование услуги</th>
+<th>Категория пользователей</th>
+<th style="text-align: center;">Линия поддержки</th>
+<th>Канал обращения</th>
+<th style="text-align: center;">Время реакции (FRT)</th>
+<th style="text-align: center;">Нормативное время решения (RT)</th>
+<th>Необходимые документы / Условия</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>INT-001</code></td>
+<td>Первичный миграционный прием и скан штампа въезда КПП</td>
+<td>Иностранцы</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Окно International</td>
+<td style="text-align: center;">≤ 5 мин</td>
+<td style="text-align: center;"><strong>≤ 2 часов (загрузка в АИС)</strong></td>
+<td>Оригинал паспорта со штампом въезда в РК</td>
+</tr>
+<tr>
+<td><code>INT-002</code></td>
+<td>Выдача «Маршрутного листа адаптации» и консультирование</td>
+<td>Иностранцы</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Окно International</td>
+<td style="text-align: center;">≤ 3 мин</td>
+<td style="text-align: center;"><strong>≤ 10 мин</strong></td>
+<td>Паспорт иностранного гражданина</td>
+</tr>
+<tr>
+<td><code>INT-003</code></td>
+<td>Входной контроль пакета документов на продление визы C9</td>
+<td>Иностранцы</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Окно International</td>
+<td style="text-align: center;">≤ 10 мин</td>
+<td style="text-align: center;"><strong>≤ 24 часов (передача в ДМС)</strong></td>
+<td>Паспорт ($\ge 1.5$ г.), пошлина, фото, нот. перевод</td>
+</tr>
+<tr>
+<td><code>INT-004</code></td>
+<td>Выдача готового паспорта с продленной визой C9 под роспись</td>
+<td>Иностранцы</td>
+<td style="text-align: center;">L1 (ЦОС)</td>
+<td>Окно International</td>
+<td style="text-align: center;">≤ 3 мин</td>
+<td style="text-align: center;"><strong>≤ 5 мин (в момент визита)</strong></td>
+<td>Расписка ЦОС о приеме документов</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="3-sla-sla-pause-conditions">3. ПРАВИЛА ПРИОСТАНОВКИ ТАЙМЕРА SLA (SLA PAUSE CONDITIONS)</h3>
+<p>3.1. Таймер регламентного времени решения (Resolution SLA) автоматически приостанавливается в следующих случаях:<br />
+* <strong>Статус «Ожидание ответа пользователя» (Pending User):</strong> специалистом запрошена дополнительная информация, скриншоты или явка заявителя. Время возобновляется с момента предоставления запрошенных данных;<br />
+* <strong>Статус «Ожидание поставки комплектующих» (Pending Hardware/Vendor):</strong> при необходимости закупки запасных частей для аппаратного ремонта ПК, согласованной с заявителем и утвержденной служебной запиской;<br />
+* <strong>Нерабочее время, выходные и праздничные дни:</strong> для услуг с регламентом в рабочих днях время исчисляется строго в рамках официально установленного рабочего графика Университета (с 09:00 до 18:00 пн–пт).</p>
+<hr />
+<h3 id="4-sla">4. МОНИТОРИНГ, ОТЧЕТНОСТЬ И ЭСКАЛАЦИЯ НАРУШЕНИЙ SLA</h3>
+<p>4.1. В тикет-системе настраивается предиктивное цветовое предупреждение:<br />
+* 🟢 <strong>Зеленый:</strong> использовано менее 50% нормативного времени SLA;<br />
+* 🟡 <strong>Желтый:</strong> использовано от 50% до 80% времени — автоматическое уведомление исполнителю и руководителю сектора;<br />
+* 🔴 <strong>Красный (Брейк SLA):</strong> превышение 100% времени — автоматическая эскалация Руководителю ЦОСиС, Начальнику УИТ и директору соответствующего бэк-офиса.<br />
+4.2. Руководитель ЦОСиС еженедельно формирует аналитический отчет о соблюдении SLA для рассмотрения на аппаратном совещании у курирующего Проректора. Систематическое нарушение SLA работниками влечет дисциплинарную ответственность в соответствии со статьями 22, 23 Трудового кодекса РК.</p>
+<hr />
+<p><em>Каталог услуг и соглашение об уровне обслуживания (<code>SLA-CSS-ITSM-001</code>) | НАО «КазНПУ имени Абая», 2026</em></p>
+</body>
+</html>

@@ -53,6 +53,10 @@ docs/
 - [Положение о студенческих общежитиях и Комиссии по распределению мест](regulations/student_dormitories_regulation.md)
 - [Положение о Центре карьеры и мониторинга трудоустройства выпускников](regulations/career_center_and_grant_employment_regulation.md)
 - [Положение о Департаменте управления человеческими ресурсами (HR)](regulations/hr_department_regulation.md)
+- [Положение о Центре обслуживания студентов и сотрудников (Едином сервисном центре)](regulations/student_and_staff_service_center_regulation.md)
+- [Положение о Планово-экономическом департаменте (ПЭД)](regulations/ped_department_regulation.md)
+- [Положение об Управлении государственных закупок](regulations/procurement_department_regulation.md)
+- [Положение об Управлении бухгалтерского учета и отчетности](regulations/accounting_department_regulation.md)
 
 ### 2. Должностные инструкции (`job_descriptions/`):
 - [ДИ Директора Департамента по академическим вопросам](job_descriptions/jd_director_dav.md)
@@ -71,6 +75,17 @@ docs/
 - [ДИ Заведующего студенческим общежитием (коменданта)](job_descriptions/jd_dormitory_manager.md)
 - [ДИ Директора Департамента управления человеческими ресурсами (HR)](job_descriptions/jd_director_hr.md)
 - [ДИ Специалиста по кадровому администрированию, воинскому учету и интеграции с ЕСУТД Enbek.kz](job_descriptions/jd_hr_recruitment_and_records_specialist.md)
+- [ДИ Директора Департамента международного сотрудничества](job_descriptions/jd_director_international_cooperation.md)
+- [ДИ Координатора академической мобильности](job_descriptions/jd_coordinator_academic_mobility.md)
+- [ДИ Специалиста по визово-миграционному сопровождению](job_descriptions/jd_visa_and_migration_support_specialist.md)
+- [ДИ Руководителя Центра обслуживания студентов и сотрудников](job_descriptions/jd_head_student_and_staff_service_center.md)
+- [ДИ Специалиста Service Desk 1-й линии (L1 Support Specialist)](job_descriptions/jd_service_desk_l1_specialist.md)
+- [ДИ Директора Планово-экономического департамента (Главного экономиста)](job_descriptions/jd_director_ped.md)
+- [ДИ Ведущего экономиста по планированию и анализу бюджета](job_descriptions/jd_economist_budget_planning.md)
+- [ДИ Начальника Управления государственных закупок](job_descriptions/jd_head_procurement.md)
+- [ДИ Главного бухгалтера](job_descriptions/jd_chief_accountant.md)
+- [ДИ Ведущего бухгалтера расчетной группы (оплата труда и стипендии)](job_descriptions/jd_accountant_payroll_and_stipends.md)
+- [ДИ Ведущего бухгалтера материальной группы (ОС и ТМЦ)](job_descriptions/jd_accountant_materials_and_assets.md)
 
 ### 3. Регламенты и СОП (`sops_and_rules/`):
 - [Регламент формирования ИУП и расписания (ликвидация DEBT-001)](sops_and_rules/sop_individual_curriculum_and_schedule.md)
@@ -87,11 +102,21 @@ docs/
 - [Регламент студенческого самоуправления и деятельности Комитета по делам молодежи (КДМ)](sops_and_rules/sop_student_government_and_kdm.md)
 - [Регламент (СОП) открытого конкурсного замещения должностей ППС и ученых (Приказ МОН № 230)](sops_and_rules/sop_faculty_and_researcher_recruitment_competition.md)
 - [Регламент (СОП) 7-классного грейдирования и Комиссии по оценке достижений ученых по Приказу МНВО № 424](sops_and_rules/sop_researcher_compensation_and_kdos_commission.md)
+- [Регламент (СОП) функционирования службы Service Desk по методологии ITIL/ITSM](sops_and_rules/sop_itil_itsm_service_desk.md)
+- [Каталог IT-услуг и Соглашение об уровне обслуживания (Service Catalog & SLA)](sops_and_rules/service_catalog_and_sla_matrix.md)
+- [Регламент (СОП) визово-миграционного учета и сопровождения иностранных граждан (v2.0 со Smart Split)](sops_and_rules/sop_visa_and_migration_compliance.md)
+- [Регламент (СОП) академической мобильности обучающихся и ППС с Learning Agreement](sops_and_rules/sop_academic_mobility_process.md)
+- [Регламент (СОП) генерации, выдачи и архивного учета дипломов собственного образца](sops_and_rules/sop_diploma_generation_and_issuance.md)
+- [Регламент (СОП) формирования, корректировки и исполнения Плана развития (бюджета) НАО](sops_and_rules/sop_development_plan_budgeting.md)
+- [Регламент (СОП) взаимодействия структурных подразделений с Управлением государственных закупок](sops_and_rules/sop_procurement_interaction.md)
+- [Регламент (СОП) проведения годовой сплошной инвентаризации активов и материальных ценностей](sops_and_rules/sop_annual_asset_inventory.md)
+
 
 ### 4. Модельные регламенты инноваций и архитектура (`blueprints/`):
 - [Модельные регламенты на основе бенчмаркинга Astana IT University](blueprints/aitu_innovations_for_abai.md)
 - [Архитектурный паспорт: Интегрированная автоматизированная система «[V_SIS_SYSTEM_NAME]» (22 модуля ТЗ для ГТС)](blueprints/abai_digital_platform_architecture.md)
 - [Архитектурный паспорт: Стратегия развития [V_UNIVERSITY_SHORT_NAME] на 2026–2030 годы (5 направлений, 25 KPI)](blueprints/abai_strategy_2026_2030_architecture.md)
+- [Пояснительная записка для Правления: Оптимизация модели обслуживания иностранных обучающихся и нейтрализация визово-миграционных рисков](blueprints/explanatory_note_international_students_service_and_visa_risks.md)
 
 ---
 

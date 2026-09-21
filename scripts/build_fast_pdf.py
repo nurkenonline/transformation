@@ -17,11 +17,25 @@ func_dir = os.path.join(root_dir, "docs", "functions_and_powers")
 export_dir = os.path.join(root_dir, "docs", "exports")
 os.makedirs(export_dir, exist_ok=True)
 
-html_path = os.path.join(export_dir, "master_transformation_folio.html")
-pdf_path = os.path.join(export_dir, "Abai_University_Master_Transformation_Folio.pdf")
+# Check for custom CLI input file
+if len(sys.argv) > 1 and sys.argv[1] not in ("--help", "-h"):
+    custom_input = os.path.abspath(sys.argv[1])
+    if len(sys.argv) > 2:
+        pdf_path = os.path.abspath(sys.argv[2])
+    else:
+        base_name = os.path.splitext(os.path.basename(custom_input))[0]
+        pdf_path = os.path.join(export_dir, f"{base_name}.pdf")
+    html_path = os.path.splitext(pdf_path)[0] + ".html"
+    sections = [custom_input]
+    custom_mode = True
+else:
+    html_path = os.path.join(export_dir, "master_transformation_folio.html")
+    pdf_path = os.path.join(export_dir, "Abai_University_Master_Transformation_Folio.pdf")
+    custom_mode = False
 
-# Comprehensive sections pipeline
-sections = [
+# Comprehensive sections pipeline (default mode)
+if not custom_mode:
+    sections = [
     # --- PART 1: EXTERNAL REGULATIONS & REGULATORY POLICY (РЧЛ) ---
     os.path.join(reg_dir, "external_npa_registry.md"),
     os.path.join(reg_dir, "01_academic_and_educational_npa.md"),
@@ -101,8 +115,9 @@ sections = [
 
 content_parts = []
 
-# Title Page / Cover
-cover_html = """
+# Title Page / Cover (only for default master folio)
+if not custom_mode:
+    cover_html = """
 <div style="text-align: center; padding-top: 100px; padding-bottom: 80px;">
     <div style="font-size: 13pt; text-transform: uppercase; letter-spacing: 2px; color: #1e3a8a; font-weight: 700; margin-bottom: 20px;">
         Министерство науки и высшего образования Республики Казахстан<br>
@@ -127,6 +142,8 @@ cover_html = """
 </div>
 <div class="page-break"></div>
 """
+else:
+    cover_html = ""
 
 for fpath in sections:
     if os.path.exists(fpath):
@@ -258,17 +275,27 @@ code {
     border: 1px solid #e2e8f0;
 }
 pre {
-    background-color: #0f172a;
-    color: #f8fafc;
-    padding: 10px 12px;
-    border-radius: 5px;
-    font-family: 'Consolas', monospace;
+    background-color: #ffffff;
+    color: #0f172a;
+    border: 1px solid #94a3b8;
+    border-left: 4px solid #1e3a8a;
+    padding: 10px 14px;
+    border-radius: 4px;
+    font-family: 'Consolas', 'Courier New', monospace;
     font-size: 7.8pt;
     line-height: 1.35;
     page-break-inside: avoid;
     margin: 10px 0;
 }
 pre code { background-color: transparent; color: inherit; padding: 0; border: none; }
+@media print {
+    pre {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        border: 1px solid #64748b !important;
+        border-left: 4px solid #1e3a8a !important;
+    }
+}
 ul, ol { margin-top: 0; margin-bottom: 8px; padding-left: 18px; }
 li { margin-bottom: 2px; }
 hr { border: none; border-top: 1px solid #e2e8f0; margin: 15px 0; }
