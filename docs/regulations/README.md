@@ -23,7 +23,7 @@
 
 ---
 
-### 3. Специальные отраслевые нормативные стандарты (10 стандартов)
+### 3. Специальные отраслевые нормативные стандарты (11 стандартов)
 
 Фундаментальный контур стандартизированных нормативов, формул, порогов и регламентов прямого действия:
 
@@ -39,7 +39,9 @@
 | `STD-RK-ESG-001` | [**`rk_esg_quality_assurance_standards.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_esg_quality_assurance_standards.md) | ESG 2015 Part 1 / НААР / НКАОКО | 10 стандартов ВСОКО, цикл PDCA, студентоцентрированное обучение, аккредитация 1 раз в 5 лет |
 | `STD-RK-SCI-001` | [**`rk_science_and_tech_policy.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_science_and_tech_policy.md) | Закон РК № 103-VIII, Приказ № 538 | Шкала TRL 1–9, финансирование ГФ/ПЦФ, роялти авторам $\ge 30\%$, научные закупки без общих тендеров |
 | `STD-RK-LAW-001` | [**`rk_law_on_education.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_law_on_education.md) | Закон РК «Об образовании» № 319-III | Академическая автономия ст. 43-1, 3-летняя отработка грантов ст. 47, доплаты за степени ст. 52 |
+| `STD-RK-FOUND-001` | [**`rk_foundation_and_kandastar_rules.md`**](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/regulations/rk_foundation_and_kandastar_rules.md) | Приказы МОН РК № 554, № 122 | Подготовительные отделения, госзаказ кандасов, 30–36 ч/нед, визы C9, комплексный экзамен, свидетельства |
 
 ---
 
-*Реестр актуализирован в рамках задач трансформации ОВПО ABAI-19 / ABAI-20.*
+*Реестр актуализирован в рамках задач трансформации ОВПО ABAI-19 / ABAI-20 / ABAI-21.*
+
