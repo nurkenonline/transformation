@@ -4,7 +4,7 @@
 > **Author**: Coordinator / Institutional & Academic Architecture Lead  
 > **Title**: Проектирование и гармонизация трех организационных моделей академических структур ОВПО РК: Факультетской, Институтской и Школьной (Положения, ДИ и параметризация фреймворка)  
 > **Abbreviation**: ACAD_MODELS  
-> **Status**: 🟢 HL_APPROVED  
+> **Status**: 🟢 ALL_PHASES_COMPLETE (DONE)  
 > **Contract**: 🔒 FROZEN — approved by owner 2026-09-22  
 > **Frozen**: §1 · §3 · §4 · §5 · §6 · §7 — locked on owner approval  
 > **Free**: §2 · §7.2 · §8 · §9 · §10 · §11 — research updates these directly  
