@@ -17,11 +17,14 @@ func_dir = os.path.join(root_dir, "docs", "functions_and_powers")
 export_dir = os.path.join(root_dir, "docs", "exports")
 os.makedirs(export_dir, exist_ok=True)
 
+landscape_mode = "--landscape" in sys.argv
+cli_args = [a for a in sys.argv[1:] if not a.startswith("--")]
+
 # Check for custom CLI input file
-if len(sys.argv) > 1 and sys.argv[1] not in ("--help", "-h"):
-    custom_input = os.path.abspath(sys.argv[1])
-    if len(sys.argv) > 2:
-        pdf_path = os.path.abspath(sys.argv[2])
+if len(cli_args) > 0 and cli_args[0] not in ("--help", "-h"):
+    custom_input = os.path.abspath(cli_args[0])
+    if len(cli_args) > 1:
+        pdf_path = os.path.abspath(cli_args[1])
     else:
         base_name = os.path.splitext(os.path.basename(custom_input))[0]
         pdf_path = os.path.join(export_dir, f"{base_name}.pdf")
@@ -111,7 +114,7 @@ if not custom_mode:
     # --- PART 5: BENCHMARKING PROPOSALS & MODEL AMENDMENTS ---
     os.path.join(root_dir, "workspace", "ABAI_20260914-192000_COMP", "PROPOSALS__model_acts_amendments.md"),
     os.path.join(root_dir, "docs", "benchmarking", "aitu_regulatory_policy_audit.md")
-]
+    ]
 
 content_parts = []
 
@@ -160,7 +163,186 @@ for fpath in sections:
 
 combined_body = cover_html + "\n\n<div class='page-break'></div>\n\n".join(content_parts)
 
-css = """
+if landscape_mode:
+    css = """
+@page {
+    size: 297mm 210mm; /* A4 Landscape */
+    margin: 14mm 15mm 14mm 15mm;
+    @bottom-right {
+        content: counter(page) " / " counter(pages);
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+        font-size: 11pt;
+        color: #64748b;
+    }
+    @bottom-left {
+        content: "НАО «КазНПУ имени Абая» — Регуляторная политика и каталог функций";
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+        font-size: 11pt;
+        color: #64748b;
+    }
+}
+* { box-sizing: border-box; }
+body {
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+    color: #1e293b;
+    line-height: 1.55;
+    font-size: 16pt;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+.page-break {
+    page-break-after: always;
+}
+h1 {
+    font-size: 26pt;
+    font-weight: 800;
+    color: #0f2b5c;
+    border-bottom: 3px solid #1e40af;
+    padding-bottom: 8px;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    line-height: 1.25;
+    page-break-before: auto;
+    page-break-after: avoid;
+}
+h2 {
+    font-size: 21pt;
+    font-weight: 700;
+    color: #1e3a8a;
+    border-bottom: 2px solid #cbd5e1;
+    padding-bottom: 6px;
+    margin-top: 22px;
+    margin-bottom: 14px;
+    line-height: 1.3;
+    page-break-after: avoid;
+}
+h3 {
+    font-size: 18pt;
+    font-weight: 600;
+    color: #1e293b;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 1.35;
+    page-break-after: avoid;
+}
+h4 {
+    font-size: 16.5pt;
+    font-weight: 600;
+    color: #1e293b;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    page-break-after: avoid;
+}
+p {
+    font-size: 16pt;
+    line-height: 1.55;
+    margin-top: 0;
+    margin-bottom: 12px;
+    text-align: justify;
+}
+ul, ol {
+    font-size: 16pt;
+    line-height: 1.55;
+    margin-top: 0;
+    margin-bottom: 12px;
+    padding-left: 28px;
+}
+li {
+    margin-bottom: 6px;
+    line-height: 1.55;
+}
+a {
+    color: #1d4ed8;
+    text-decoration: underline;
+    font-weight: 500;
+}
+blockquote {
+    margin: 14px 0;
+    padding: 12px 18px;
+    background-color: #eff6ff;
+    border-left: 5px solid #2563eb;
+    color: #1e3a8a;
+    font-size: 15pt;
+    line-height: 1.55;
+    border-radius: 0 6px 6px 0;
+    page-break-inside: avoid;
+}
+blockquote p, blockquote ul, blockquote ol, blockquote li {
+    font-size: 15pt;
+    line-height: 1.55;
+}
+.card, .info-box {
+    font-size: 15pt;
+    line-height: 1.55;
+    padding: 12px 18px;
+    background-color: #f8fafc;
+    border: 1.5px solid #cbd5e1;
+    border-radius: 6px;
+    margin: 14px 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 15pt;
+    line-height: 1.4;
+    page-break-inside: auto;
+}
+tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+}
+th, td {
+    border: 1px solid #cbd5e1;
+    padding: 10px 12px;
+    vertical-align: middle;
+    font-size: 15pt;
+    line-height: 1.4;
+}
+th {
+    background-color: #1e3a8a;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 15pt;
+}
+tr:nth-child(even) { background-color: #f8fafc; }
+code {
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 14pt;
+    background-color: #f1f5f9;
+    color: #0f172a;
+    padding: 2px 6px;
+    border-radius: 4px;
+    border: 1px solid #e2e8f0;
+}
+pre {
+    background-color: #ffffff;
+    color: #0f172a;
+    border: 1px solid #94a3b8;
+    border-left: 4px solid #1e3a8a;
+    padding: 12px 16px;
+    border-radius: 4px;
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 13.5pt;
+    line-height: 1.4;
+    page-break-inside: avoid;
+    margin: 12px 0;
+}
+pre code { background-color: transparent; color: inherit; padding: 0; border: none; }
+@media print {
+    pre {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        border: 1px solid #64748b !important;
+        border-left: 4px solid #1e3a8a !important;
+    }
+}
+hr { border: none; border-top: 1.5px solid #cbd5e1; margin: 20px 0; }
+"""
+else:
+    css = """
 @page {
     size: A4;
     margin: 16mm 12mm 16mm 12mm;

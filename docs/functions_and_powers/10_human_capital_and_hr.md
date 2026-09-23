@@ -25,6 +25,7 @@
 | `FUNC-HR-CYBER-009`  | Инструктажи и проверки знаний по охране труда (БиОТ) и информационной безопасности | Трудовой кодекс РК (ст. 22, 23, 181, 182), ПП РК № 832 | Директор Департамента HR | Служба ИБ, Инженер по БиОТ | [`sop_employee_cybersecurity_and_labor_safety.md`](../internal_acts/sops_and_rules/sop_employee_cybersecurity_and_labor_safety.md) |
 | `FUNC-HR-DATA-010`   | Защита персональных данных сотрудников и конфиденциальность кадровых дел | Закон РК «О персональных данных и их защите», КоАП РК (ст. 79) | Директор Департамента HR | Все специалисты Департамента HR, Служба ИБ | [`sop_personal_data_protection.md`](../internal_acts/sops_and_rules/sop_personal_data_protection.md), [`guidelines_personal_data_in_job_descriptions.md`](../internal_acts/sops_and_rules/guidelines_personal_data_in_job_descriptions.md) |
 | `FUNC-HR-STIPEND-011`| Начисление и аудит государственных доплат за ученые степени PhD (17/28 МРП) и докторов наук (34/42 МРП) | Закон РК «Об образовании» (ст. 52), `STD-RK-LAW-001` | Директор Департамента HR | Бухгалтерия, Департамент науки | [`hr_department_regulation.md`](../internal_acts/regulations/hr_department_regulation.md), [`rk_law_on_education.md`](../regulations/rk_law_on_education.md) |
+| `FUNC-HR-PROF-STANDARDS-012`| Мониторинг, актуализация и внедрение профессиональных стандартов НПП «Атамекен» и ОРК в деятельность ОВПО | Закон РК «О профессиональных квалификациях» (ст. 13–15), ТК РК (ст. 116–118), Приказ МТСЗН № 374, `STD-RK-013-PROF-STANDARDS-ATAMEKEN` | Директор Департамента HR | Сектор развития персонала, Департамент обеспечения качества, Руководители подразделений | [`sop_professional_standards_and_qualifications.md`](../internal_acts/sops_and_rules/sop_professional_standards_and_qualifications.md), [`job_competency_card_template_and_samples.md`](../internal_acts/blueprints/job_competency_card_template_and_samples.md) |
 
 ---
 
@@ -38,7 +39,9 @@
    - [`JD-HR-REC-SPEC-001` ДИ Специалиста по кадровому администрированию, воинскому учету и ЕСУТД Enbek.kz](../internal_acts/job_descriptions/jd_hr_recruitment_and_records_specialist.md)
 
 3. **Стандарты операционных процедур (СОП) и методические руководства:**
-   - [`SOP-HR-RECRUIT-001` Регламент (СОП) открытого конкурсного замещения должностей ППС и ученых (Приказ МОН № 230)](../internal_acts/sops_and_rules/sop_faculty_and_researcher_recruitment_competition.md)
+   - [`SOP-HR-RECRUIT-001` Регламент (СОП) открытого конкурсного замещения должностей ППС и ученых (Приказ МОН № 230, дескрипторы НРК 7–8)](../internal_acts/sops_and_rules/sop_faculty_and_researcher_recruitment_competition.md)
+   - [`SOP-HR-PROF-STANDARDS-001` Регламент (СОП) применения профессиональных стандартов НПП «Атамекен», признания квалификаций и микроквалификаций (Закон № 14-VIII, Приказ МТСЗН № 374)](../internal_acts/sops_and_rules/sop_professional_standards_and_qualifications.md)
+   - [`BLUEPRINT-HR-JCC-001` Альбом эталонных паспортов компетенций должностей (Job Competency Cards) для 4 кластеров должностей](../internal_acts/blueprints/job_competency_card_template_and_samples.md)
    - [`SOP-HR-COMP-001` Регламент (СОП) 7-классного грейдирования и Комиссии по оценке достижений ученых по Приказу МНВО № 424](../internal_acts/sops_and_rules/sop_researcher_compensation_and_kdos_commission.md)
    - [`GUIDE-HR-LABOR-001` Руководство по интеграции новелл Трудового кодекса РК (4-дневка, шеринг, ЕСУТД)](../internal_acts/sops_and_rules/guidelines_labor_code_novelties_implementation.md)
    - [`GUIDE-HR-DATA-001` Методическое руководство по регламентации защиты персональных данных в ДИ (Закон № 94-V)](../internal_acts/sops_and_rules/guidelines_personal_data_in_job_descriptions.md)
@@ -49,5 +52,6 @@
 
 1. **Модуль «Кадры и ППС»:** электронные личные карточки (Т-2), учет стажа, ученых званий, остепененности и дескрипторов Профстандарта «Педагог».
 2. **Модуль «Приказы по личному составу»:** электронное визирование приказов о приеме, переводах, доплатах за степени, отпусках и увольнениях.
-3. **Модуль «Личный кабинет соискателя»:** подача портфолио кандидатами на открытый конкурс ППС онлайн.
+3. **Модуль «Личный кабинет соискателя»:** подача портфолио кандидатами на открытый конкурс ППС онлайн с балльной оценкой микроквалификаций.
 4. **Интеграционный шлюз ЕСУТД Enbek.kz:** автоматическая передача данных трудовых договоров в государственную систему учета (дедлайн 3 дня).
+5. **Модуль «Карты компетенций и признание Microcredentials»:** цифровые паспорта JCC, верификация вендорных сертификатов и ведение университетского Реестра признанных квалификаций.
