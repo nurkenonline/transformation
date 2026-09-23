@@ -80,7 +80,7 @@ graph TD
 
     E1 & E2 & E3 & E4 --> F["SOP-HR-PROF-STANDARDS-001<br>Регламент применения профстандартов в ДИ и конкурсах"]
     F --> G["Альбом паспортов должностей (Competency Cards)<br>Hard / Soft / Digital Skills / Сертификаты"]
-    G --> H["Каталог функций Домена 03 (HR)<br>+ Профиль в SIS Abai Digital"]
+    G --> H["Каталог функций Домена 03 (HR)<br>+ Профиль в УИС SIS"]
 ```
 
 #### Сравнительная таблица As-Is → To-Be
