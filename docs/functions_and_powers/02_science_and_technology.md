@@ -22,6 +22,7 @@
 | `FUNC-SCI-SABBAT-007`| Предоставление и мониторинг исследовательского творческого отпуска (Sabbatical Leave) | Трудовой кодекс РК, Закон № 103-VIII | Проректор по исследовательской деятельности | ДСР, HR, Департамент науки | [`sop_academic_sabbatical_leave.md`](../internal_acts/sops_and_rules/sop_academic_sabbatical_leave.md) |
 | `FUNC-SCI-YOUTH-008` | Координация деятельности Совета молодых ученых (СМУ) и студенческих научных обществ | Закон № 103-VIII, Концепция развития науки | Председатель Совета молодых ученых | СМУ, Департамент науки, Институты | [`young_scientists_council_regulation.md`](../internal_acts/regulations/young_scientists_council_regulation.md) |
 | `FUNC-SCI-DISSERT-009`| Организация работы диссертационных советов (PhD), антиплагиата ($\ge 80\%$) и ходатайств на ученые звания | Приказы МНВО РК № 126, 127, 128, `STD-RK-DEGREE-001` | Директор Департамента науки | Ученый совет, Диссоветы, АО «НЦГНТЭ» | [`science_department_regulation.md`](../internal_acts/regulations/science_department_regulation.md), [`rk_academic_degrees_and_titles.md`](../regulations/rk_academic_degrees_and_titles.md) |
+| `FUNC-SCI-ETHIC-AI-010`| Контроль соблюдения этических стандартов применения ИИ в НИР и публикациях (COPE), предотвращение утечек неопубликованных научных данных и патентных заявок в публичные LLM | Закон РК «О науке и технологической политике» № 103-VIII, Закон № 94-V, COPE 2024 | Проректор по исследовательской деятельности / Директор Департамента науки | Research Ethics Committee, Офис коммерциализации, Диссоветы | [`sop_scientific_ai_ethics_and_publishing.md`](../internal_acts/sops_and_rules/sop_scientific_ai_ethics_and_publishing.md), [`ai_governance_and_integrity_policy.md`](../internal_acts/sops_and_rules/ai_governance_and_integrity_policy.md) |
 
 ---
 
@@ -39,6 +40,7 @@
    - [`JD-SCI-RESEARCH-001` Типовая ДИ научного сотрудника и постдокторанта](../internal_acts/job_descriptions/jd_researcher_model.md)
 
 3. **Стандарты операционных процедур (СОП) и правила:**
+   - [`SOP-SCI-AI-ETHICS-001` Регламент (СОП) применения ИИ в научно-исследовательских работах и публикациях (стандарты COPE)](../internal_acts/sops_and_rules/sop_scientific_ai_ethics_and_publishing.md)
    - [`SOP-SCI-GRANT-001` Регламент жизненного цикла грантовых и ПЦФ проектов НИР](../internal_acts/sops_and_rules/sop_grant_and_program_proposal_lifecycle.md)
    - [`SOP-SCI-MVP-001` Регламент разработки MVP (TRL 1–4) и посевных грантов Seed Grants](../internal_acts/sops_and_rules/sop_mvp_and_internal_grants.md)
    - [`SOP-SCI-ROS-001` Регламент расчета рейтинга исследовательской активности (Research Output Score)](../internal_acts/sops_and_rules/sop_research_output_score.md)

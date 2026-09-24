@@ -91,7 +91,7 @@ docs/
 - [Регламент формирования ИУП и расписания (ликвидация DEBT-001)](sops_and_rules/sop_individual_curriculum_and_schedule.md)
 - [Регламент разработки MVP (TRL 1–4) в НИР и посевных грантов Seed Grants](sops_and_rules/sop_mvp_and_internal_grants.md)
 - [Регламент расчета рейтинга исследовательской активности обучающихся (ROS)](sops_and_rules/sop_research_output_score.md)
-- [Политика академической честности и Регламент Дисциплинарной комиссии](sops_and_rules/academic_integrity_policy.md)
+- [Политика академической честности и Регламент Дисциплинарной комиссии (POL-ACAD-HONEST-001)](sops_and_rules/academic_integrity_policy.md) ([PDF](pdf/POL-ACAD-HONEST-001_academic_integrity_policy.pdf))
 - [Регламент проведения внутреннего анализа коррупционных рисков (ВАКР)](sops_and_rules/sop_anti_corruption_risk_assessment.md)
 - [Регламент интеграционного взаимодействия с ЕПВО и НОБД (ликвидация DEBT-003)](sops_and_rules/sop_epvo_nobd_integration.md)
 - [Регламент защиты персональных данных обучающихся и работников](sops_and_rules/sop_personal_data_protection.md)
@@ -110,6 +110,13 @@ docs/
 - [Регламент (СОП) формирования, корректировки и исполнения Плана развития (бюджета) НАО](sops_and_rules/sop_development_plan_budgeting.md)
 - [Регламент (СОП) взаимодействия структурных подразделений с Управлением государственных закупок](sops_and_rules/sop_procurement_interaction.md)
 - [Регламент (СОП) проведения годовой сплошной инвентаризации активов и материальных ценностей](sops_and_rules/sop_annual_asset_inventory.md)
+
+#### Комплекс актов по академической честности и этике ИИ (AI Governance & Integrity Package):
+- [Политика академической честности и Регламент Дисциплинарной комиссии (POL-ACAD-HONEST-001)](sops_and_rules/academic_integrity_policy.md) ([PDF](pdf/POL-ACAD-HONEST-001_academic_integrity_policy.pdf))
+- [Институциональная политика этичного использования искусственного интеллекта и генеративных моделей в ОВПО (POL-AI-INTEGRITY-001)](sops_and_rules/ai_governance_and_integrity_policy.md) ([PDF](pdf/POL-AI-INTEGRITY-001_ai_governance_and_integrity_policy.pdf))
+- [Типовой формуляр Декларации об использовании технологий искусственного интеллекта (AI Statement Form)](sops_and_rules/ai_usage_statement_form.md) ([PDF](pdf/FORM-AI-STATEMENT-001_ai_usage_statement_form.pdf))
+- [Методические указания по аутентичному оцениванию и шкале прозрачности ИИ в силлабусах для ППС (GUIDE-ACAD-AI-001)](sops_and_rules/guidelines_ai_authentic_assessment_for_faculty.md) ([PDF](pdf/GUIDE-ACAD-AI-001_guidelines_ai_authentic_assessment_for_faculty.pdf))
+- [Регламент (СОП) применения ИИ в научно-исследовательских работах и публикациях по стандартам COPE (SOP-SCI-AI-ETHICS-001)](sops_and_rules/sop_scientific_ai_ethics_and_publishing.md) ([PDF](pdf/SOP-SCI-AI-ETHICS-001_sop_scientific_ai_ethics_and_publishing.pdf))
 
 
 ### 4. Модельные регламенты инноваций и архитектура (`blueprints/`):

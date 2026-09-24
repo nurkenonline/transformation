@@ -22,6 +22,7 @@
 | `FUNC-QA-ETHIC-006` | Антикоррупционная экспертиза проектов внутренних актов и договоров, комплаенс-контроль | Закон РК «О противодействии коррупции» | Антикоррупционный комплаенс-офицер | Инициаторы актов, Канцелярия, Юристы | [`jd_compliance_officer.md`](../internal_acts/job_descriptions/jd_compliance_officer.md) |
 | `FUNC-QA-STAKE-007` | Организация диалога со стейкхолдерами образования и работодателями | Стандарты ESG 1.1, ГОСО | Директор ДАВ | EdTech Advisory Board, Институты, Центр карьеры | [`edtech_advisory_board_regulation.md`](../internal_acts/regulations/edtech_advisory_board_regulation.md) |
 | `FUNC-QA-SUR-008`   | Мониторинг критериев Системы управления рисками (СУР КОКСНВО) по 10 направлениям | Совместный приказ МНВО № 166 и МНЭ № 116, `STD-RK-SUR-001` | Руководитель Центра аккредитации | QA Committee, ДАВ, HR, Департамент науки | [`accreditation_center_regulation.md`](../internal_acts/regulations/accreditation_center_regulation.md), [`rk_sur_risk_assessment_standard.md`](../regulations/rk_sur_risk_assessment_standard.md) |
+| `FUNC-QA-AI-AUDIT-009` | Независимый аудит соблюдения Институциональной политики ИИ, прозрачности декларирования в силлабусах и мониторинг недопущения неправомерных санкций к студентам по индикаторам AI-детекторов (аудит процедур Viva Voce) | Стандарты ESG 1.3, 1.4 (`STD-RK-ESG-001`), Рекомендация ЮНЕСКО (2021) | Председатель QA Committee | QA Committee, Центр аккредитации, Студенческий омбудсмен, Дисциплинарная комиссия | [`quality_assurance_committee_regulation.md`](../internal_acts/regulations/quality_assurance_committee_regulation.md), [`ai_governance_and_integrity_policy.md`](../internal_acts/sops_and_rules/ai_governance_and_integrity_policy.md), [`academic_integrity_policy.md`](../internal_acts/sops_and_rules/academic_integrity_policy.md) |
 
 ---
 
@@ -38,6 +39,7 @@
    - [`JD-QA-COMPL-OFF-001` ДИ Антикоррупционного комплаенс-офицера](../internal_acts/job_descriptions/jd_compliance_officer.md)
 
 3. **Стандарты операционных процедур (СОП) и регламенты:**
+   - [`POL-AI-INTEGRITY-001` Институциональная политика этичного использования искусственного интеллекта и генеративных моделей](../internal_acts/sops_and_rules/ai_governance_and_integrity_policy.md)
    - [`SOP-QA-VAKR-001` Регламент проведения внутреннего анализа коррупционных рисков (ВАКР)](../internal_acts/sops_and_rules/sop_anti_corruption_risk_assessment.md)
    - [`SOP-QA-ONLINE-001` Стандарт качества и сертификации цифрового образовательного контента (онлайн-курсов)](../internal_acts/sops_and_rules/sop_online_courses_quality_standard.md)
 

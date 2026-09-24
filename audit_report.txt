@@ -1,0 +1,630 @@
+=== [LAW-01] (Line 28): Конституция Республики Казахстан ===
+Registry Status/Date: 30.08.1995 | Высшая юридическая сила
+  URL: https://adilet.zan.kz/rus/docs/K950001000_
+  ERROR: The read operation timed out
+
+=== [LAW-02] (Line 29): Закон РК «Об образовании» ===
+Registry Status/Date: № 319-III от 27.07.2007 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z070000319_
+  ERROR: The read operation timed out
+
+=== [LAW-03] (Line 30): Закон РК «О науке и технологической политике» ===
+Registry Status/Date: № 96-VIII от 10.06.2024 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z2400000096
+  ERROR: The read operation timed out
+
+=== [LAW-04] (Line 31): Закон РК «О статусе педагога» ===
+Registry Status/Date: № 293-VI от 27.12.2019 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1900000293
+  ERROR: The read operation timed out
+
+=== [LAW-05] (Line 32): Закон РК «О коммерциализации результатов научной и (или) научно-технической деятельности» ===
+Registry Status/Date: № 381-V от 31.10.2015 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1500000381
+  ERROR: The read operation timed out
+
+=== [LAW-06] (Line 33): Трудовой кодекс Республики Казахстан ===
+Registry Status/Date: № 414-V от 23.11.2015 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/K1500000414
+  ERROR: The read operation timed out
+
+=== [LAW-07] (Line 34): Закон РК «О государственном имуществе» ===
+Registry Status/Date: № 413-IV от 01.03.2011 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1100000413
+  ERROR: The read operation timed out
+
+=== [LAW-08] (Line 35): Закон РК «О противодействии коррупции» ===
+Registry Status/Date: № 410-V от 18.11.2015 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1500000410
+  ERROR: The read operation timed out
+
+=== [LAW-09] (Line 36): Закон РК «О государственных закупках» ===
+Registry Status/Date: № 106-VIII от 01.07.2024 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z2400000106
+  ERROR: The read operation timed out
+
+=== [LAW-10] (Line 37): Закон РК «О персональных данных и их защите» ===
+Registry Status/Date: № 94-V от 21.05.2013 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1300000094
+  ERROR: The read operation timed out
+
+=== [LAW-11] (Line 38): Закон РК «Об информатизации» ===
+Registry Status/Date: № 418-V от 24.11.2015 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1500000418
+  ERROR: The read operation timed out
+
+=== [LAW-12] (Line 39): Закон РК «О государственной молодежной политике» ===
+Registry Status/Date: № 285-V от 09.02.2015 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1500000285
+  ERROR: The read operation timed out
+
+=== [LAW-13] (Line 40): Закон РК «О воинской службе и статусе военнослужащих» ===
+Registry Status/Date: № 561-IV от 16.02.2012 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1200000561
+  ERROR: The read operation timed out
+
+=== [LAW-14] (Line 41): Закон РК «Об акционерных обществах» ===
+Registry Status/Date: № 415-II от 13.05.2003 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z030000415_
+  ERROR: The read operation timed out
+
+=== [LAW-15] (Line 42): Бюджетный кодекс Республики Казахстан ===
+Registry Status/Date: № 95-IV от 04.12.2008 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/K080000095_
+  ERROR: The read operation timed out
+
+=== [LAW-16] (Line 43): Кодекс РК «О налогах и других обязательных платежах в бюджет» (Налоговый кодекс) ===
+Registry Status/Date: № 120-VI от 25.12.2017 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/K1700000120
+  ERROR: The read operation timed out
+
+=== [LAW-17] (Line 44): Закон РК «О бухгалтерском учете и финансовой отчетности» ===
+Registry Status/Date: № 234-III от 28.02.2007 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z070000234_
+  ERROR: The read operation timed out
+
+=== [LAW-18] (Line 45): Закон РК «О Национальном архивном фонде и архивах» ===
+Registry Status/Date: № 326-I от 22.12.1998 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z980000326_
+  ERROR: The read operation timed out
+
+=== [LAW-19] (Line 46): Закон РК «О культуре» ===
+Registry Status/Date: № 207-III от 15.12.2006 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z060000207_
+  ERROR: The read operation timed out
+
+=== [LAW-20] (Line 47): Закон РК «О масс-медиа» ===
+Registry Status/Date: № 94-VIII от 19.06.2024 | Действующий (в силе с августа 2024 г.)
+  URL: https://adilet.zan.kz/rus/docs/Z2400000094
+  ERROR: The read operation timed out
+
+=== [LAW-21] (Line 48): Закон РК «Об охране и использовании объектов историко-культурного наследия» ===
+Registry Status/Date: № 288-VI от 26.12.2019 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1900000288
+  ERROR: The read operation timed out
+
+=== [LAW-22] (Line 49): Закон РК «О противодействии терроризму» ===
+Registry Status/Date: № 416-I от 13.07.1999 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z990000416_
+  ERROR: The read operation timed out
+
+=== [LAW-23] (Line 50): Закон РК «Об охранной деятельности» ===
+Registry Status/Date: № 85-II от 19.10.2000 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z000000085_
+  ERROR: Remote end closed connection without response
+
+=== [LAW-24] (Line 51): Закон РК «Об энергосбережении и повышении энергоэффективности» ===
+Registry Status/Date: № 541-IV от 13.01.2012 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1200000541
+  ERROR: The read operation timed out
+
+=== [LAW-25] (Line 52): Закон РК «О профессиональных квалификациях» ===
+Registry Status/Date: № 14-VIII от 04.07.2023 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z2300000014
+  ERROR: The read operation timed out
+
+=== [NPA-01] (Line 60): Критерии оценки степени риска и проверочные листы в сфере ВО и ПВО ===
+Registry Status/Date: Совместный приказ МНВО № 166 (01.12.2022) и МНЭ № 116 (02.12.2022) | МЮ РК № 30907
+  URL: https://adilet.zan.kz/rus/docs/V2200030907
+  ERROR: The read operation timed out
+
+=== [NPA-02] (Line 61): Государственные общеобязательные стандарты высшего и послевузовского образования (ГОСО) ===
+Registry Status/Date: Приказ МНВО РК № 2 от 20.07.2022 | МЮ РК № 28916
+  URL: https://adilet.zan.kz/rus/docs/V2200028916
+  ERROR: The read operation timed out
+
+=== [NPA-03] (Line 62): Типовые правила деятельности организаций высшего и послевузовского образования ===
+Registry Status/Date: Приказ МОН РК № 595 от 30.10.2018 | МЮ РК № 17657
+  URL: https://adilet.zan.kz/rus/docs/V1800017657
+  ERROR: The read operation timed out
+
+=== [NPA-04] (Line 63): Квалификационные требования к образовательной деятельности ОВПО ===
+Registry Status/Date: Приказ МНВО РК № 4 от 05.01.2024 (в ред. Приказа № 18 от 16.01.2026 / МЮ № 37860; ранее Приказ МОН № 391) | МЮ РК № 33892 / № 37860
+  URL: https://adilet.zan.kz/rus/docs/V2400033892
+  ERROR: The read operation timed out
+
+=== [NPA-05] (Line 64): Правила организации учебного процесса по кредитной технологии обучения ===
+Registry Status/Date: Приказ МОН РК № 152 от 20.04.2011 | МЮ РК № 6976
+  URL: https://adilet.zan.kz/rus/docs/V1100006976
+  ERROR: The read operation timed out
+
+=== [NPA-06] (Line 65): Требования к предоставлению дистанционного обучения и правила ДО ===
+Registry Status/Date: Приказ МОН РК № 137 от 20.03.2015 | МЮ РК № 10768
+  URL: https://adilet.zan.kz/rus/docs/V1500010768
+  ERROR: The read operation timed out
+
+=== [NPA-07] (Line 66): Типовые правила приема на обучение в организации ВО и ПВО ===
+Registry Status/Date: Приказ МОН РК № 600 от 31.10.2018 | МЮ РК № 17650
+  URL: https://adilet.zan.kz/rus/docs/V1800017650
+  ERROR: The read operation timed out
+
+=== [NPA-08] (Line 67): Классификатор направлений подготовки кадров с ВО и ПВО ===
+Registry Status/Date: Приказ МОН РК № 569 от 13.10.2018 | МЮ РК № 17565
+  URL: https://adilet.zan.kz/rus/docs/V1800017565
+  ERROR: The read operation timed out
+
+=== [NPA-09] (Line 68): Правила ведения реестра образовательных программ ОВПО ===
+Registry Status/Date: Приказ МНВО РК № 106 от 12.10.2022 | МЮ РК № 30139
+  URL: https://adilet.zan.kz/rus/docs/V2200030139
+  ERROR: The read operation timed out
+
+=== [NPA-10] (Line 69): Правила организации дуального обучения в ОВПО ===
+Registry Status/Date: Приказ МНВО РК № 361 от 27.07.2023 | МЮ РК № 33206
+  URL: https://adilet.zan.kz/rus/docs/V2300033206
+  ERROR: The read operation timed out
+
+=== [NPA-11] (Line 70): Правила признания результатов неформального образования и квалификаций ===
+Registry Status/Date: Совместный приказ МНВО № 544 и МП № 322 от 24.10.2023 | МЮ РК № 33580
+  URL: https://adilet.zan.kz/rus/docs/V2300033580
+  ERROR: The read operation timed out
+
+=== [NPA-12] (Line 71): Правила педагогической переподготовки ===
+Registry Status/Date: Приказ МОН РК № 110 от 17.03.2020 | МЮ РК № 20147
+  URL: https://adilet.zan.kz/rus/docs/V2000020147
+  ERROR: The read operation timed out
+
+=== [NPA-13] (Line 72): Типовые учебные программы цикла общеобразовательных дисциплин (ООД) ===
+Registry Status/Date: Приказ МОН РК № 603 от 31.10.2018 | МЮ РК № 17651
+  URL: https://adilet.zan.kz/rus/docs/V1800017651
+  ERROR: The read operation timed out
+
+=== [NPA-14] (Line 73): Правила организации учебно-методической и научно-методической работы ===
+Registry Status/Date: Приказ МОН РК № 583 от 29.11.2007 | МЮ РК № 5036
+  URL: https://adilet.zan.kz/rus/docs/V070005036_
+  ERROR: The read operation timed out
+
+=== [NPA-15] (Line 74): Формы документов строгой отчетности в сфере образования ===
+Registry Status/Date: Приказ МОН РК № 39 от 28.01.2015 | МЮ РК № 10348
+  URL: https://adilet.zan.kz/rus/docs/V1500010348
+  ERROR: The read operation timed out
+
+=== [NPA-16] (Line 75): Правила формирования и сохранения библиотечного фонда ===
+Registry Status/Date: Приказ МОН РК № 344 от 19.07.2012 | МЮ РК № 7878
+  URL: https://adilet.zan.kz/rus/docs/V1200007878
+  ERROR: The read operation timed out
+
+=== [NPA-17] (Line 76): Правила конкурсного замещения должностей ППС и ученых ОВПО ===
+Registry Status/Date: Приказ МОН РК № 230 от 23.04.2015 | МЮ РК № 11195
+  URL: https://adilet.zan.kz/rus/docs/V1500011195
+  ERROR: The read operation timed out
+
+=== [NPA-18] (Line 77): Типовые квалификационные характеристики должностей педагогов ===
+Registry Status/Date: Приказ МОН РК № 338 от 13.07.2009 | МЮ РК № 5750
+  URL: https://adilet.zan.kz/rus/docs/V090005750_
+  ERROR: The read operation timed out
+
+=== [NPA-19] (Line 78): Положение о диссертационном совете ===
+Registry Status/Date: Приказ МОН РК № 126 от 31.03.2011 | МЮ РК № 6937
+  URL: https://adilet.zan.kz/rus/docs/V1100006937
+  ERROR: The read operation timed out
+
+=== [NPA-20] (Line 79): Правила присуждения степеней (доктора философии PhD) ===
+Registry Status/Date: Приказ МОН РК № 127 от 31.03.2011 | МЮ РК № 6951
+  URL: https://adilet.zan.kz/rus/docs/V1100006951
+  ERROR: The read operation timed out
+
+=== [NPA-21] (Line 80): Правила присвоения ученых званий (доцент, профессор) ===
+Registry Status/Date: Приказ МОН РК № 128 от 31.03.2011 | МЮ РК № 6939
+  URL: https://adilet.zan.kz/rus/docs/V1100006939
+  ERROR: The read operation timed out
+
+=== [NPA-22] (Line 81): Требования к научным изданиям для включения в Перечень КОКСНВО ===
+Registry Status/Date: Приказ МОН РК № 20 от 12.01.2016 | МЮ РК № 13409
+  URL: https://adilet.zan.kz/rus/docs/V1600013409
+  ERROR: The read operation timed out
+
+=== [NPA-23] (Line 82): Правила перевода и восстановления обучающихся ===
+Registry Status/Date: Приказ МОН РК № 19 от 20.01.2015 | МЮ РК № 10297
+  URL: https://adilet.zan.kz/rus/docs/V1500010297
+  ERROR: The read operation timed out
+
+=== [NPA-24] (Line 83): Правила предоставления академических отпусков обучающимся ===
+Registry Status/Date: Приказ МОН РК № 506 от 04.12.2014 | МЮ РК № 10475
+  URL: https://adilet.zan.kz/rus/docs/V1400010475
+  ERROR: The read operation timed out
+
+=== [NPA-25] (Line 84): Правила направления специалистов на работу (отработка гранта) ===
+Registry Status/Date: Постановление Правительства РК № 390 от 30.03.2012 | Действующее
+  URL: https://adilet.zan.kz/rus/docs/P1200000390
+  ERROR: The read operation timed out
+
+=== [NPA-26] (Line 85): Правила направления на обучение за рубеж и академической мобильности ===
+Registry Status/Date: Приказ МОН РК № 613 от 19.11.2008 | МЮ РК № 5499
+  URL: https://adilet.zan.kz/rus/docs/V080005499_
+  ERROR: The read operation timed out
+
+=== [NPA-27] (Line 86): Правила признания документов об образовании (нострификация) ===
+Registry Status/Date: Приказ МНВО РК № 47 от 10.02.2023 | МЮ РК № 31894
+  URL: https://adilet.zan.kz/rus/docs/V2300031894
+  ERROR: The read operation timed out
+
+=== [NPA-28] (Line 87): Перечень направлений подготовки, запрещенных к экстернату и онлайн-обучению ===
+Registry Status/Date: Приказ МОН РК № 530 от 02.10.2018 | МЮ РК № 17513
+  URL: https://adilet.zan.kz/rus/docs/V1800017513
+  ERROR: The read operation timed out
+
+=== [NPA-29] (Line 88): Правила базового и программно-целевого финансирования научной деятельности ===
+Registry Status/Date: Постановление Правительства РК № 575 от 25.05.2011 | Действующее
+  URL: https://adilet.zan.kz/rus/docs/P1100000575
+  ERROR: The read operation timed out
+
+=== [NPA-30] (Line 89): Правила грантового финансирования научных исследований ===
+Registry Status/Date: Постановление Правительства РК № 575 от 25.05.2011 | Действующее
+  URL: https://adilet.zan.kz/rus/docs/P1100000575
+  ERROR: The read operation timed out
+
+=== [NPA-31] (Line 90): Правила присвоения грифа МОН/МНВО учебникам и УМКД ===
+Registry Status/Date: Приказ МОН РК № 583 от 29.11.2007 | МЮ РК № 5036
+  URL: https://adilet.zan.kz/rus/docs/V070005036_
+  ERROR: The read operation timed out
+
+=== [NPA-32] (Line 91): Правила выплаты государственных стипендий обучающимся ===
+Registry Status/Date: Постановление Правительства РК № 116 от 07.02.2008 | Действующее
+  URL: https://adilet.zan.kz/rus/docs/P080000116_
+  ERROR: The read operation timed out
+
+=== [NPA-33] (Line 92): Правила предоставления общежитий обучающимся в ОВПО ===
+Registry Status/Date: Приказ МОН РК № 606 от 31.10.2018 | МЮ РК № 17652
+  URL: https://adilet.zan.kz/rus/docs/V1800017652
+  ERROR: The read operation timed out
+
+=== [NPA-34] (Line 93): Правила проведения мониторинга трудоустройства выпускников ===
+Registry Status/Date: Совместный приказ МЗСР № 64 (28.01.2016) и МОН № 79 (28.01.2016) | МЮ РК № 13210
+  URL: https://adilet.zan.kz/rus/docs/V1600013210
+  ERROR: The read operation timed out
+
+=== [NPA-35] (Line 94): Правила проведения институциональной и программной аккредитации ===
+Registry Status/Date: Приказ МОН РК № 629 от 01.11.2016 | МЮ РК № 14438
+  URL: https://adilet.zan.kz/rus/docs/V1600014438
+  ERROR: The read operation timed out
+
+=== [NPA-36] (Line 95): Профессиональный стандарт для педагогов (профессорско-преподавательского состава) организаций высшего и (или) послевузовского образования ===
+Registry Status/Date: Приказ МНВО РК № 591 от 20.11.2023 (с изм. № 616 от 06.12.2023) | Не подлежит госрегистрации / Официально опубликован
+  URL: https://adilet.zan.kz/rus/docs/V2300033387
+  ERROR: The read operation timed out
+
+=== [NPA-37] (Line 96): Правила организации повышения квалификации педагогических кадров ===
+Registry Status/Date: Приказ МОН РК № 95 от 28.01.2016 | МЮ РК № 13420
+  URL: https://adilet.zan.kz/rus/docs/V1600013420
+  ERROR: The read operation timed out
+
+=== [NPA-38] (Line 97): Правила ведения воинского учета военнообязанных и призывников ===
+Registry Status/Date: Постановление Правительства РК № 760 от 27.06.2012 | Действующее
+  URL: https://adilet.zan.kz/rus/docs/P1200000760
+  ERROR: Remote end closed connection without response
+
+=== [NPA-39] (Line 98): Правила оплаты труда научных работников, выполняющих госзаказ и бюджетные проекты ===
+Registry Status/Date: Приказ и.о. МНВО РК № 592 от 25.12.2024 (с изм. № 70 от 20.02.2025 и № 424 от 04.09.2026, в силе с 22.09.2026) | Не подлежит госрегистрации / Действующий
+  URL: https://adilet.zan.kz/rus/docs/G24HN000592
+  ERROR: Remote end closed connection without response
+
+=== [NPA-40] (Line 99): Правила организации деятельности подготовительных отделений ОВПО РК ===
+Registry Status/Date: Приказ МОН РК № 554 от 30.12.2011 (с актуальными изменениями МНВО РК) | МЮ РК № 7415
+  URL: https://adilet.zan.kz/rus/docs/V1100007415
+  ERROR: Remote end closed connection without response
+
+=== [NPA-41] (Line 100): Правила размещения государственного образовательного заказа на подготовительные отделения ОВПО ===
+Registry Status/Date: Приказ МОН РК № 122 от 29.01.2016 (с изм. МНВО РК) | МЮ РК № 13419
+  URL: https://adilet.zan.kz/rus/docs/V1600013419
+  ERROR: The read operation timed out
+
+=== [NPA-42] (Line 101): Инструкция по организации антитеррористической защиты объектов, уязвимых в террористическом отношении, осуществляющих деятельность в сфере науки и высшего образования ===
+Registry Status/Date: Приказ МНВО РК № 476 от 04.10.2024 | МЮ РК № 35218
+  URL: https://adilet.zan.kz/rus/docs/V2400035218
+  ERROR: Remote end closed connection without response
+
+=== [NPA-43] (Line 102): Правила деятельности международных и иностранных учебных заведений в Республике Казахстан и (или) их филиалов и формы их сотрудничества ===
+Registry Status/Date: Приказ МНВО РК № 191 от 16.04.2026 | Действующий
+  URL: https://adilet.zan.kz
+  ERROR: Missing document ID in URL (stub link)
+
+=== [MZ-01] (Line 110): Санитарно-эпидемиологические требования к объектам образования ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-76 от 05.08.2021 | МЮ РК № 23890
+  URL: https://adilet.zan.kz/rus/docs/V2100023890
+  ERROR: Remote end closed connection without response
+
+=== [MZ-02] (Line 111): Санитарно-эпидемиологические требования к объектам общественного питания ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-16 от 17.02.2022 | МЮ РК № 26866
+  URL: https://adilet.zan.kz/rus/docs/V2200026866
+  ERROR: The read operation timed out
+
+=== [MZ-03] (Line 112): Правила проведения обязательных медицинских осмотров (целевые группы) ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-131/2020 от 15.10.2020 | МЮ РК № 21443
+  URL: https://adilet.zan.kz/rus/docs/V2000021443
+  ERROR: The read operation timed out
+
+=== [MZ-04] (Line 113): Правила проведения медосмотров декретированного контингента ===
+Registry Status/Date: Приказ МЗСР РК № 927 от 30.11.2015 | МЮ РК № 12534
+  URL: https://adilet.zan.kz/rus/docs/V1500012534
+  ERROR: The read operation timed out
+
+=== [MZ-05] (Line 114): Формы первичной учетной медицинской документации ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-175/2020 от 30.10.2020 | МЮ РК № 21579
+  URL: https://adilet.zan.kz/rus/docs/V2000021579
+  ERROR: The read operation timed out
+
+=== [MZ-06] (Line 115): Правила оказания первичной медико-санитарной помощи (ПМСП) ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-90 от 24.08.2021 | МЮ РК № 24094
+  URL: https://adilet.zan.kz/rus/docs/V2100024094
+  ERROR: The read operation timed out
+
+=== [MZ-07] (Line 116): Правила прикрепления к медицинским организациям ПМСП ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-96/2020 от 11.08.2020 | МЮ РК № 21080
+  URL: https://adilet.zan.kz/rus/docs/V2000021080
+  ERROR: The read operation timed out
+
+=== [MZ-08] (Line 117): Санитарные требования к условиям проживания в общежитиях ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-68 от 29.07.2022 | МЮ РК № 28977
+  URL: https://adilet.zan.kz/rus/docs/V2200028977
+  ERROR: The read operation timed out
+
+=== [MZ-09] (Line 118): Санитарные требования к сбору и обезвреживанию медицинских отходов ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-94 от 28.08.2021 | МЮ РК № 24187
+  URL: https://adilet.zan.kz/rus/docs/V2100024187
+  ERROR: The read operation timed out
+
+=== [MZ-10] (Line 119): Санитарные правила по обеспечению радиационной безопасности ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-30 от 19.04.2021 | МЮ РК № 22624
+  URL: https://adilet.zan.kz/rus/docs/V2100022624
+  ERROR: The read operation timed out
+
+=== [MZ-11] (Line 120): Правила организации дезинфекции, дезинсекции и дератизации ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-108/2020 от 24.09.2020 | МЮ РК № 21285
+  URL: https://adilet.zan.kz/rus/docs/V2000021285
+  ERROR: The read operation timed out
+
+=== [MZ-12] (Line 121): Правила проведения санитарно-противоэпидемических мероприятий ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-19 от 16.02.2021 | МЮ РК № 22230
+  URL: https://adilet.zan.kz/rus/docs/V2100022230
+  ERROR: The read operation timed out
+
+=== [MZ-13] (Line 122): Правила проведения экспертизы временной нетрудоспособности (ВКК) ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-283/2020 от 20.12.2020 | МЮ РК № 21841
+  URL: https://adilet.zan.kz/rus/docs/V2000021841
+  ERROR: The read operation timed out
+
+=== [MZ-14] (Line 123): Санитарные требования к питьевой воде и водоснабжению ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-70 от 02.08.2022 | МЮ РК № 29012
+  URL: https://adilet.zan.kz/rus/docs/V2200029012
+  ERROR: The read operation timed out
+
+=== [MZ-15] (Line 124): Гигиенические нормативы к физическим факторам на рабочих местах ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-15 от 16.02.2022 | МЮ РК № 26831
+  URL: https://adilet.zan.kz/rus/docs/V2200026831
+  ERROR: The read operation timed out
+
+=== [MZ-16] (Line 125): Правила проведения производственного контроля в образовании ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-10 от 27.01.2021 | МЮ РК № 22144
+  URL: https://adilet.zan.kz/rus/docs/V2100022144
+  ERROR: The read operation timed out
+
+=== [MZ-17] (Line 126): Правила оказания скорой медицинской помощи ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-225/2020 от 30.11.2020 | МЮ РК № 21713
+  URL: https://adilet.zan.kz/rus/docs/V2000021713
+  ERROR: The read operation timed out
+
+=== [MZ-18] (Line 127): Состав аптечки для оказания первой помощи ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-118/2020 от 08.10.2020 | МЮ РК № 21424
+  URL: https://adilet.zan.kz/rus/docs/V2000021424
+  ERROR: The read operation timed out
+
+=== [MZ-19] (Line 128): Квалификационные характеристики должностей работников здравоохранения ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-305/2020 от 21.12.2020 | МЮ РК № 21856
+  URL: https://adilet.zan.kz/rus/docs/V2000021856
+  ERROR: The read operation timed out
+
+=== [MZ-20] (Line 129): Санитарные требования к лабораториям с хим- и биовеществами ===
+Registry Status/Date: Приказ МЗ РК № ҚР ДСМ-105 от 15.10.2021 | МЮ РК № 24809
+  URL: https://adilet.zan.kz/rus/docs/V2100024809
+  ERROR: The read operation timed out
+
+=== [MCHS-01] (Line 137): Закон РК «О гражданской защите» ===
+Registry Status/Date: Закон РК № 188-V от 11.04.2014 | Действующий
+  URL: https://adilet.zan.kz/rus/docs/Z1400000188
+  ERROR: The read operation timed out
+
+=== [MCHS-02] (Line 138): Правила пожарной безопасности Республики Казахстан ===
+Registry Status/Date: Приказ МЧС РК № 55 от 21.02.2022 | МЮ РК № 26867
+  URL: https://adilet.zan.kz/rus/docs/V2200026867
+  ERROR: The read operation timed out
+
+=== [MCHS-03] (Line 139): Технический регламент «Общие требования к пожарной безопасности» ===
+Registry Status/Date: Приказ МЧС РК № 405 от 17.08.2021 | МЮ РК № 24045
+  URL: https://adilet.zan.kz/rus/docs/V2100024045
+  ERROR: The read operation timed out
+
+=== [MCHS-04] (Line 140): Правила обучения работников мерам ПБ и программы ПТМ ===
+Registry Status/Date: Приказ МЧС РК № 280 от 26.05.2023 | МЮ РК № 32629
+  URL: https://adilet.zan.kz/rus/docs/V2300032629
+  ERROR: The read operation timed out
+
+=== [MCHS-05] (Line 141): Правила организации и ведения мероприятий гражданской обороны ===
+Registry Status/Date: Приказ МВД РК № 190 от 06.03.2015 | МЮ РК № 10766
+  URL: https://adilet.zan.kz/rus/docs/V1500010766
+  ERROR: The read operation timed out
+
+=== [MCHS-06] (Line 142): Правила создания, содержания и обеспечения формирований гражданской защиты ===
+Registry Status/Date: Приказ МВД РК № 387 от 23.04.2015 | МЮ РК № 11243
+  URL: https://adilet.zan.kz/rus/docs/V1500011243
+  ERROR: The read operation timed out
+
+=== [MCHS-07] (Line 143): Правила оповещения и информирования при угрозе или возникновении ЧС ===
+Registry Status/Date: Приказ МЧС РК № 282 от 10.06.2021 | МЮ РК № 23116
+  URL: https://adilet.zan.kz/rus/docs/V2100023116
+  ERROR: The read operation timed out
+
+=== [MCHS-08] (Line 144): Правила создания и использования объектов гражданской обороны ===
+Registry Status/Date: Постановление Правительства РК № 1357 от 19.12.2014 | Действующее
+  URL: https://adilet.zan.kz/rus/docs/P1400001357
+  ERROR: The read operation timed out
+
+=== [MCHS-09] (Line 145): Правила обеспечения промышленной безопасности опасных производственных объектов ===
+Registry Status/Date: Приказ МИИР/МЧС РК № 428 от 06.08.2021 | МЮ РК № 23984
+  URL: https://adilet.zan.kz/rus/docs/V2100023984
+  ERROR: The read operation timed out
+
+=== [MCHS-10] (Line 146): Правила организации и ведения гражданской обороны ===
+Registry Status/Date: Приказ МЧС РК № 268 от 08.06.2023 | МЮ РК № 32777
+  URL: https://adilet.zan.kz/rus/docs/V2300032777
+  ERROR: The read operation timed out
+
+=== [MDIAI-01] (Line 154): Правила сбора, обработки персональных данных ===
+Registry Status/Date: Приказ МЦРИАП РК № 395/НҚ от 21.10.2020 | МЮ РК № 21481
+  URL: https://adilet.zan.kz/rus/docs/V2000021481
+  ERROR: The read operation timed out
+
+=== [MDIAI-02] (Line 155): Правила осуществления собственником и (или) оператором мер по защите персональных данных ===
+Registry Status/Date: Приказ МЦРИАП РК № 396/НҚ от 21.10.2020 | МЮ РК № 21483
+  URL: https://adilet.zan.kz/rus/docs/V2000021483
+  ERROR: The read operation timed out
+
+=== [MDIAI-03] (Line 156): Единые требования в области ИКТ и обеспечения ИБ (ЕТИКТ и ИБ) ===
+Registry Status/Date: Постановление Правительства РК № 832 от 20.12.2016 | Действующее
+  URL: https://adilet.zan.kz/rus/docs/P1600000832
+  ERROR: The read operation timed out
+
+=== [MDIAI-04] (Line 157): Правила интеграции объектов информатизации «электронного правительства» ===
+Registry Status/Date: Приказ МЦРИАП РК № 143/НҚ от 29.06.2019 | МЮ РК № 18933
+  URL: https://adilet.zan.kz/rus/docs/V1900018933
+  ERROR: The read operation timed out
+
+=== [MDIAI-05] (Line 158): Правила проведения аттестации информационных систем на соответствие требованиям ИБ ===
+Registry Status/Date: Приказ МЦРИАП РК № 153/НҚ от 03.07.2019 | МЮ РК № 18968
+  URL: https://adilet.zan.kz/rus/docs/V1900018968
+  ERROR: The read operation timed out
+
+=== [MDIAI-06] (Line 159): Концепция развития искусственного интеллекта на 2024–2029 годы ===
+Registry Status/Date: Постановление Правительства РК № 604 от 26.07.2024 | Действующее
+  URL: https://adilet.zan.kz/rus/docs/P2400000604
+  ERROR: The read operation timed out
+
+=== [MNE-01] (Line 167): Правила разработки, утверждения планов развития контролируемых государством АО и ТОО, а также мониторинга и оценки их реализации ===
+Registry Status/Date: Приказ Заместителя Премьер-Министра – МНЭ РК № 18 от 30.04.2025 (ранее Приказ МНЭ № 14 от 14.02.2019 / МЮ № 18328 и Приказ № 56 от 14.02.2018 / МЮ № 16636) | Действующий (ранее МЮ РК № 18328 / № 16636)
+  URL: https://adilet.zan.kz/rus/docs/G25NT000018
+  ERROR: The read operation timed out
+
+=== [MNE-02] (Line 168): Типовой кодекс корпоративного управления в контролируемых государством акционерных обществах ===
+Registry Status/Date: Приказ МНЭ РК № 178 от 29.12.2014 | МЮ РК № 10174
+  URL: https://adilet.zan.kz/rus/docs/V1400010174
+  ERROR: The read operation timed out
+
+=== [MNE-03] (Line 169): Правила проведения оценки эффективности деятельности контролируемых государством АО и госпредприятий ===
+Registry Status/Date: Приказ МНЭ РК № 149 от 27.02.2015 | МЮ РК № 10609
+  URL: https://adilet.zan.kz/rus/docs/V1500010609
+  ERROR: The read operation timed out
+
+=== [MNE-04] (Line 170): Правила разработки и утверждения годового отчета по исполнению плана развития контролируемых государством АО ===
+Registry Status/Date: Приказ МНЭ РК № 410 от 29.05.2015 | МЮ РК № 11531
+  URL: https://adilet.zan.kz/rus/docs/V1500011531
+  ERROR: The read operation timed out
+
+=== [MNE-05] (Line 171): Критерии оценки степени риска ОВПО (Домен 09 «Миссия, стратегия, ценности») ===
+Registry Status/Date: Совместный приказ МНВО № 166 и МНЭ № 116 от 01-02.12.2022 | МЮ РК № 30907
+  URL: https://adilet.zan.kz/rus/docs/V2200030907
+  ERROR: The read operation timed out
+
+=== [MF-01] (Line 172): Правила ведения бухгалтерского учета ===
+Registry Status/Date: Приказ МФ РК № 241 от 31.03.2015 | МЮ РК № 10984
+  URL: https://adilet.zan.kz/rus/docs/V1500010984
+  ERROR: The read operation timed out
+
+=== [MF-02] (Line 173): Альбом форм первичных учетных документов ===
+Registry Status/Date: Приказ МФ РК № 562 от 20.12.2012 | МЮ РК № 8265
+  URL: https://adilet.zan.kz/rus/docs/V1300008265
+  ERROR: The read operation timed out
+
+=== [MF-03] (Line 174): Правила составления и представления финансовой отчетности ===
+Registry Status/Date: Приказ МФ РК № 110 от 01.02.2018 | МЮ РК № 16422
+  URL: https://adilet.zan.kz/rus/docs/V1800016422
+  ERROR: The read operation timed out
+
+=== [MF-04] (Line 175): Правила проведения внутреннего государственного аудита и финансового контроля ===
+Registry Status/Date: Приказ МФ РК № 598 от 30.11.2015 | МЮ РК № 12599
+  URL: https://adilet.zan.kz/rus/docs/V1500012599
+  ERROR: The read operation timed out
+
+=== [MF-05] (Line 176): Правила осуществления государственных закупок ===
+Registry Status/Date: Приказ МФ РК № 648 от 11.12.2015 (с изменениями 2024 г.) | МЮ РК № 12590
+  URL: https://adilet.zan.kz/rus/docs/V1500012590
+  ERROR: The read operation timed out
+
+=== [MCIS-01] (Line 184): Правила документирования, управления документацией и использования систем электронного документооборота в государственных и негосударственных организациях ===
+Registry Status/Date: Приказ МКС РК № 236 от 25.08.2023 | МЮ РК № 33339
+  URL: https://adilet.zan.kz/rus/docs/V2300033339
+  ERROR: The read operation timed out
+
+=== [MCIS-02] (Line 185): Перечень типовых документов, образующихся в деятельности государственных и негосударственных организаций, с указанием срока хранения ===
+Registry Status/Date: Приказ и.о. МКИ РК № 566-НҚ от 29.12.2023 | МЮ РК № 33838
+  URL: https://adilet.zan.kz/rus/docs/V2300033838
+  ERROR: The read operation timed out
+
+=== [MCIS-03] (Line 186): Правила приема, хранения, учета и использования документов НАФ и других архивных документов ведомственными и частными архивами ===
+Registry Status/Date: Приказ МКС РК № 134 от 29.05.2023 | МЮ РК № 32632
+  URL: https://adilet.zan.kz/rus/docs/V2300032632
+  ERROR: The read operation timed out
+
+=== [MCIS-04] (Line 187): Правила формирования, сохранения и использования библиотечного фонда государственных библиотек ===
+Registry Status/Date: Приказ МКС РК № 153 от 28.05.2020 | МЮ РК № 20760
+  URL: https://adilet.zan.kz/rus/docs/V2000020760
+  ERROR: The read operation timed out
+
+=== [MCIS-05] (Line 188): Правила фондово-закупочной, научно-исследовательской, экспозиционной и учетно-хранительской работы государственных музеев ===
+Registry Status/Date: Приказ МКС РК № 95 от 17.04.2020 | МЮ РК № 20438
+  URL: https://adilet.zan.kz/rus/docs/V2000020438
+  ERROR: The read operation timed out
+
+=== [MCIS-06] (Line 189): Правила постановки на учет средств массовой информации ===
+Registry Status/Date: Приказ Министра культуры и информации РК № 368-НҚ от 20.08.2024 | МЮ РК № 34968
+  URL: https://adilet.zan.kz/rus/docs/V2400034968
+  ERROR: The read operation timed out
+
+=== [MTSZN-01] (Line 197): Об утверждении Национальной рамки квалификаций ===
+Registry Status/Date: Приказ Министра труда и социальной защиты населения РК № 436 от 06.09.2023 | МЮ РК № 33385
+  URL: https://adilet.zan.kz/rus/docs/V2300033385
+  ERROR: The read operation timed out
+
+=== [MTSZN-02] (Line 198): Об определении правил признания профессиональных квалификаций ===
+Registry Status/Date: Приказ Министра труда и социальной защиты населения РК № 374 от 06.09.2023 | МЮ РК № 33387
+  URL: https://adilet.zan.kz/rus/docs/V2300033387
+  ERROR: The read operation timed out
+
+=== [PP-01] (Line 199): Требования к организации антитеррористической защиты объектов, уязвимых в террористическом отношении ===
+Registry Status/Date: Постановление Правительства РК № 305 от 06.05.2021 | Действующее
+  URL: https://adilet.zan.kz/rus/docs/P2100000305
+  ERROR: The read operation timed out
+
+=== [LSO-01] (Line 200): Типовое положение о службе безопасности и охраны труда в организации ===
+Registry Status/Date: Приказ МЗСР РК № 1020 от 25.12.2015 | МЮ РК № 12747
+  URL: https://adilet.zan.kz/rus/docs/V1500012747
+  ERROR: The read operation timed out
+
+=== [LSO-02] (Line 201): Правила и сроки проведения обучения, инструктирования и проверок знаний по вопросам безопасности и охраны труда работников, руководителей и лиц, ответственных за обеспечение БиОТ ===
+Registry Status/Date: Приказ МЗСР РК № 1019 от 25.12.2015 | МЮ РК № 12665
+  URL: https://adilet.zan.kz/rus/docs/V1500012665
+  ERROR: The read operation timed out
+
+=== [LSO-03] (Line 202): Правила обязательной периодической аттестации производственных объектов по условиям труда ===
+Registry Status/Date: Приказ МЗСР РК № 1057 от 28.12.2015 | МЮ РК № 12743
+  URL: https://adilet.zan.kz/rus/docs/V1500012743
+  ERROR: The read operation timed out
+

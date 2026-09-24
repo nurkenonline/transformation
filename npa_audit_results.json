@@ -1,0 +1,3018 @@
+[
+  [
+    {
+      "line": 28,
+      "code": "LAW-01",
+      "title": "Конституция Республики Казахстан",
+      "num_date": "30.08.1995",
+      "reg_col": "Высшая юридическая сила",
+      "link_col": "[K950001000_](https://adilet.zan.kz/rus/docs/K950001000_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/K950001000_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/K950001000_",
+        "ngr": "K950001000_",
+        "result": "EXPIRED",
+        "detail": "Документ официально УТРАТИЛ СИЛУ в ИПС «Әділет» (статус: yts)",
+        "adilet_title": "Конституция Республики Казахстан",
+        "status_raw": "yts",
+        "reg_num": "1"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 29,
+      "code": "LAW-02",
+      "title": "Закон РК «Об образовании»",
+      "num_date": "№ 319-III от 27.07.2007",
+      "reg_col": "Действующий",
+      "link_col": "[Z070000319_](https://adilet.zan.kz/rus/docs/Z070000319_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z070000319_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z070000319_",
+        "ngr": "Z070000319_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об образовании",
+        "status_raw": "upd",
+        "reg_num": "34652"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 30,
+      "code": "LAW-03",
+      "title": "Закон РК «О науке и технологической политике»",
+      "num_date": "№ 103-VIII от 01.07.2024",
+      "reg_col": "Действующий",
+      "link_col": "[Z2400000103](https://adilet.zan.kz/rus/docs/Z2400000103)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z2400000103"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z2400000103",
+        "ngr": "Z2400000103",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О науке и технологической политике",
+        "status_raw": "upd",
+        "reg_num": "198410"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 31,
+      "code": "LAW-04",
+      "title": "Закон РК «О статусе педагога»",
+      "num_date": "№ 293-VI от 27.12.2019",
+      "reg_col": "Действующий",
+      "link_col": "[Z1900000293](https://adilet.zan.kz/rus/docs/Z1900000293)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1900000293"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1900000293",
+        "ngr": "Z1900000293",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О статусе педагога",
+        "status_raw": "upd",
+        "reg_num": "137894"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 32,
+      "code": "LAW-05",
+      "title": "Закон РК «О коммерциализации результатов научной и (или) научно-технической деятельности»",
+      "num_date": "№ 381-V от 31.10.2015",
+      "reg_col": "Действующий",
+      "link_col": "[Z1500000381](https://adilet.zan.kz/rus/docs/Z1500000381)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1500000381"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1500000381",
+        "ngr": "Z1500000381",
+        "result": "EXPIRED",
+        "detail": "Документ официально УТРАТИЛ СИЛУ в ИПС «Әділет» (статус: yts)",
+        "adilet_title": "О коммерциализации результатов научной и (или) научно-технической деятельности",
+        "status_raw": "yts",
+        "reg_num": "95243"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 33,
+      "code": "LAW-06",
+      "title": "Трудовой кодекс Республики Казахстан",
+      "num_date": "№ 414-V от 23.11.2015",
+      "reg_col": "Действующий",
+      "link_col": "[K1500000414](https://adilet.zan.kz/rus/docs/K1500000414)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/K1500000414"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/K1500000414",
+        "ngr": "K1500000414",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Трудовой кодекс Республики Казахстан",
+        "status_raw": "upd",
+        "reg_num": "95666"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 34,
+      "code": "LAW-07",
+      "title": "Закон РК «О государственном имуществе»",
+      "num_date": "№ 413-IV от 01.03.2011",
+      "reg_col": "Действующий",
+      "link_col": "[Z1100000413](https://adilet.zan.kz/rus/docs/Z1100000413)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1100000413"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1100000413",
+        "ngr": "Z1100000413",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О государственном имуществе",
+        "status_raw": "upd",
+        "reg_num": "57639"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 35,
+      "code": "LAW-08",
+      "title": "Закон РК «О противодействии коррупции»",
+      "num_date": "№ 410-V от 18.11.2015",
+      "reg_col": "Действующий",
+      "link_col": "[Z1500000410](https://adilet.zan.kz/rus/docs/Z1500000410)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1500000410"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1500000410",
+        "ngr": "Z1500000410",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О противодействии коррупции",
+        "status_raw": "upd",
+        "reg_num": "95592"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 36,
+      "code": "LAW-09",
+      "title": "Закон РК «О государственных закупках»",
+      "num_date": "№ 106-VIII от 01.07.2024",
+      "reg_col": "Действующий",
+      "link_col": "[Z2400000106](https://adilet.zan.kz/rus/docs/Z2400000106)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z2400000106"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z2400000106",
+        "ngr": "Z2400000106",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О государственных закупках",
+        "status_raw": "upd",
+        "reg_num": "198415"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 37,
+      "code": "LAW-10",
+      "title": "Закон РК «О персональных данных и их защите»",
+      "num_date": "№ 94-V от 21.05.2013",
+      "reg_col": "Действующий",
+      "link_col": "[Z1300000094](https://adilet.zan.kz/rus/docs/Z1300000094)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1300000094"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1300000094",
+        "ngr": "Z1300000094",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О персональных данных и их защите",
+        "status_raw": "upd",
+        "reg_num": "72730"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 38,
+      "code": "LAW-11",
+      "title": "Закон РК «Об информатизации»",
+      "num_date": "№ 418-V от 24.11.2015",
+      "reg_col": "Действующий",
+      "link_col": "[Z1500000418](https://adilet.zan.kz/rus/docs/Z1500000418)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1500000418"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1500000418",
+        "ngr": "Z1500000418",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О кибербезопасности",
+        "status_raw": "upd",
+        "reg_num": "95699"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 39,
+      "code": "LAW-12",
+      "title": "Закон РК «О государственной молодежной политике»",
+      "num_date": "№ 285-V от 09.02.2015",
+      "reg_col": "Действующий",
+      "link_col": "[Z1500000285](https://adilet.zan.kz/rus/docs/Z1500000285)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1500000285"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1500000285",
+        "ngr": "Z1500000285",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О государственной молодежной политике",
+        "status_raw": "upd",
+        "reg_num": "86505"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 40,
+      "code": "LAW-13",
+      "title": "Закон РК «О воинской службе и статусе военнослужащих»",
+      "num_date": "№ 561-IV от 16.02.2012",
+      "reg_col": "Действующий",
+      "link_col": "[Z1200000561](https://adilet.zan.kz/rus/docs/Z1200000561)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1200000561"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1200000561",
+        "ngr": "Z1200000561",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О воинской службе и статусе военнослужащих",
+        "status_raw": "upd",
+        "reg_num": "63612"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 41,
+      "code": "LAW-14",
+      "title": "Закон РК «Об акционерных обществах»",
+      "num_date": "№ 415-II от 13.05.2003",
+      "reg_col": "Действующий",
+      "link_col": "[Z030000415_](https://adilet.zan.kz/rus/docs/Z030000415_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z030000415_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z030000415_",
+        "ngr": "Z030000415_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об акционерных обществах",
+        "status_raw": "upd",
+        "reg_num": "15348"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 42,
+      "code": "LAW-15",
+      "title": "Бюджетный кодекс Республики Казахстан",
+      "num_date": "№ 95-IV от 04.12.2008",
+      "reg_col": "Действующий",
+      "link_col": "[K080000095_](https://adilet.zan.kz/rus/docs/K080000095_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/K080000095_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/K080000095_",
+        "ngr": "K080000095_",
+        "result": "EXPIRED",
+        "detail": "Документ официально УТРАТИЛ СИЛУ в ИПС «Әділет» (статус: yts)",
+        "adilet_title": "Бюджетный кодекс Республики Казахстан",
+        "status_raw": "yts",
+        "reg_num": "42587"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 43,
+      "code": "LAW-16",
+      "title": "Кодекс РК «О налогах и других обязательных платежах в бюджет» (Налоговый кодекс)",
+      "num_date": "№ 120-VI от 25.12.2017",
+      "reg_col": "Действующий",
+      "link_col": "[K1700000120](https://adilet.zan.kz/rus/docs/K1700000120)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/K1700000120"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/K1700000120",
+        "ngr": "K1700000120",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О налогах и других обязательных платежах в бюджет (Налоговый кодекс)",
+        "status_raw": "upd",
+        "reg_num": "117004"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 44,
+      "code": "LAW-17",
+      "title": "Закон РК «О бухгалтерском учете и финансовой отчетности»",
+      "num_date": "№ 234-III от 28.02.2007",
+      "reg_col": "Действующий",
+      "link_col": "[Z070000234_](https://adilet.zan.kz/rus/docs/Z070000234_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z070000234_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z070000234_",
+        "ngr": "Z070000234_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О бухгалтерском учете и финансовой отчетности",
+        "status_raw": "upd",
+        "reg_num": "32165"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 45,
+      "code": "LAW-18",
+      "title": "Закон РК «О Национальном архивном фонде и архивах»",
+      "num_date": "№ 326-I от 22.12.1998",
+      "reg_col": "Действующий",
+      "link_col": "[Z980000326_](https://adilet.zan.kz/rus/docs/Z980000326_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z980000326_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z980000326_",
+        "ngr": "Z980000326_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О Национальном архивном фонде и архивах",
+        "status_raw": "upd",
+        "reg_num": "1889"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 46,
+      "code": "LAW-19",
+      "title": "Закон РК «О культуре»",
+      "num_date": "№ 207-III от 15.12.2006",
+      "reg_col": "Действующий",
+      "link_col": "[Z060000207_](https://adilet.zan.kz/rus/docs/Z060000207_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z060000207_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z060000207_",
+        "ngr": "Z060000207_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О культуре",
+        "status_raw": "upd",
+        "reg_num": "30774"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 47,
+      "code": "LAW-20",
+      "title": "Закон РК «О масс-медиа»",
+      "num_date": "№ 94-VIII от 19.06.2024",
+      "reg_col": "Действующий (в силе с августа 2024 г.)",
+      "link_col": "[Z2400000094](https://adilet.zan.kz/rus/docs/Z2400000094)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z2400000094"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z2400000094",
+        "ngr": "Z2400000094",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: new)",
+        "adilet_title": "О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам масс-медиа",
+        "status_raw": "new",
+        "reg_num": "197915"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 48,
+      "code": "LAW-21",
+      "title": "Закон РК «Об охране и использовании объектов историко-культурного наследия»",
+      "num_date": "№ 288-VI от 26.12.2019",
+      "reg_col": "Действующий",
+      "link_col": "[Z1900000288](https://adilet.zan.kz/rus/docs/Z1900000288)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1900000288"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1900000288",
+        "ngr": "Z1900000288",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об охpане и использовании объектов истоpико-культуpного наследия",
+        "status_raw": "upd",
+        "reg_num": "137700"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 49,
+      "code": "LAW-22",
+      "title": "Закон РК «О противодействии терроризму»",
+      "num_date": "№ 416-I от 13.07.1999",
+      "reg_col": "Действующий",
+      "link_col": "[Z990000416_](https://adilet.zan.kz/rus/docs/Z990000416_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z990000416_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z990000416_",
+        "ngr": "Z990000416_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О противодействии терроризму",
+        "status_raw": "upd",
+        "reg_num": "3686"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 50,
+      "code": "LAW-23",
+      "title": "Закон РК «Об охранной деятельности»",
+      "num_date": "№ 85-II от 19.10.2000",
+      "reg_col": "Действующий",
+      "link_col": "[Z000000085_](https://adilet.zan.kz/rus/docs/Z000000085_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z000000085_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z000000085_",
+        "ngr": "Z000000085_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об охранной деятельности",
+        "status_raw": "upd",
+        "reg_num": "7217"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 51,
+      "code": "LAW-24",
+      "title": "Закон РК «Об энергосбережении и повышении энергоэффективности»",
+      "num_date": "№ 541-IV от 13.01.2012",
+      "reg_col": "Действующий",
+      "link_col": "[Z1200000541](https://adilet.zan.kz/rus/docs/Z1200000541)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1200000541"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1200000541",
+        "ngr": "Z1200000541",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об энергосбережении и повышении энергоэффективности",
+        "status_raw": "upd",
+        "reg_num": "62912"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 52,
+      "code": "LAW-25",
+      "title": "Закон РК «О профессиональных квалификациях»",
+      "num_date": "№ 14-VIII от 04.07.2023",
+      "reg_col": "Действующий",
+      "link_col": "[Z2300000014](https://adilet.zan.kz/rus/docs/Z2300000014)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z2300000014"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z2300000014",
+        "ngr": "Z2300000014",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О профессиональных квалификациях",
+        "status_raw": "upd",
+        "reg_num": "183678"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 60,
+      "code": "NPA-01",
+      "title": "Критерии оценки степени риска и проверочные листы в сфере высшего и послевузовского образования",
+      "num_date": "Совместный приказ МНВО № 166 (01.12.2022) и МНЭ № 116 (02.12.2022)",
+      "reg_col": "МЮ РК № 30920",
+      "link_col": "[V2200030920](https://adilet.zan.kz/rus/docs/V2200030920)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200030920"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200030920",
+        "ngr": "V2200030920",
+        "result": "HTTP_500",
+        "detail": "Ошибка HTTP 500",
+        "adilet_title": null,
+        "status_raw": null
+      }
+    ]
+  ],
+  [
+    {
+      "line": 61,
+      "code": "NPA-02",
+      "title": "Государственные общеобязательные стандарты высшего и послевузовского образования (ГОСО)",
+      "num_date": "Приказ МНВО РК № 2 от 20.07.2022",
+      "reg_col": "МЮ РК № 28916",
+      "link_col": "[V2200028916](https://adilet.zan.kz/rus/docs/V2200028916)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200028916"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200028916",
+        "ngr": "V2200028916",
+        "result": "HTTP_500",
+        "detail": "Ошибка HTTP 500",
+        "adilet_title": null,
+        "status_raw": null
+      }
+    ]
+  ],
+  [
+    {
+      "line": 62,
+      "code": "NPA-03",
+      "title": "Типовые правила деятельности организаций высшего и послевузовского образования",
+      "num_date": "Приказ МОН РК № 595 от 30.10.2018",
+      "reg_col": "МЮ РК № 17657",
+      "link_col": "[V1800017657](https://adilet.zan.kz/rus/docs/V1800017657)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1800017657"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1800017657",
+        "ngr": "V1800017657",
+        "result": "HTTP_500",
+        "detail": "Ошибка HTTP 500",
+        "adilet_title": null,
+        "status_raw": null
+      }
+    ]
+  ],
+  [
+    {
+      "line": 63,
+      "code": "NPA-04",
+      "title": "Квалификационные требования к образовательной деятельности ОВПО",
+      "num_date": "Приказ МНВО РК № 4 от 05.01.2024 (в ред. Приказа № 18 от 16.01.2026 / МЮ № 37860; ранее Приказ МОН № 391)",
+      "reg_col": "МЮ РК № 33892 / № 37860",
+      "link_col": "[V2400033892](https://adilet.zan.kz/rus/docs/V2400033892)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2400033892"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2400033892",
+        "ngr": "V2400033892",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении квалификационных требований, предъявляемых к образовательной деятельности организаций, предоставляющих высшее и (или) послевузовское образование, и перечня документов, подтверждающих соответствие им",
+        "status_raw": "upd",
+        "reg_num": "33892"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 64,
+      "code": "NPA-05",
+      "title": "Правила организации учебного процесса по кредитной технологии обучения",
+      "num_date": "Приказ МОН РК № 152 от 20.04.2011",
+      "reg_col": "МЮ РК № 6976",
+      "link_col": "[V1100006976](https://adilet.zan.kz/rus/docs/V1100006976)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1100006976"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1100006976",
+        "ngr": "V1100006976",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил организации учебного процесса по кредитной технологии обучения в организациях высшего и (или) послевузовского образования",
+        "status_raw": "upd",
+        "reg_num": "6976"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 65,
+      "code": "NPA-06",
+      "title": "Требования к предоставлению дистанционного обучения и правила ДО",
+      "num_date": "Приказ МОН РК № 137 от 20.03.2015",
+      "reg_col": "МЮ РК № 10768",
+      "link_col": "[V1500010768](https://adilet.zan.kz/rus/docs/V1500010768)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1500010768"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1500010768",
+        "ngr": "V1500010768",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении требований к организациям образования по предоставлению дистанционного обучения и правил организации учебного процесса по дистанционному обучению и в форме онлайн-обучения по образовательным программам высшего и (или) послевузовского образования",
+        "status_raw": "upd",
+        "reg_num": "10768"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 66,
+      "code": "NPA-07",
+      "title": "Типовые правила приема на обучение в организации ВО и ПВО",
+      "num_date": "Приказ МОН РК № 600 от 31.10.2018",
+      "reg_col": "МЮ РК № 17650",
+      "link_col": "[V1800017650](https://adilet.zan.kz/rus/docs/V1800017650)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1800017650"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1800017650",
+        "ngr": "V1800017650",
+        "result": "HTTP_500",
+        "detail": "Ошибка HTTP 500",
+        "adilet_title": null,
+        "status_raw": null
+      }
+    ]
+  ],
+  [
+    {
+      "line": 67,
+      "code": "NPA-08",
+      "title": "Классификатор направлений подготовки кадров с ВО и ПВО",
+      "num_date": "Приказ МОН РК № 569 от 13.10.2018",
+      "reg_col": "МЮ РК № 17565",
+      "link_col": "[V1800017565](https://adilet.zan.kz/rus/docs/V1800017565)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1800017565"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1800017565",
+        "ngr": "V1800017565",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Классификатора направлений подготовки кадров с высшим и послевузовским образованием",
+        "status_raw": "upd",
+        "reg_num": "17565"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 68,
+      "code": "NPA-09",
+      "title": "Правила ведения реестра образовательных программ ОВПО",
+      "num_date": "Приказ МНВО РК № 106 от 12.10.2022",
+      "reg_col": "МЮ РК № 30139",
+      "link_col": "[V2200030139](https://adilet.zan.kz/rus/docs/V2200030139)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200030139"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200030139",
+        "ngr": "V2200030139",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил ведения реестра образовательных программ, реализуемых организациями высшего и (или) послевузовского образования, а также основания включения в реестр образовательных программ и исключения из него",
+        "status_raw": "upd",
+        "reg_num": "30139"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 69,
+      "code": "NPA-10",
+      "title": "Правила организации дуального обучения в ОВПО",
+      "num_date": "Приказ МНВО РК № 361 от 27.07.2023",
+      "reg_col": "МЮ РК № 33206",
+      "link_col": "[V2300033206](https://adilet.zan.kz/rus/docs/V2300033206)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300033206"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300033206",
+        "ngr": "V2300033206",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: new)",
+        "adilet_title": "Об утверждении Правил организации дуального обучения в организациях высшего и (или) послевузовского образования",
+        "status_raw": "new",
+        "reg_num": "33206"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 70,
+      "code": "NPA-11",
+      "title": "Правила признания результатов неформального образования и квалификаций",
+      "num_date": "Совместный приказ МНВО № 544 и МП № 322 от 24.10.2023",
+      "reg_col": "МЮ РК № 33580",
+      "link_col": "[V2300033580](https://adilet.zan.kz/rus/docs/V2300033580)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300033580"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300033580",
+        "ngr": "V2300033580",
+        "result": "HTTP_500",
+        "detail": "Ошибка HTTP 500",
+        "adilet_title": null,
+        "status_raw": null
+      }
+    ]
+  ],
+  [
+    {
+      "line": 71,
+      "code": "NPA-12",
+      "title": "Правила педагогической переподготовки",
+      "num_date": "Приказ МОН РК № 110 от 17.03.2020",
+      "reg_col": "МЮ РК № 20147",
+      "link_col": "[V2000020147](https://adilet.zan.kz/rus/docs/V2000020147)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000020147"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000020147",
+        "ngr": "V2000020147",
+        "result": "HTTP_500",
+        "detail": "Ошибка HTTP 500",
+        "adilet_title": null,
+        "status_raw": null
+      }
+    ]
+  ],
+  [
+    {
+      "line": 72,
+      "code": "NPA-13",
+      "title": "Типовые учебные программы цикла общеобразовательных дисциплин (ООД)",
+      "num_date": "Приказ МОН РК № 603 от 31.10.2018",
+      "reg_col": "МЮ РК № 17651",
+      "link_col": "[V1800017651](https://adilet.zan.kz/rus/docs/V1800017651)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1800017651"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1800017651",
+        "ngr": "V1800017651",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении типовых учебных программ цикла общеобразовательных дисциплин для организаций высшего и (или) послевузовского образования",
+        "status_raw": "upd",
+        "reg_num": "17651"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 73,
+      "code": "NPA-14",
+      "title": "Правила организации учебно-методической и научно-методической работы",
+      "num_date": "Приказ МОН РК № 583 от 29.11.2007",
+      "reg_col": "МЮ РК № 5036",
+      "link_col": "[V070005036_](https://adilet.zan.kz/rus/docs/V070005036_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V070005036_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V070005036_",
+        "ngr": "V070005036_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил организации и осуществления учебно-методической и научно-методической работы в организациях образования",
+        "status_raw": "upd",
+        "reg_num": "5036"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 74,
+      "code": "NPA-15",
+      "title": "Формы документов строгой отчетности в сфере образования",
+      "num_date": "Приказ МОН РК № 39 от 28.01.2015",
+      "reg_col": "МЮ РК № 10348",
+      "link_col": "[V1500010348](https://adilet.zan.kz/rus/docs/V1500010348)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1500010348"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1500010348",
+        "ngr": "V1500010348",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении видов документов о среднем, техническом и профессиональном, послесреднем образовании, формы документов о среднем, техническом и профессиональном, послесреднем образовании государственного образца и правила их учета и выдачи, а также форму справки, выдаваемой лицам, не завершившим образование в организациях образования",
+        "status_raw": "upd",
+        "reg_num": "10348"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 75,
+      "code": "NPA-16",
+      "title": "Правила по формированию, использованию и сохранению фонда библиотек государственных организаций образования",
+      "num_date": "Приказ МОН РК № 44 от 19.01.2016",
+      "reg_col": "МЮ РК № 13070",
+      "link_col": "[V1600013070](https://adilet.zan.kz/rus/docs/V1600013070)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1600013070"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1600013070",
+        "ngr": "V1600013070",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил по формированию, использованию и сохранению фонда библиотек государственных организаций среднего, технического и профессионального, послесреднего образования",
+        "status_raw": "upd",
+        "reg_num": "13070"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 76,
+      "code": "NPA-17",
+      "title": "Правила конкурсного замещения должностей ППС и ученых ОВПО",
+      "num_date": "Приказ МОН РК № 230 от 23.04.2015",
+      "reg_col": "МЮ РК № 11122",
+      "link_col": "[V1500011122](https://adilet.zan.kz/rus/docs/V1500011122)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1500011122"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1500011122",
+        "ngr": "V1500011122",
+        "result": "EXPIRED",
+        "detail": "Документ официально УТРАТИЛ СИЛУ в ИПС «Әділет» (статус: yts)",
+        "adilet_title": "Об утверждении Правил конкурсного замещения должностей профессорско-преподавательского состава и научных работников высших учебных заведений",
+        "status_raw": "yts",
+        "reg_num": "11122"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 77,
+      "code": "NPA-18",
+      "title": "Типовые квалификационные характеристики должностей педагогов",
+      "num_date": "Приказ МОН РК № 338 от 13.07.2009",
+      "reg_col": "МЮ РК № 5750",
+      "link_col": "[V090005750_](https://adilet.zan.kz/rus/docs/V090005750_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V090005750_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V090005750_",
+        "ngr": "V090005750_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Типовых квалификационных характеристик должностей педагогов",
+        "status_raw": "upd",
+        "reg_num": "5750"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 78,
+      "code": "NPA-19",
+      "title": "Типовое положение о диссертационном совете",
+      "num_date": "Приказ МОН РК № 126 от 31.03.2011",
+      "reg_col": "МЮ РК № 6929",
+      "link_col": "[V1100006929](https://adilet.zan.kz/rus/docs/V1100006929)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1100006929"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1100006929",
+        "ngr": "V1100006929",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Типового положения о диссертационном совете",
+        "status_raw": "upd",
+        "reg_num": "6929"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 79,
+      "code": "NPA-20",
+      "title": "Правила присуждения степеней (доктора философии PhD)",
+      "num_date": "Приказ МОН РК № 127 от 31.03.2011",
+      "reg_col": "МЮ РК № 6951",
+      "link_col": "[V1100006951](https://adilet.zan.kz/rus/docs/V1100006951)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1100006951"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1100006951",
+        "ngr": "V1100006951",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил присуждения степеней",
+        "status_raw": "upd",
+        "reg_num": "6951"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 80,
+      "code": "NPA-21",
+      "title": "Правила присвоения ученых званий (доцент, профессор)",
+      "num_date": "Приказ МОН РК № 128 от 31.03.2011",
+      "reg_col": "МЮ РК № 6939",
+      "link_col": "[V1100006939](https://adilet.zan.kz/rus/docs/V1100006939)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1100006939"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1100006939",
+        "ngr": "V1100006939",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил присвоения ученых званий (ассоциированный профессор (доцент), профессор)",
+        "status_raw": "upd",
+        "reg_num": "6939"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 81,
+      "code": "NPA-22",
+      "title": "Требования к научным изданиям для включения в Перечень КОКСНВО",
+      "num_date": "Приказ МОН РК № 20 от 12.01.2016",
+      "reg_col": "МЮ РК № 13409",
+      "link_col": "[V1600013409](https://adilet.zan.kz/rus/docs/V1600013409)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1600013409"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1600013409",
+        "ngr": "V1600013409",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении требований к научным изданиям для включения их в перечень изданий, рекомендуемых для публикации результатов научной деятельности",
+        "status_raw": "upd",
+        "reg_num": "13409"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 82,
+      "code": "NPA-23",
+      "title": "Правила перевода и восстановления обучающихся по типам организаций образования",
+      "num_date": "Приказ МОН РК № 19 от 20.01.2015",
+      "reg_col": "МЮ РК № 10297",
+      "link_col": "[V15H0010297](https://adilet.zan.kz/rus/docs/V15H0010297)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V15H0010297"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V15H0010297",
+        "ngr": "V15H0010297",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении правил оказания государственных услуг в сфере технического и профессионального, послесреднего образования",
+        "status_raw": "upd",
+        "reg_num": "10297"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 83,
+      "code": "NPA-24",
+      "title": "Правила предоставления академических отпусков обучающимся",
+      "num_date": "Приказ МОН РК № 506 от 04.12.2014",
+      "reg_col": "МЮ РК № 10475",
+      "link_col": "[V1400010475](https://adilet.zan.kz/rus/docs/V1400010475)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1400010475"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1400010475",
+        "ngr": "V1400010475",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил предоставления академических отпусков обучающимся в организациях технического и профессионального, послесреднего образования",
+        "status_raw": "upd",
+        "reg_num": "10475"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 84,
+      "code": "NPA-25",
+      "title": "Правила направления специалиста на работу, возмещения расходов и отработки гранта",
+      "num_date": "Приказ и.о. МНВО РК № 403 от 11.08.2023",
+      "reg_col": "МЮ РК № 33291",
+      "link_col": "[V2300033291](https://adilet.zan.kz/rus/docs/V2300033291)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300033291"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300033291",
+        "ngr": "V2300033291",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил направления специалиста на работу, возмещения расходов, понесенных за счет бюджетных средств, предоставления права самостоятельного трудоустройства, освобождения от обязанности или прекращения обязанности по отработке гражданами Республики Казахстан, обучавшимися на основе государственного образовательного заказа",
+        "status_raw": "upd",
+        "reg_num": "33291"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 85,
+      "code": "NPA-26",
+      "title": "Правила направления на обучение за рубеж и академической мобильности",
+      "num_date": "Приказ МОН РК № 613 от 19.11.2008",
+      "reg_col": "МЮ РК № 5499",
+      "link_col": "[V080005499_](https://adilet.zan.kz/rus/docs/V080005499_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V080005499_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V080005499_",
+        "ngr": "V080005499_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил направления для обучения за рубежом, в том числе в рамках академической мобильности",
+        "status_raw": "upd",
+        "reg_num": "5499"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 86,
+      "code": "NPA-27",
+      "title": "Правила признания документов об образовании (нострификация)",
+      "num_date": "Приказ МНВО РК № 47 от 10.02.2023",
+      "reg_col": "МЮ РК № 31894",
+      "link_col": "[V2300031894](https://adilet.zan.kz/rus/docs/V2300031894)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300031894"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300031894",
+        "ngr": "V2300031894",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении видов документов о высшем и (или) послевузовском образовании, формы документов о высшем и (или) послевузовском образовании государственного образца и правил их учета и выдачи, основных требований к содержанию документов о высшем и (или) послевузовском образовании собственного образца и правил их учета и выдачи",
+        "status_raw": "upd",
+        "reg_num": "31894"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 87,
+      "code": "NPA-28",
+      "title": "Перечень направлений подготовки, запрещенных к экстернату и онлайн-обучению",
+      "num_date": "Приказ МОН РК № 530 от 02.10.2018",
+      "reg_col": "МЮ РК № 17513",
+      "link_col": "[V1800017513](https://adilet.zan.kz/rus/docs/V1800017513)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1800017513"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1800017513",
+        "ngr": "V1800017513",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Перечня направлений подготовки кадров с высшим и послевузовским образованием, обучение по которым в форме экстерната и онлайн-обучения не допускается",
+        "status_raw": "upd",
+        "reg_num": "17513"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 88,
+      "code": "NPA-29",
+      "title": "Правила базового и программно-целевого финансирования научной деятельности",
+      "num_date": "Постановление Правительства РК № 575 от 25.05.2011",
+      "reg_col": "Действующее",
+      "link_col": "[P1100000575](https://adilet.zan.kz/rus/docs/P1100000575)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/P1100000575"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/P1100000575",
+        "ngr": "P1100000575",
+        "result": "EXPIRED",
+        "detail": "Документ официально УТРАТИЛ СИЛУ в ИПС «Әділет» (статус: yts)",
+        "adilet_title": "Об утверждении Правил базового и программно-целевого финансирования научной и (или) научно-технической деятельности, грантового финансирования научной и (или) научно-технической деятельности и коммерциализации результатов научной и (или) научно-технической деятельности, финансирования научных организаций, осуществляющих фундаментальные научные исследования",
+        "status_raw": "yts",
+        "reg_num": "59006"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 89,
+      "code": "NPA-30",
+      "title": "Правила грантового финансирования научных исследований",
+      "num_date": "Постановление Правительства РК № 575 от 25.05.2011",
+      "reg_col": "Действующее",
+      "link_col": "[P1100000575](https://adilet.zan.kz/rus/docs/P1100000575)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/P1100000575"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/P1100000575",
+        "ngr": "P1100000575",
+        "result": "EXPIRED",
+        "detail": "Документ официально УТРАТИЛ СИЛУ в ИПС «Әділет» (статус: yts)",
+        "adilet_title": "Об утверждении Правил базового и программно-целевого финансирования научной и (или) научно-технической деятельности, грантового финансирования научной и (или) научно-технической деятельности и коммерциализации результатов научной и (или) научно-технической деятельности, финансирования научных организаций, осуществляющих фундаментальные научные исследования",
+        "status_raw": "yts",
+        "reg_num": "59006"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 90,
+      "code": "NPA-31",
+      "title": "Правила организации учебно-методической работы и присвоения грифа МОН/МНВО",
+      "num_date": "Приказ МОН РК № 583 от 29.11.2007",
+      "reg_col": "МЮ РК № 5036",
+      "link_col": "[V070005036_](https://adilet.zan.kz/rus/docs/V070005036_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V070005036_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V070005036_",
+        "ngr": "V070005036_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил организации и осуществления учебно-методической и научно-методической работы в организациях образования",
+        "status_raw": "upd",
+        "reg_num": "5036"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 91,
+      "code": "NPA-32",
+      "title": "Правила выплаты государственных стипендий обучающимся",
+      "num_date": "Постановление Правительства РК № 116 от 07.02.2008",
+      "reg_col": "Действующее",
+      "link_col": "[P080000116_](https://adilet.zan.kz/rus/docs/P080000116_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/P080000116_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/P080000116_",
+        "ngr": "P080000116_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил назначения, выплаты и размеров государственных стипендий",
+        "status_raw": "upd",
+        "reg_num": "37535"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 92,
+      "code": "NPA-33",
+      "title": "Правила распределения мест в общежитиях организаций высшего и (или) послевузовского образования",
+      "num_date": "Приказ МНВО РК № 219 от 30.12.2022",
+      "reg_col": "МЮ РК № 31540",
+      "link_col": "[V2200031540](https://adilet.zan.kz/rus/docs/V2200031540)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200031540"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200031540",
+        "ngr": "V2200031540",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил распределения мест в общежитиях организаций высшего и (или) послевузовского образования",
+        "status_raw": "upd",
+        "reg_num": "31540"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 93,
+      "code": "NPA-34",
+      "title": "Методика оценки показателей трудоустройства и мониторинга деятельности ОВПО",
+      "num_date": "Приказ МНВО РК от 2026 года",
+      "reg_col": "МЮ РК № 39066",
+      "link_col": "[V2600039066](https://adilet.zan.kz/rus/docs/V2600039066)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2600039066"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2600039066",
+        "ngr": "V2600039066",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: new)",
+        "adilet_title": "Об утверждении Методики оценки рейтинговых показателей достижений деятельности организаций высшего и (или) послевузовского образования",
+        "status_raw": "new",
+        "reg_num": "39066"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 94,
+      "code": "NPA-35",
+      "title": "Требования к аккредитационным органам и правила их признания в сфере ВО и ПВО",
+      "num_date": "Приказ МОН РК № 629 от 01.11.2016",
+      "reg_col": "МЮ РК № 14438",
+      "link_col": "[V1600014438](https://adilet.zan.kz/rus/docs/V1600014438)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1600014438"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1600014438",
+        "ngr": "V1600014438",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении требований, предъявляемых к аккредитационным органам в сфере высшего и послевузовского образования и правил признания аккредитационных органов в сфере высшего и послевузовского образования, в том числе зарубежных",
+        "status_raw": "upd",
+        "reg_num": "14438"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 95,
+      "code": "NPA-36",
+      "title": "Профессиональный стандарт для педагогов (ППС) организаций высшего и послевузовского образования",
+      "num_date": "Приказ МНВО РК № 591 от 20.11.2023",
+      "reg_col": "Не подлежит госрегистрации",
+      "link_col": "[G23HN000591](https://adilet.zan.kz/rus/docs/G23HN000591)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/G23HN000591"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/G23HN000591",
+        "ngr": "G23HN000591",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении профессионального стандарта для педагогов (профессорско-преподавательского состава) организаций высшего и (или) послевузовского образования",
+        "status_raw": "upd",
+        "reg_num": "188740"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 96,
+      "code": "NPA-37",
+      "title": "Правила организации повышения квалификации педагогических кадров",
+      "num_date": "Приказ МОН РК № 95 от 28.01.2016",
+      "reg_col": "МЮ РК № 13420",
+      "link_col": "[V1600013420](https://adilet.zan.kz/rus/docs/V1600013420)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1600013420"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1600013420",
+        "ngr": "V1600013420",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил организации и проведения курсов повышения квалификации педагогов, а также посткурсового сопровождения деятельности педагога",
+        "status_raw": "upd",
+        "reg_num": "13420"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 97,
+      "code": "NPA-38",
+      "title": "Правила воинского учета военнообязанных и призывников",
+      "num_date": "Приказ Министра обороны РК № 28 от 24.01.2017",
+      "reg_col": "МЮ РК № 14881",
+      "link_col": "[V1700014881](https://adilet.zan.kz/rus/docs/V1700014881)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1700014881"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1700014881",
+        "ngr": "V1700014881",
+        "result": "ERROR",
+        "detail": "IncompleteRead(122653 bytes read)",
+        "adilet_title": null,
+        "status_raw": null
+      }
+    ]
+  ],
+  [
+    {
+      "line": 98,
+      "code": "NPA-39",
+      "title": "Правила оплаты труда научных работников, выполняющих госзаказ и бюджетные проекты",
+      "num_date": "Приказ и.о. МНВО РК № 592 от 25.12.2024 (с изм. № 70 от 20.02.2025 и № 424 от 04.09.2026, в силе с 22.09.2026)",
+      "reg_col": "Не подлежит госрегистрации / Действующий",
+      "link_col": "[G24HN000592](https://adilet.zan.kz/rus/docs/G24HN000592)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/G24HN000592"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/G24HN000592",
+        "ngr": "G24HN000592",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил оплаты труда научных работников государственных научных организаций и государственных организаций высшего и (или) послевузовского образования, выполняющих государственный заказ",
+        "status_raw": "upd",
+        "reg_num": "204869"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 99,
+      "code": "NPA-40",
+      "title": "Правила организации деятельности подготовительных отделений ОВПО",
+      "num_date": "Приказ МОН РК № 554 от 30.12.2011",
+      "reg_col": "МЮ РК № 7406",
+      "link_col": "[V1100007406](https://adilet.zan.kz/rus/docs/V1100007406)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1100007406"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1100007406",
+        "ngr": "V1100007406",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил организации деятельности подготовительных отделений организаций высшего и (или) послевузовского образования Республики Казахстан",
+        "status_raw": "upd",
+        "reg_num": "7406"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 100,
+      "code": "NPA-41",
+      "title": "Правила размещения государственного заказа на подготовительные отделения ОВПО",
+      "num_date": "Приказ МОН РК № 122 от 28.01.2016",
+      "reg_col": "МЮ РК № 13418",
+      "link_col": "[V1600013418](https://adilet.zan.kz/rus/docs/V1600013418)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1600013418"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1600013418",
+        "ngr": "V1600013418",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил размещения государственного образовательного заказа на подготовку кадров с высшим и послевузовским образованием с учетом потребностей рынка труда, на подготовительные отделения организаций высшего и (или) послевузовского образования",
+        "status_raw": "upd",
+        "reg_num": "13418"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 101,
+      "code": "NPA-42",
+      "title": "Инструкция по организации антитеррористической защиты объектов, уязвимых в террористическом отношении, осуществляющих деятельность в сфере науки и высшего образования",
+      "num_date": "Приказ МНВО РК № 476 от 04.10.2024",
+      "reg_col": "МЮ РК № 35218",
+      "link_col": "[V2400035218](https://adilet.zan.kz/rus/docs/V2400035218)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2400035218"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2400035218",
+        "ngr": "V2400035218",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: new)",
+        "adilet_title": "Об утверждении Инструкции по организации антитеррористической защиты объектов, уязвимых в террористическом отношении, осуществляющих деятельность в сфере науки и высшего образования",
+        "status_raw": "new",
+        "reg_num": "35218"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 102,
+      "code": "NPA-43",
+      "title": "Правила деятельности филиалов зарубежных вузов в Республике Казахстан",
+      "num_date": "Приказ МНВО РК № 191 от 19.04.2026",
+      "reg_col": "МЮ РК № 38479",
+      "link_col": "[V2600038479](https://adilet.zan.kz/rus/docs/V2600038479)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2600038479"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2600038479",
+        "ngr": "V2600038479",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: new)",
+        "adilet_title": "Об утверждении Правил деятельности международных и иностранных учебных заведений в Республике Казахстан и (или) их филиалов и формы их сотрудничества",
+        "status_raw": "new",
+        "reg_num": "38479"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 110,
+      "code": "MZ-01",
+      "title": "Санитарно-эпидемиологические требования к объектам образования",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-76 от 05.08.2021",
+      "reg_col": "МЮ РК № 23890",
+      "link_col": "[V2100023890](https://adilet.zan.kz/rus/docs/V2100023890)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2100023890"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2100023890",
+        "ngr": "V2100023890",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Санитарных правил \"Санитарно-эпидемиологические требования к объектам образования\"",
+        "status_raw": "upd",
+        "reg_num": "23890"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 111,
+      "code": "MZ-02",
+      "title": "Санитарно-эпидемиологические требования к объектам общественного питания",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-16 от 17.02.2022",
+      "reg_col": "МЮ РК № 26866",
+      "link_col": "[V2200026866](https://adilet.zan.kz/rus/docs/V2200026866)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200026866"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200026866",
+        "ngr": "V2200026866",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Cанитарных правил \"Санитарно-эпидемиологические требования к объектам общественного питания\"",
+        "status_raw": "upd",
+        "reg_num": "26866"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 112,
+      "code": "MZ-03",
+      "title": "Правила проведения обязательных медицинских осмотров (целевые группы)",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-131/2020 от 15.10.2020",
+      "reg_col": "МЮ РК № 21443",
+      "link_col": "[V2000021443](https://adilet.zan.kz/rus/docs/V2000021443)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021443"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021443",
+        "ngr": "V2000021443",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении целевых групп лиц, подлежащих обязательным медицинским осмотрам, а также правил и периодичности их проведения, объема лабораторных и функциональных исследований, медицинских противопоказаний, перечня вредных и (или) опасных производственных факторов, профессий и работ, при выполнении которых проводятся предварительные обязательные медицинские осмотры при поступлении на работу и периодические обязательные медицинские осмотры и правил оказания государственной услуги \"Прохождение предварительных обязательных медицинских осмотров\"",
+        "status_raw": "upd",
+        "reg_num": "21443"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 113,
+      "code": "MZ-04",
+      "title": "Правила проведения обязательных медицинских осмотров работников",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-131/2020 от 15.10.2020",
+      "reg_col": "МЮ РК № 21443",
+      "link_col": "[V2000021443](https://adilet.zan.kz/rus/docs/V2000021443)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021443"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021443",
+        "ngr": "V2000021443",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении целевых групп лиц, подлежащих обязательным медицинским осмотрам, а также правил и периодичности их проведения, объема лабораторных и функциональных исследований, медицинских противопоказаний, перечня вредных и (или) опасных производственных факторов, профессий и работ, при выполнении которых проводятся предварительные обязательные медицинские осмотры при поступлении на работу и периодические обязательные медицинские осмотры и правил оказания государственной услуги \"Прохождение предварительных обязательных медицинских осмотров\"",
+        "status_raw": "upd",
+        "reg_num": "21443"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 114,
+      "code": "MZ-05",
+      "title": "Формы первичной учетной медицинской документации",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-175/2020 от 30.10.2020",
+      "reg_col": "МЮ РК № 21579",
+      "link_col": "[V2000021579](https://adilet.zan.kz/rus/docs/V2000021579)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021579"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021579",
+        "ngr": "V2000021579",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении форм учетной документации в области здравоохранения, а также инструкций по их заполнению",
+        "status_raw": "upd",
+        "reg_num": "21579"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 115,
+      "code": "MZ-06",
+      "title": "Правила оказания первичной медико-санитарной помощи (ПМСП)",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-90 от 24.08.2021",
+      "reg_col": "МЮ РК № 24094",
+      "link_col": "[V2100024094](https://adilet.zan.kz/rus/docs/V2100024094)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2100024094"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2100024094",
+        "ngr": "V2100024094",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил оказания первичной медико-санитарной помощи",
+        "status_raw": "upd",
+        "reg_num": "24094"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 116,
+      "code": "MZ-07",
+      "title": "Правила прикрепления физических лиц к медицинским организациям ПМСП",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-194/2020 от 13.11.2020",
+      "reg_col": "МЮ РК № 21642",
+      "link_col": "[V2000021642](https://adilet.zan.kz/rus/docs/V2000021642)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021642"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021642",
+        "ngr": "V2000021642",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении правил прикрепления физических лиц к организациям здравоохранения, оказывающим первичную медико-санитарную помощь",
+        "status_raw": "upd",
+        "reg_num": "21642"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 117,
+      "code": "MZ-08",
+      "title": "Санитарные требования к административным и жилым зданиям (общежитиям)",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-53 от 16.06.2022",
+      "reg_col": "МЮ РК № 28525",
+      "link_col": "[V2200028525](https://adilet.zan.kz/rus/docs/V2200028525)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200028525"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200028525",
+        "ngr": "V2200028525",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Санитарных правил \"Санитарно-эпидемиологические требования к административным и жилым зданиям\"",
+        "status_raw": "upd",
+        "reg_num": "28525"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 118,
+      "code": "MZ-09",
+      "title": "Санитарные требования к сбору и обезвреживанию медицинских отходов",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-96/2020 от 11.08.2020",
+      "reg_col": "МЮ РК № 21934",
+      "link_col": "[V2000021934](https://adilet.zan.kz/rus/docs/V2000021934)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021934"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021934",
+        "ngr": "V2000021934",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Санитарных правил \"Санитарно-эпидемиологические требования к сбору, использованию, применению, обезвреживанию, транспортировке, хранению и захоронению отходов производства и потребления\"",
+        "status_raw": "upd",
+        "reg_num": "21934"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 119,
+      "code": "MZ-10",
+      "title": "Санитарные правила по обеспечению радиационной безопасности",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-275/2020 от 15.12.2020",
+      "reg_col": "МЮ РК № 21822",
+      "link_col": "[V2000021822](https://adilet.zan.kz/rus/docs/V2000021822)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021822"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021822",
+        "ngr": "V2000021822",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Санитарных правил \"Санитарно-эпидемиологические требования к обеспечению радиационной безопасности\"",
+        "status_raw": "upd",
+        "reg_num": "21822"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 120,
+      "code": "MZ-11",
+      "title": "Санитарные требования к дезинфекции, дезинсекции и дератизации",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-68 от 29.07.2022",
+      "reg_col": "МЮ РК № 28977",
+      "link_col": "[V2200028977](https://adilet.zan.kz/rus/docs/V2200028977)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200028977"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200028977",
+        "ngr": "V2200028977",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Санитарных правил \"Санитарно-эпидемиологические требования к организации и проведению дезинфекции, дезинсекции и дератизации\"",
+        "status_raw": "upd",
+        "reg_num": "28977"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 121,
+      "code": "MZ-12",
+      "title": "Санитарные требования к проведению противоэпидемических мероприятий",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-46 от 16.05.2022",
+      "reg_col": "МЮ РК № 28086",
+      "link_col": "[V2200028086](https://adilet.zan.kz/rus/docs/V2200028086)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200028086"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200028086",
+        "ngr": "V2200028086",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Санитарных правил \"Санитарно-эпидемиологические требования к организации и проведению санитарно-противоэпидемических и санитарно-профилактических мероприятий по предупреждению паразитарных заболеваний\"",
+        "status_raw": "upd",
+        "reg_num": "28086"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 122,
+      "code": "MZ-13",
+      "title": "Правила проведения экспертизы временной нетрудоспособности (ВКК)",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-283/2020 от 20.12.2020",
+      "reg_col": "МЮ РК № 21841",
+      "link_col": "[V2000021841](https://adilet.zan.kz/rus/docs/V2000021841)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021841"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021841",
+        "ngr": "V2000021841",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении порядка регистрации субъектами здравоохранения оказывающими специализированную медицинскую помощь в области профессиональной патологии и экспертизы по месту их выявления всех случаев профессиональных заболеваний и (или) отравлений, в том числе подозрений на профессиональные заболевания и (или) отравления, обусловленные воздействием на работника вредных производственных факторов в связи с выполнением работником своих трудовых (служебных) обязанностей, либо иных действий, по собственной инициативе в интересах работодателя, в том числе после прекращения трудовых отношений с работодателем",
+        "status_raw": "upd",
+        "reg_num": "21841"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 123,
+      "code": "MZ-14",
+      "title": "Санитарные требования к питьевой воде и водоснабжению",
+      "num_date": "Приказ МЗ РК № 26 от 20.02.2023",
+      "reg_col": "МЮ РК № 31934",
+      "link_col": "[V2300031934](https://adilet.zan.kz/rus/docs/V2300031934)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300031934"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300031934",
+        "ngr": "V2300031934",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Санитарных правил \"Санитарно-эпидемиологические требования к водоисточникам, местам водозабора для хозяйственно-питьевых целей, хозяйственно-питьевому водоснабжению и местам культурно-бытового водопользования и безопасности водных объектов\"",
+        "status_raw": "upd",
+        "reg_num": "31934"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 124,
+      "code": "MZ-15",
+      "title": "Гигиенические нормативы к физическим факторам на рабочих местах",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-15 от 16.02.2022",
+      "reg_col": "МЮ РК № 26831",
+      "link_col": "[V2200026831](https://adilet.zan.kz/rus/docs/V2200026831)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200026831"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200026831",
+        "ngr": "V2200026831",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Гигиенических нормативов к физическим факторам, оказывающим воздействие на человека",
+        "status_raw": "upd",
+        "reg_num": "26831"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 125,
+      "code": "MZ-16",
+      "title": "Санитарные требования к осуществлению производственного контроля",
+      "num_date": "Приказ МЗ РК № 62 от 07.04.2023",
+      "reg_col": "МЮ РК № 32276",
+      "link_col": "[V2300032276](https://adilet.zan.kz/rus/docs/V2300032276)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300032276"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300032276",
+        "ngr": "V2300032276",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Санитарных правил \"Санитарно-эпидемиологические требования к осуществлению производственного контроля\"",
+        "status_raw": "upd",
+        "reg_num": "32276"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 126,
+      "code": "MZ-17",
+      "title": "Правила оказания скорой медицинской помощи",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-225/2020 от 30.11.2020",
+      "reg_col": "МЮ РК № 21713",
+      "link_col": "[V2000021713](https://adilet.zan.kz/rus/docs/V2000021713)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021713"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021713",
+        "ngr": "V2000021713",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении правил оказания скорой медицинской помощи, в том числе с привлечением медицинской авиации",
+        "status_raw": "upd",
+        "reg_num": "21713"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 127,
+      "code": "MZ-18",
+      "title": "Состав аптечки для оказания первой помощи",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-118/2020 от 08.10.2020",
+      "reg_col": "МЮ РК № 21399",
+      "link_col": "[V2000021399](https://adilet.zan.kz/rus/docs/V2000021399)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021399"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021399",
+        "ngr": "V2000021399",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении состава аптечки для оказания первой помощи",
+        "status_raw": "upd",
+        "reg_num": "21399"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 128,
+      "code": "MZ-19",
+      "title": "Квалификационные характеристики должностей работников здравоохранения",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-305/2020 от 21.12.2020",
+      "reg_col": "МЮ РК № 21856",
+      "link_col": "[V2000021856](https://adilet.zan.kz/rus/docs/V2000021856)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021856"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021856",
+        "ngr": "V2000021856",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении номенклатуры специальностей и специализаций в области здравоохранения, номенклатуры и квалификационных характеристик должностей работников системы здравоохранения",
+        "status_raw": "upd",
+        "reg_num": "21856"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 129,
+      "code": "MZ-20",
+      "title": "Санитарные требования к лабораториям с хим- и биовеществами",
+      "num_date": "Приказ МЗ РК № ҚР ДСМ-105 от 15.10.2021",
+      "reg_col": "МЮ РК № 24809",
+      "link_col": "[V2100024809](https://adilet.zan.kz/rus/docs/V2100024809)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2100024809"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2100024809",
+        "ngr": "V2100024809",
+        "result": "HTTP_500",
+        "detail": "Ошибка HTTP 500",
+        "adilet_title": null,
+        "status_raw": null
+      }
+    ]
+  ],
+  [
+    {
+      "line": 137,
+      "code": "MCHS-01",
+      "title": "Закон РК «О гражданской защите»",
+      "num_date": "Закон РК № 188-V от 11.04.2014",
+      "reg_col": "Действующий",
+      "link_col": "[Z1400000188](https://adilet.zan.kz/rus/docs/Z1400000188)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/Z1400000188"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/Z1400000188",
+        "ngr": "Z1400000188",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "О гражданской защите",
+        "status_raw": "upd",
+        "reg_num": "78725"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 138,
+      "code": "MCHS-02",
+      "title": "Правила пожарной безопасности Республики Казахстан",
+      "num_date": "Приказ МЧС РК № 55 от 21.02.2022",
+      "reg_col": "МЮ РК № 26867",
+      "link_col": "[V2200026867](https://adilet.zan.kz/rus/docs/V2200026867)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200026867"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200026867",
+        "ngr": "V2200026867",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил пожарной безопасности",
+        "status_raw": "upd",
+        "reg_num": "26867"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 139,
+      "code": "MCHS-03",
+      "title": "Технический регламент «Общие требования к пожарной безопасности»",
+      "num_date": "Приказ МЧС РК № 405 от 17.08.2021",
+      "reg_col": "МЮ РК № 24045",
+      "link_col": "[V2100024045](https://adilet.zan.kz/rus/docs/V2100024045)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2100024045"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2100024045",
+        "ngr": "V2100024045",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении технического регламента \"Общие требования к пожарной безопасности\"",
+        "status_raw": "upd",
+        "reg_num": "24045"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 140,
+      "code": "MCHS-04",
+      "title": "Правила обучения работников мерам ПБ и программы пожарно-технического минимума",
+      "num_date": "Приказ МЧС РК № 276 от 09.06.2014",
+      "reg_col": "МЮ РК № 9510",
+      "link_col": "[V1400009510](https://adilet.zan.kz/rus/docs/V1400009510)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1400009510"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1400009510",
+        "ngr": "V1400009510",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил обучения работников организаций и населения мерам пожарной безопасности и требований к содержанию учебных программ по обучению мерам пожарной безопасности",
+        "status_raw": "upd",
+        "reg_num": "9510"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 141,
+      "code": "MCHS-05",
+      "title": "Правила организации и ведения мероприятий гражданской обороны",
+      "num_date": "Приказ МВД РК № 190 от 06.03.2015",
+      "reg_col": "МЮ РК № 10716",
+      "link_col": "[V1500010716](https://adilet.zan.kz/rus/docs/V1500010716)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1500010716"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1500010716",
+        "ngr": "V1500010716",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил организации и ведения мероприятий гражданской обороны",
+        "status_raw": "upd",
+        "reg_num": "10716"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 142,
+      "code": "MCHS-06",
+      "title": "Правила создания, содержания и обеспечения формирований гражданской защиты",
+      "num_date": "Приказ МВД РК № 387 от 23.04.2015",
+      "reg_col": "МЮ РК № 11243",
+      "link_col": "[V1500011243](https://adilet.zan.kz/rus/docs/V1500011243)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1500011243"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1500011243",
+        "ngr": "V1500011243",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил создания, содержания, материально-технического обеспечения, подготовки и привлечения формирований гражданской защиты",
+        "status_raw": "upd",
+        "reg_num": "11243"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 143,
+      "code": "MCHS-07",
+      "title": "Правила организации системы оповещения гражданской защиты и населения",
+      "num_date": "Приказ МВД РК № 445 от 16.07.2014",
+      "reg_col": "МЮ РК № 10151",
+      "link_col": "[V14C0010151](https://adilet.zan.kz/rus/docs/V14C0010151)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V14C0010151"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V14C0010151",
+        "ngr": "V14C0010151",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил организации системы оповещения гражданской защиты и оповещения населения, органов управления при чрезвычайных ситуациях в мирное и военное время",
+        "status_raw": "upd",
+        "reg_num": "10151"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 144,
+      "code": "MCHS-08",
+      "title": "Правила создания и использования объектов гражданской обороны",
+      "num_date": "Постановление Правительства РК № 1357 от 19.12.2014",
+      "reg_col": "Действующее",
+      "link_col": "[P1400001357](https://adilet.zan.kz/rus/docs/P1400001357)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/P1400001357"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/P1400001357",
+        "ngr": "P1400001357",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил создания и использования объектов гражданской обороны",
+        "status_raw": "upd",
+        "reg_num": "85473"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 145,
+      "code": "MCHS-09",
+      "title": "Правила обеспечения промышленной безопасности оборудования под давлением",
+      "num_date": "Приказ МИР РК № 358 от 30.12.2014",
+      "reg_col": "МЮ РК № 10303",
+      "link_col": "[V1400010303](https://adilet.zan.kz/rus/docs/V1400010303)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1400010303"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1400010303",
+        "ngr": "V1400010303",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил обеспечения промышленной безопасности при эксплуатации оборудования, работающего под давлением",
+        "status_raw": "upd",
+        "reg_num": "10303"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 146,
+      "code": "MCHS-10",
+      "title": "Правила организации и ведения мероприятий гражданской обороны",
+      "num_date": "Приказ МВД РК № 190 от 06.03.2015",
+      "reg_col": "МЮ РК № 10716",
+      "link_col": "[V1500010716](https://adilet.zan.kz/rus/docs/V1500010716)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1500010716"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1500010716",
+        "ngr": "V1500010716",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил организации и ведения мероприятий гражданской обороны",
+        "status_raw": "upd",
+        "reg_num": "10716"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 154,
+      "code": "MDIAI-01",
+      "title": "Правила сбора, обработки персональных данных",
+      "num_date": "Приказ МЦРИАП РК № 395/НҚ от 21.10.2020",
+      "reg_col": "МЮ РК № 21498",
+      "link_col": "[V2000021498](https://adilet.zan.kz/rus/docs/V2000021498)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2000021498"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2000021498",
+        "ngr": "V2000021498",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил сбора, обработки персональных данных",
+        "status_raw": "upd",
+        "reg_num": "21498"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 155,
+      "code": "MDIAI-02",
+      "title": "Правила осуществления мер по защите персональных данных",
+      "num_date": "Приказ МЦРИАП РК № 169/НҚ от 18.04.2023",
+      "reg_col": "МЮ РК № 32810",
+      "link_col": "[V2300032810](https://adilet.zan.kz/rus/docs/V2300032810)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300032810"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300032810",
+        "ngr": "V2300032810",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил осуществления собственником и (или) оператором, а также третьим лицом мер по защите персональных данных",
+        "status_raw": "upd",
+        "reg_num": "32810"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 156,
+      "code": "MDIAI-03",
+      "title": "Единые требования в области ИКТ и обеспечения ИБ (ЕТИКТ и ИБ)",
+      "num_date": "Постановление Правительства РК № 832 от 20.12.2016",
+      "reg_col": "Действующее",
+      "link_col": "[P1600000832](https://adilet.zan.kz/rus/docs/P1600000832)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/P1600000832"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/P1600000832",
+        "ngr": "P1600000832",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении единых требований в области информационно-коммуникационных технологий и обеспечения информационной безопасности",
+        "status_raw": "upd",
+        "reg_num": "108415"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 157,
+      "code": "MDIAI-04",
+      "title": "Правила интеграции объектов информатизации «электронного правительства»",
+      "num_date": "Приказ и.о. МИК РК № 123 от 29.03.2018",
+      "reg_col": "МЮ РК № 16777",
+      "link_col": "[V1800016777](https://adilet.zan.kz/rus/docs/V1800016777)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1800016777"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1800016777",
+        "ngr": "V1800016777",
+        "result": "EXPIRED",
+        "detail": "Документ официально УТРАТИЛ СИЛУ в ИПС «Әділет» (статус: yts)",
+        "adilet_title": "Об утверждении Правил интеграции объектов информатизации \"электронного правительства\"",
+        "status_raw": "yts",
+        "reg_num": "16777"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 158,
+      "code": "MDIAI-05",
+      "title": "Единые требования в области ИКТ и обеспечения информационной безопасности",
+      "num_date": "Постановление Правительства РК № 832 от 20.12.2016",
+      "reg_col": "Действующее",
+      "link_col": "[P1600000832](https://adilet.zan.kz/rus/docs/P1600000832)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/P1600000832"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/P1600000832",
+        "ngr": "P1600000832",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении единых требований в области информационно-коммуникационных технологий и обеспечения информационной безопасности",
+        "status_raw": "upd",
+        "reg_num": "108415"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 159,
+      "code": "MDIAI-06",
+      "title": "Концепция развития искусственного интеллекта на 2024–2029 годы",
+      "num_date": "Постановление Правительства РК № 592 от 24.07.2024",
+      "reg_col": "Действующее",
+      "link_col": "[P2400000592](https://adilet.zan.kz/rus/docs/P2400000592)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/P2400000592"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/P2400000592",
+        "ngr": "P2400000592",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: new)",
+        "adilet_title": "Об утверждении Концепции развития искусственного интеллекта на 2024 – 2029 годы",
+        "status_raw": "new",
+        "reg_num": "0"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 167,
+      "code": "MNE-01",
+      "title": "Правила разработки, утверждения планов развития контролируемых государством АО и ТОО, а также мониторинга и оценки их реализации",
+      "num_date": "Приказ Заместителя Премьер-Министра – МНЭ РК № 18 от 30.04.2025 (ранее Приказ МНЭ № 14 от 14.02.2019 / МЮ № 18328 и Приказ № 56 от 14.02.2018 / МЮ № 16636)",
+      "reg_col": "Действующий (ранее МЮ РК № 18328 / № 16636)",
+      "link_col": "[G25NT000018](https://adilet.zan.kz/rus/docs/G25NT000018)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/G25NT000018"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/G25NT000018",
+        "ngr": "G25NT000018",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил разработки, утверждения планов развития контролируемых государством акционерных обществ и товариществ с ограниченной ответственностью, государственных предприятий, мониторинга и оценки их реализации, а также разработки и представления отчетов по их исполнению",
+        "status_raw": "upd",
+        "reg_num": "210245"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 168,
+      "code": "MNE-02",
+      "title": "Типовой кодекс корпоративного управления в контролируемых государством АО",
+      "num_date": "Приказ МНЭ РК № 21 от 05.10.2018",
+      "reg_col": "МЮ РК № 17726",
+      "link_col": "[V1800017726](https://adilet.zan.kz/rus/docs/V1800017726)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1800017726"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1800017726",
+        "ngr": "V1800017726",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Типового кодекса корпоративного управления в контролируемых государством акционерных обществах, за исключением Фонда национального благосостояния",
+        "status_raw": "upd",
+        "reg_num": "17726"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 169,
+      "code": "MNE-03",
+      "title": "Правила оценки корпоративного управления в контролируемых государством АО",
+      "num_date": "Приказ МЭРТ РК № 157 от 06.06.2011",
+      "reg_col": "МЮ РК № 7047",
+      "link_col": "[V1100007047](https://adilet.zan.kz/rus/docs/V1100007047)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1100007047"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1100007047",
+        "ngr": "V1100007047",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил оценки корпоративного управления в контролируемых государством акционерных обществах",
+        "status_raw": "upd",
+        "reg_num": "7047"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 170,
+      "code": "MNE-04",
+      "title": "Правила разработки планов развития и годовых отчетов контролируемых государством АО",
+      "num_date": "Приказ Заместителя Премьер-Министра – МНЭ РК № 18 от 30.04.2025",
+      "reg_col": "Официально опубликован / Действующий",
+      "link_col": "[G25NT000018](https://adilet.zan.kz/rus/docs/G25NT000018)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/G25NT000018"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/G25NT000018",
+        "ngr": "G25NT000018",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил разработки, утверждения планов развития контролируемых государством акционерных обществ и товариществ с ограниченной ответственностью, государственных предприятий, мониторинга и оценки их реализации, а также разработки и представления отчетов по их исполнению",
+        "status_raw": "upd",
+        "reg_num": "210245"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 171,
+      "code": "MNE-05",
+      "title": "Критерии оценки степени риска ОВПО (проверочные листы в сфере высшего образования)",
+      "num_date": "Совместный приказ МНВО № 166 и МНЭ № 116 от 01-02.12.2022",
+      "reg_col": "МЮ РК № 30920",
+      "link_col": "[V2200030920](https://adilet.zan.kz/rus/docs/V2200030920)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2200030920"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2200030920",
+        "ngr": "V2200030920",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении критериев оценки степени риска и проверочных листов за системой образования, в части высшего и послевузовского образования",
+        "status_raw": "upd",
+        "reg_num": "30920"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 172,
+      "code": "MF-01",
+      "title": "Правила ведения бухгалтерского учета",
+      "num_date": "Приказ МФ РК № 241 от 31.03.2015",
+      "reg_col": "МЮ РК № 10954",
+      "link_col": "[V1500010954](https://adilet.zan.kz/rus/docs/V1500010954)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1500010954"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1500010954",
+        "ngr": "V1500010954",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил ведения бухгалтерского учета",
+        "status_raw": "upd",
+        "reg_num": "10954"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 173,
+      "code": "MF-02",
+      "title": "Альбом форм первичных учетных документов",
+      "num_date": "Приказ МФ РК № 562 от 20.12.2012",
+      "reg_col": "МЮ РК № 8265",
+      "link_col": "[V1200008265](https://adilet.zan.kz/rus/docs/V1200008265)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1200008265"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1200008265",
+        "ngr": "V1200008265",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении форм первичных учетных документов",
+        "status_raw": "upd",
+        "reg_num": "8265"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 174,
+      "code": "MF-03",
+      "title": "Правила составления и представления финансовой отчетности",
+      "num_date": "Приказ Заместителя Премьер-Министра – МФ РК № 230 от 14.05.2025",
+      "reg_col": "Официально опубликован / Действующий",
+      "link_col": "[G25E0000230](https://adilet.zan.kz/rus/docs/G25E0000230)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/G25E0000230"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/G25E0000230",
+        "ngr": "G25E0000230",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении форм, периодичности и правил составления и представления финансовой отчетности",
+        "status_raw": "upd",
+        "reg_num": "210313"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 175,
+      "code": "MF-04",
+      "title": "Правила проведения внутреннего государственного аудита и финансового контроля",
+      "num_date": "Приказ МФ РК № 392 от 19.03.2018",
+      "reg_col": "МЮ РК № 16689",
+      "link_col": "[V1800016689](https://adilet.zan.kz/rus/docs/V1800016689)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1800016689"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1800016689",
+        "ngr": "V1800016689",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил проведения внутреннего государственного аудита и финансового контроля",
+        "status_raw": "upd",
+        "reg_num": "16689"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 176,
+      "code": "MF-05",
+      "title": "Правила осуществления государственных закупок",
+      "num_date": "Приказ Министра финансов РК № 648 от 04.10.2024 (по Закону № 106-VIII)",
+      "reg_col": "МЮ РК № 35238",
+      "link_col": "[V2400035238](https://adilet.zan.kz/rus/docs/V2400035238)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2400035238"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2400035238",
+        "ngr": "V2400035238",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил осуществления государственных закупок",
+        "status_raw": "upd",
+        "reg_num": "35238"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 184,
+      "code": "MCIS-01",
+      "title": "Правила документирования, управления документацией и использования систем электронного документооборота в государственных и негосударственных организациях",
+      "num_date": "Приказ МКС РК № 236 от 25.08.2023",
+      "reg_col": "МЮ РК № 33339",
+      "link_col": "[V2300033339](https://adilet.zan.kz/rus/docs/V2300033339)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300033339"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300033339",
+        "ngr": "V2300033339",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил документирования, управления документацией и использования систем электронного документооборота в государственных и негосударственных организациях",
+        "status_raw": "upd",
+        "reg_num": "33339"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 185,
+      "code": "MCIS-02",
+      "title": "Перечень типовых документов со сроками хранения",
+      "num_date": "Приказ МКИ РК № 279 от 17.06.2025",
+      "reg_col": "Официально опубликован / Действующий",
+      "link_col": "[G25JC000279](https://adilet.zan.kz/rus/docs/G25JC000279)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/G25JC000279"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/G25JC000279",
+        "ngr": "G25JC000279",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Перечня типовых документов, образующихся в деятельности государственных и негосударственных организаций, с указанием срока хранения",
+        "status_raw": "upd",
+        "reg_num": "211492"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 186,
+      "code": "MCIS-03",
+      "title": "Правила приема, хранения, учета и использования документов НАФ ведомственными архивами",
+      "num_date": "Приказ МКС РК № 134 от 29.05.2023",
+      "reg_col": "МЮ РК № 33338",
+      "link_col": "[V2300033338](https://adilet.zan.kz/rus/docs/V2300033338)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300033338"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300033338",
+        "ngr": "V2300033338",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил приема, хранения, учета и использования документов Национального архивного фонда и других архивных документов ведомственными и частными архивами",
+        "status_raw": "upd",
+        "reg_num": "33338"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 187,
+      "code": "MCIS-04",
+      "title": "Правила формирования, сохранения и использования библиотечного фонда библиотек",
+      "num_date": "Приказ МКИ РК № 173 от 18.06.2007",
+      "reg_col": "МЮ РК № 4748",
+      "link_col": "[V070004748_](https://adilet.zan.kz/rus/docs/V070004748_)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V070004748_"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V070004748_",
+        "ngr": "V070004748_",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил формирования, сохранения и использования библиотечного фонда государственных библиотек",
+        "status_raw": "upd",
+        "reg_num": "4748"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 188,
+      "code": "MCIS-05",
+      "title": "Профессиональные стандарты в сфере культуры и музейного дела",
+      "num_date": "Приказ МКИ РК № 151-НҚ от 16.04.2024",
+      "reg_col": "Официально опубликован / Действующий",
+      "link_col": "[G24JC000151](https://adilet.zan.kz/rus/docs/G24JC000151)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/G24JC000151"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/G24JC000151",
+        "ngr": "G24JC000151",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: new)",
+        "adilet_title": "Об утверждении профессиональных стандартов в сфере культуры",
+        "status_raw": "new",
+        "reg_num": "195791"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 189,
+      "code": "MCIS-06",
+      "title": "Правила оказания государственных услуг в области масс-медиа (постановка на учет СМИ)",
+      "num_date": "Приказ и.о. МКИ РК № 488-НҚ от 17.10.2024",
+      "reg_col": "МЮ РК № 35283",
+      "link_col": "[V2400035283](https://adilet.zan.kz/rus/docs/V2400035283)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2400035283"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2400035283",
+        "ngr": "V2400035283",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил оказания государственных услуг в области масс-медиа",
+        "status_raw": "upd",
+        "reg_num": "35283"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 197,
+      "code": "MTSZN-01",
+      "title": "Правила признания профессиональных квалификаций и Национальная рамка квалификаций",
+      "num_date": "Приказ МТСЗН РК № 436 от 06.09.2023",
+      "reg_col": "МЮ РК № 33387",
+      "link_col": "[V2300033387](https://adilet.zan.kz/rus/docs/V2300033387)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300033387"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300033387",
+        "ngr": "V2300033387",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об определении правил признания профессиональных квалификаций",
+        "status_raw": "upd",
+        "reg_num": "33387"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 198,
+      "code": "MTSZN-02",
+      "title": "Об определении правил признания профессиональных квалификаций",
+      "num_date": "Приказ Министра труда и социальной защиты населения РК № 374 от 06.09.2023",
+      "reg_col": "МЮ РК № 33387",
+      "link_col": "[V2300033387](https://adilet.zan.kz/rus/docs/V2300033387)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V2300033387"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V2300033387",
+        "ngr": "V2300033387",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об определении правил признания профессиональных квалификаций",
+        "status_raw": "upd",
+        "reg_num": "33387"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 199,
+      "code": "PP-01",
+      "title": "Требования к организации антитеррористической защиты объектов, уязвимых в террористическом отношении",
+      "num_date": "Постановление Правительства РК № 305 от 06.05.2021",
+      "reg_col": "Действующее",
+      "link_col": "[P2100000305](https://adilet.zan.kz/rus/docs/P2100000305)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/P2100000305"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/P2100000305",
+        "ngr": "P2100000305",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении требований к организации антитеррористической защиты объектов, уязвимых в террористическом отношении",
+        "status_raw": "upd",
+        "reg_num": "155625"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 200,
+      "code": "LSO-01",
+      "title": "Типовое положение о службе безопасности и охраны труда в организации",
+      "num_date": "Приказ МЗСР РК № 1020 от 25.12.2015",
+      "reg_col": "МЮ РК № 12747",
+      "link_col": "[V1500012747](https://adilet.zan.kz/rus/docs/V1500012747)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1500012747"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1500012747",
+        "ngr": "V1500012747",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Типового положения о службе безопасности и охраны труда в организации",
+        "status_raw": "upd",
+        "reg_num": "12747"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 201,
+      "code": "LSO-02",
+      "title": "Правила и сроки проведения обучения, инструктирования и проверок знаний по вопросам безопасности и охраны труда работников, руководителей и лиц, ответственных за обеспечение БиОТ",
+      "num_date": "Приказ МЗСР РК № 1019 от 25.12.2015",
+      "reg_col": "МЮ РК № 12665",
+      "link_col": "[V1500012665](https://adilet.zan.kz/rus/docs/V1500012665)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1500012665"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1500012665",
+        "ngr": "V1500012665",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил и сроков проведения обучения, инструктирования и проверок знаний по вопросам безопасности и охраны труда работников, руководителей и лиц, ответственных за обеспечение безопасности и охраны труда",
+        "status_raw": "upd",
+        "reg_num": "12665"
+      }
+    ]
+  ],
+  [
+    {
+      "line": 202,
+      "code": "LSO-03",
+      "title": "Правила обязательной периодической аттестации производственных объектов по условиям труда",
+      "num_date": "Приказ МЗСР РК № 1057 от 28.12.2015",
+      "reg_col": "МЮ РК № 12743",
+      "link_col": "[V1500012743](https://adilet.zan.kz/rus/docs/V1500012743)",
+      "urls": [
+        "https://adilet.zan.kz/rus/docs/V1500012743"
+      ]
+    },
+    [
+      {
+        "url": "https://adilet.zan.kz/rus/docs/V1500012743",
+        "ngr": "V1500012743",
+        "result": "ACTIVE",
+        "detail": "Действующий акт (статус: upd)",
+        "adilet_title": "Об утверждении Правил обязательной периодической аттестации производственных объектов по условиям труда",
+        "status_raw": "upd",
+        "reg_num": "12743"
+      }
+    ]
+  ]
+]
