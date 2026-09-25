@@ -1,5 +1,7 @@
 # Реестр внутренних нормативных актов [V_UNIVERSITY_SHORT_NAME]
 
+> 🧭 **ГЛАВНЫЙ НАВИГАТОР И ПОИСКОВИК:** Полный систематизированный реестр всех 191 разработанного документа (Положения, ДИ, СОПы, Политики, НПА РК) с алфавитным указателем и пакетами подразделений доступен в **[docs/README.md (Мастер-каталог)](../README.md)** (также [MASTER_DOCUMENT_CATALOG.md](../MASTER_DOCUMENT_CATALOG.md)).
+
 Данный репозиторий содержит утвержденные и разрабатываемые проекты локальных нормативных актов [V_LEGAL_FORM] «[V_UNIVERSITY_FULL_NAME]».
 
 ## Структура директории
@@ -34,6 +36,12 @@ docs/
 ## Текущий реестр разработанных актов (Reference Case: Abai University)
 
 ### 1. Положения о подразделениях (`regulations/`):
+- [Положение о Совете директоров НАО](regulations/board_of_directors_regulation.md)
+- [Положение о постоянных комитетах Совета директоров](regulations/board_committees_regulation.md)
+- [Положение о Корпоративном секретаре](regulations/corporate_secretary_service_regulation.md)
+- [Положение о Службе внутреннего аудита (СВА)](regulations/internal_audit_service_regulation.md)
+- [Положение о Фонде целевого капитала (Эндаумент-фонде)](regulations/endowment_fund_regulation.md)
+- [Инвестиционная декларация и Политика управления активами эндаумента](regulations/endowment_investment_policy.md)
 - [Положение о Департаменте по академическим вопросам](regulations/dav_regulation.md)
 - [Положение об Офисе регистратора](regulations/registrar_regulation.md)
 - [Типовое положение об Институте](regulations/institute_model_regulation.md)
@@ -52,6 +60,7 @@ docs/
 - [Положение о Департаменте по воспитательной, социальной работе и молодежной политике](regulations/youth_and_social_affairs_department_regulation.md)
 - [Положение о студенческих общежитиях и Комиссии по распределению мест](regulations/student_dormitories_regulation.md)
 - [Положение о Центре карьеры и мониторинга трудоустройства выпускников](regulations/career_center_and_grant_employment_regulation.md)
+- [Положение об Ассоциации выпускников](regulations/alumni_association_regulation.md)
 - [Положение о Департаменте управления человеческими ресурсами (HR)](regulations/hr_department_regulation.md)
 - [Положение о Центре обслуживания студентов и сотрудников (Едином сервисном центре)](regulations/student_and_staff_service_center_regulation.md)
 - [Положение о Планово-экономическом департаменте (ПЭД)](regulations/ped_department_regulation.md)
@@ -72,6 +81,11 @@ docs/
 - [ДИ Директора Департамента стратегического развития](job_descriptions/jd_director_strategic_development.md)
 - [ДИ Директора Департамента по воспитательной, социальной работе и молодежной политике](job_descriptions/jd_director_youth_social_affairs.md)
 - [ДИ Руководителя Центра карьеры и мониторинга трудоустройства](job_descriptions/jd_head_career_center.md)
+- [ДИ Координатора по связям с выпускниками](job_descriptions/jd_alumni_relations_coordinator.md)
+- [ДИ Корпоративного секретаря](job_descriptions/jd_corporate_secretary.md)
+- [ДИ Руководителя Службы внутреннего аудита](job_descriptions/jd_head_internal_audit.md)
+- [ДИ Главного аудитора Службы внутреннего аудита](job_descriptions/jd_internal_auditor.md)
+- [ДИ Исполнительного директора Фонда целевого капитала (Эндаумент-фонда)](job_descriptions/jd_endowment_fund_director.md)
 - [ДИ Заведующего студенческим общежитием (коменданта)](job_descriptions/jd_dormitory_manager.md)
 - [ДИ Директора Департамента управления человеческими ресурсами (HR)](job_descriptions/jd_director_hr.md)
 - [ДИ Специалиста по кадровому администрированию, воинскому учету и интеграции с ЕСУТД Enbek.kz](job_descriptions/jd_hr_recruitment_and_records_specialist.md)
@@ -103,13 +117,17 @@ docs/
 - [Регламент (СОП) открытого конкурсного замещения должностей ППС и ученых (Приказ МОН № 230)](sops_and_rules/sop_faculty_and_researcher_recruitment_competition.md)
 - [Регламент (СОП) 7-классного грейдирования и Комиссии по оценке достижений ученых по Приказу МНВО № 424](sops_and_rules/sop_researcher_compensation_and_kdos_commission.md)
 - [Регламент (СОП) функционирования службы Service Desk по методологии ITIL/ITSM](sops_and_rules/sop_itil_itsm_service_desk.md)
-- [Каталог IT-услуг и Соглашение об уровне обслуживания (Service Catalog & SLA)](sops_and_rules/service_catalog_and_sla_matrix.md)
+- [Общеуниверситетский каталог межфункциональных услуг и Соглашение об уровне обслуживания (Enterprise Service Catalog & Internal B2B SLA)](sops_and_rules/service_catalog_and_sla_matrix.md)
 - [Регламент (СОП) визово-миграционного учета и сопровождения иностранных граждан (v2.0 со Smart Split)](sops_and_rules/sop_visa_and_migration_compliance.md)
 - [Регламент (СОП) академической мобильности обучающихся и ППС с Learning Agreement](sops_and_rules/sop_academic_mobility_process.md)
 - [Регламент (СОП) генерации, выдачи и архивного учета дипломов собственного образца](sops_and_rules/sop_diploma_generation_and_issuance.md)
 - [Регламент (СОП) формирования, корректировки и исполнения Плана развития (бюджета) НАО](sops_and_rules/sop_development_plan_budgeting.md)
 - [Регламент (СОП) взаимодействия структурных подразделений с Управлением государственных закупок](sops_and_rules/sop_procurement_interaction.md)
 - [Регламент (СОП) проведения годовой сплошной инвентаризации активов и материальных ценностей](sops_and_rules/sop_annual_asset_inventory.md)
+- [Регламент (СОП) взаимодействия Совета директоров, Правления и Корпоративного секретаря](sops_and_rules/sop_corporate_governance_interaction.md)
+- [Регламент (СОП) планирования, проведения внутренних аудитов и мониторинга устранения нарушений](sops_and_rules/sop_internal_audit_planning_and_execution.md)
+- [Регламент (СОП) привлечения пожертвований в целевой капитал (фандрайзинг), сопровождение налоговых льгот и Naming Rights](sops_and_rules/sop_endowment_fundraising_and_donations.md)
+- [Регламент (СОП) конкурсного распределения инвестиционного дохода Фонда целевого капитала (Эндаумент-фонда)](sops_and_rules/sop_endowment_grants_and_scholarships.md)
 
 #### Комплекс актов по академической честности и этике ИИ (AI Governance & Integrity Package):
 - [Политика академической честности и Регламент Дисциплинарной комиссии (POL-ACAD-HONEST-001)](sops_and_rules/academic_integrity_policy.md) ([PDF](pdf/POL-ACAD-HONEST-001_academic_integrity_policy.pdf))

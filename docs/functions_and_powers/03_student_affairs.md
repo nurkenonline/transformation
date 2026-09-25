@@ -8,6 +8,7 @@
 3. **Дирекция студенческих общежитий:** Управление номерным фондом общежитий, 100% цифровое распределение мест через информационную систему по 5-уровневой шкале критериев и приоритетное заселение студентов и слушателей-кандасов/иностранцев Foundation (`STD-RK-FOUND-001`) по электронным QR-ордерам.
 4. **Центр карьеры и мониторинга трудоустройства:** Организация персонального распределения обладателей государственных образовательных грантов (ст. 47 Закона «Об образовании», `STD-RK-LAW-001`) и сквозной 3-летний мониторинг их обязательной занятости с формулами соразмерной отработки через Enbek.kz и ГЦВП.
 5. **Студенческий сенат, КДМ и Студенческий омбудсмен:** Независимое студенческое самоуправление, мониторинг прав обучающихся и защита законных интересов молодежи.
+6. **Ассоциация выпускников (Alumni Network):** Институциональное сообщество выпускников всех поколений, карьерное менторство «Выпускник — Студенту», программа привилегий и лояльности, проведение ежегодного Alumni Day и содействие фандрайзингу целевого капитала.
 
 ---
 
@@ -15,15 +16,16 @@
 
 | Код функции | Наименование функции | Основание в НПА РК | Ответственный (Accountable) | Соисполнители (Responsible) | Реализующий ВНД |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `FUNC-STUD-MOVE-001` | Оформление движения контингента (перевод, восстановление, отчисление) | Приказ МНВО РК № 19, Типовые правила ОВПО № 595 | Директор ДАВ | Офис регистратора, Институты, ЦОС | [`dav_regulation.md`](../internal_acts/regulations/dav_regulation.md), Академическая политика |
-| `FUNC-STUD-DORM-002` | Конкурсное цифровое распределение мест в общежитиях по 5 уровням приоритета | Приказ МНВО РК № 606, СанПиН № 68, ППБ № 55 | Проректор по социальному развитию | Комиссия по общежитиям, Студенческий сенат, УЦ | [`student_dormitories_regulation.md`](../internal_acts/regulations/student_dormitories_regulation.md) |
-| `FUNC-STUD-DORM-003` | Заселение по QR-ордерам (студенты и слушатели Foundation), паспортный режим | Приказ МЗ РК № ҚР ДСМ-76, `STD-RK-FOUND-001` | Директор Дирекции общежитий | Заведующие общежитиями (коменданты), БиОТ | [`jd_dormitory_manager.md`](../internal_acts/job_descriptions/jd_dormitory_manager.md) |
-| `FUNC-STUD-CAREER-004`| Персональное распределение выпускников педагогических образовательных грантов | Закон РК «Об образовании» (ст. 47), `STD-RK-LAW-001`, Приказ МОН № 39 | Руководитель Центра карьеры | Комиссия по распределению, Институты, Финцентр | [`career_center_and_grant_employment_regulation.md`](../internal_acts/regulations/career_center_and_grant_employment_regulation.md) |
-| `FUNC-STUD-CAREER-005`| Сквозной 3-летний мониторинг отработки грантов и расчет соразмерного срока | Закон «Об образовании» (ст. 47 п. 17), `STD-RK-LAW-001` | Руководитель Центра карьеры | Аналитик Центра карьеры, АО «Финансовый центр» | [`jd_head_career_center.md`](../internal_acts/job_descriptions/jd_head_career_center.md) |
-| `FUNC-STUD-SSC-006`  | Предоставление услуг обучающимся и сотрудникам в режиме Единого окна (ЦОС) | Стандарты государственных услуг, ITIL v4, SLA | Руководитель ЦОСиС | Специалисты Front-Office ЦОС, ДАВ, ОР, HR | [`student_and_staff_service_center_regulation.md`](../internal_acts/regulations/student_and_staff_service_center_regulation.md), [`service_catalog_and_sla_matrix.md`](../internal_acts/sops_and_rules/service_catalog_and_sla_matrix.md) |
-| `FUNC-STUD-YOUTH-007`| Реализация молодежной политики, развитие волонтерства и клубов по интересам | Закон РК «О государственной молодежной политике» | Директор Департамента молодежной политики | Отдел молодежных программ, КДМ, Институты | [`youth_and_social_affairs_department_regulation.md`](../internal_acts/regulations/youth_and_social_affairs_department_regulation.md) |
-| `FUNC-STUD-GOV-008`  | Обеспечение студенческого самоуправления и института Студенческого омбудсмена | Закон РК «О молодежной политике», Стандарты ESG | Студенческий омбудсмен | Студенческий сенат, КДМ | [`sop_student_government_and_kdm.md`](../internal_acts/sops_and_rules/sop_student_government_and_kdm.md) |
-| `FUNC-STUD-SOC-009`  | Предоставление адресной социальной помощи, льгот и скидок на обучение | Типовые правила ОВПО № 595, ПП РК № 116 | Директор Департамента молодежной политики | Сектор соцподдержки, Бухгалтерия, ПЭД | [`jd_director_youth_social_affairs.md`](../internal_acts/job_descriptions/jd_director_youth_social_affairs.md) |
+| `FUNC-STUD-MOVE-001` | Оформление движения контингента (перевод, восстановление, отчисление) | Приказ МНВО РК № 19, Типовые правила ОВПО № 595 | **Директор ДАВ** | Офис регистратора, Институты, ЦОС | [`dav_regulation.md`](../internal_acts/regulations/dav_regulation.md), Академическая политика |
+| `FUNC-STUD-DORM-002` | Конкурсное цифровое распределение мест в общежитиях по 5 уровням приоритета | Приказ МНВО РК № 606, СанПиН № 68, ППБ № 55 | **Проректор по социальному развитию** | Комиссия по общежитиям, Студенческий сенат, УЦ | [`student_dormitories_regulation.md`](../internal_acts/regulations/student_dormitories_regulation.md) |
+| `FUNC-STUD-DORM-003` | Заселение по QR-ордерам (студенты и слушатели Foundation), паспортный режим | Приказ МЗ РК № ҚР ДСМ-76, `STD-RK-FOUND-001` | **Директор Дирекции общежитий** | Заведующие общежитиями (коменданты), БиОТ | [`jd_dormitory_manager.md`](../internal_acts/job_descriptions/jd_dormitory_manager.md) |
+| `FUNC-STUD-CAREER-004`| Персональное распределение выпускников педагогических образовательных грантов | Закон РК «Об образовании» (ст. 47), `STD-RK-LAW-001`, Приказ МОН № 39 | **Руководитель Центра карьеры** | Комиссия по распределению, Институты, Финцентр | [`career_center_and_grant_employment_regulation.md`](../internal_acts/regulations/career_center_and_grant_employment_regulation.md) |
+| `FUNC-STUD-CAREER-005`| Сквозной 3-летний мониторинг отработки грантов и расчет соразмерного срока | Закон «Об образовании» (ст. 47 п. 17), `STD-RK-LAW-001` | **Руководитель Центра карьеры** | Аналитик Центра карьеры, АО «Финансовый центр» | [`jd_head_career_center.md`](../internal_acts/job_descriptions/jd_head_career_center.md) |
+| `FUNC-STUD-SSC-006`  | Предоставление услуг обучающимся и сотрудникам в режиме Единого окна (ЦОС) | Стандарты государственных услуг, ITIL v4, SLA | **Руководитель ЦОСиС** | Специалисты Front-Office ЦОС, ДАВ, ОР, HR | [`student_and_staff_service_center_regulation.md`](../internal_acts/regulations/student_and_staff_service_center_regulation.md), [`service_catalog_and_sla_matrix.md`](../internal_acts/sops_and_rules/service_catalog_and_sla_matrix.md) |
+| `FUNC-STUD-YOUTH-007`| Реализация молодежной политики, развитие волонтерства и клубов по интересам | Закон РК «О государственной молодежной политике» | **Директор Департамента молодежной политики** | Отдел молодежных программ, КДМ, Институты | [`youth_and_social_affairs_department_regulation.md`](../internal_acts/regulations/youth_and_social_affairs_department_regulation.md) |
+| `FUNC-STUD-GOV-008`  | Обеспечение студенческого самоуправления и института Студенческого омбудсмена | Закон РК «О молодежной политике», Стандарты ESG | **Студенческий омбудсмен** | Студенческий сенат, КДМ | [`sop_student_government_and_kdm.md`](../internal_acts/sops_and_rules/sop_student_government_and_kdm.md) |
+| `FUNC-STUD-SOC-009`  | Предоставление адресной социальной помощи, льгот и скидок на обучение | Типовые правила ОВПО № 595, ПП РК № 116 | **Директор Департамента молодежной политики** | Сектор соцподдержки, Бухгалтерия, ПЭД | [`jd_director_youth_social_affairs.md`](../internal_acts/job_descriptions/jd_director_youth_social_affairs.md) |
+| `FUNC-SOC-ALUMNI-010`| Координация Ассоциации выпускников, наставничество «Alumni Mentorship», именные стипендии и Alumni Day | Закон РК «Об образовании», Закон «О благотворительности» | **Руководитель Центра карьеры / Координатор по связям с выпускниками** | Правление Ассоциации выпускников, Исполнительный директор Эндаумент-фонда, Институты | [`alumni_association_regulation.md`](../internal_acts/regulations/alumni_association_regulation.md), [`jd_alumni_relations_coordinator.md`](../internal_acts/job_descriptions/jd_alumni_relations_coordinator.md) |
 
 ---
 
@@ -34,12 +36,14 @@
    - [`REG-STUD-DORM-001` Положение о студенческих общежитиях и Комиссии по распределению мест](../internal_acts/regulations/student_dormitories_regulation.md)
    - [`REG-STUD-CAREER-001` Положение о Центре карьеры и мониторинга трудоустройства выпускников](../internal_acts/regulations/career_center_and_grant_employment_regulation.md)
    - [`REG-STUD-SSC-001` Положение о Центре обслуживания студентов и сотрудников (ЦОСиС)](../internal_acts/regulations/student_and_staff_service_center_regulation.md)
+   - [`REG-SOC-ALUMNI-001` Положение об Ассоциации выпускников](../internal_acts/regulations/alumni_association_regulation.md)
 
 2. **Должностные инструкции:**
    - [`JD-STUD-DIR-001` ДИ Директора Департамента по воспитательной, социальной работе и молодежной политике](../internal_acts/job_descriptions/jd_director_youth_social_affairs.md)
    - [`JD-STUD-DORM-MGR-001` ДИ Заведующего студенческим общежитием (коменданта)](../internal_acts/job_descriptions/jd_dormitory_manager.md)
    - [`JD-STUD-CAREER-HEAD-001` ДИ Руководителя Центра карьеры и мониторинга трудоустройства](../internal_acts/job_descriptions/jd_head_career_center.md)
    - [`JD-STUD-SSC-HEAD-001` ДИ Руководителя Центра обслуживания студентов и сотрудников](../internal_acts/job_descriptions/jd_head_student_and_staff_service_center.md)
+   - [`JD-SOC-ALUMNI-COORD-001` ДИ Координатора по связям с выпускниками](../internal_acts/job_descriptions/jd_alumni_relations_coordinator.md)
 
 3. **Стандарты операционных процедур (СОП) и правила:**
    - [`SOP-STUD-GOV-001` Регламент студенческого самоуправления и деятельности Комитета по делам молодежи (КДМ)](../internal_acts/sops_and_rules/sop_student_government_and_kdm.md)
@@ -51,4 +55,5 @@
 
 1. **Модуль «Общежития и QR-ордера»:** подача онлайн-заявок, автоматический скоринг по 5 уровням льгот, выпуск цифрового ордера с QR-кодом для бесконтактного заселения студентов и слушателей Foundation.
 2. **Модуль «Центр карьеры и отработка грантов»:** личные кабинеты выпускников, интеграция с базами данных Enbek.kz и АО «Финансовый центр» по учету пенсионных отчислений и калькулятор соразмерного срока отработки.
-3. **Модуль «Единый сервисный центр (ЦОС)»:** электронная очередь, заказ справок, академических транскриптов и тикет-система Service Desk (ITIL v4).
+3. **Модуль «Alumni CRM & Loyalty Portal»:** единая цифровая база выпускников, электронная карта лояльности (Digital Alumni Card), платформа наставничества «Выпускник — Студенту» и регистрация на Alumni Day.
+4. **Модуль «Единый сервисный центр (ЦОС)»:** электронная очередь, заказ справок, академических транскриптов и тикет-система Service Desk (ITIL v4).

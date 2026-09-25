@@ -2,6 +2,11 @@
 
 Универсальная система нормативного, функционального и цифрового проектирования для высших учебных заведений (ОВПО) Республики Казахстан по методологии **Trace-First Workflow (TFW v3.4.0)** на основе Новой регуляторной политики («С чистого листа» / РЧЛ).
 
+> 🧭 **ГЛАВНЫЙ НАВИГАТОР И КАТАЛОГ ДОКУМЕНТОВ:** Для мгновенного поиска любых из 191 разработанного нормативного акта (Положений, ДИ, СОПов, Политик, НПА РК) используйте **[docs/README.md (Мастер-каталог)](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/README.md)** (также доступен как [MASTER_DOCUMENT_CATALOG.md](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/docs/MASTER_DOCUMENT_CATALOG.md)).
+
+Автор проведенной работы: Нуркен Мусабаев, эксперт по AI First трансформации организаций образования
+Telegram: @nurken
+
 ---
 
 ## 🎯 Миссия и цели проекта
@@ -93,7 +98,7 @@ docs/
 │   ├── job_descriptions/    # 37 Должностных инструкций
 │   ├── sops_and_rules/      # 37 Регламентов и Стандартов операционных процедур (СОП)
 │   └── blueprints/          # 6 Архитектурных паспортов и инновационных моделей
-├── regulations/             # База внешних НПА РК (130 НПА) и 13 Отраслевых стандартов STD-RK-*
+├── regulations/             # База внешних НПА РК (135 НПА) и 13 Отраслевых стандартов STD-RK-*
 │   └── sector_standards/    # Отраслевые стандарты безопасности, БиОТ и профстандартов НСК
 ├── kpi_and_metrics/         # Фонд требований госорганов, KPI Программы развития и дорожные карты разрывов
 ├── benchmarking/            # Сравнительный аудит и бенчмаркинг практик ведущих вузов (Astana IT University)
@@ -226,16 +231,16 @@ docs/
 │   │   ├── job_descriptions/       # 37 Должностных инструкций
 │   │   ├── sops_and_rules/         # 37 Регламентов и Стандартов операционных процедур (СОП)
 │   │   └── blueprints/             # 6 Архитектурных паспортов и инновационных моделей
-│   ├── regulations/                # База внешних НПА РК (130 НПА) и 13 Отраслевых стандартов STD-RK-*
+│   ├── regulations/                # База внешних НПА РК (135 НПА) и 13 Отраслевых стандартов STD-RK-*
 │   │   └── sector_standards/       # Стандарты безопасности, БиОТ и профстандартов НСК «Атамекен»
 │   ├── kpi_and_metrics/            # Фонд требований госорганов, 65 KPI, 195 разрывов, 406 поручений
 │   ├── benchmarking/               # Анализ и бенчмаркинг практик ведущих вузов РК (Astana IT University)
 │   ├── quality assurance/          # Монография и материалы внутренней системы обеспечения качества (ВСОКО)
 │   ├── current internal acts/      # Исторические акты Университета и пакет ТЗ для ГТС
 │   └── strategic_roadmap_...       # Стратегическая дорожная карта следующих этапов трансформации (ABAI-26+)
-├── workspace/                      # Артефакты задач жизненного цикла TFW (ABAI-1 — ABAI-25)
+├── workspace/                      # Артефакты задач жизненного цикла TFW (ABAI-1 — ABAI-30)
 ├── AGENTS.md                       # Ролевые протоколы, шлюзы согласования и поведение ИИ-агентов
-├── KNOWLEDGE.md                    # Общеуниверситетская база верифицированных знаний (50 фактов)
+├── KNOWLEDGE.md                    # Общеуниверситетская база верифицированных знаний (57 фактов)
 ├── TECH_DEBT.md                    # Реестр нормативных и процессных разрывов (Regulatory Debt)
 └── README.md                       # Главная страница и сводный Task Board
 ```
@@ -244,7 +249,7 @@ docs/
 
 ## 📋 Доска задач (Task Board)
 
-Все 25 задач трансформации институционального контура Университета успешно реализованы, прошли независимую экспертизу (Reviewer) и зафиксированы в базе верифицированных знаний `KNOWLEDGE.md`:
+Все 29 задач трансформации институционального контура Университета успешно реализованы, прошли независимую экспертизу (Reviewer) и зафиксированы в базе верифицированных знаний `KNOWLEDGE.md`:
 
 | ID | Задача | Статус | Фаза TFW | Исполнитель | Ссылка на артефакты |
 | :--- | :--- | :--- | :---: | :--- | :--- |
@@ -276,6 +281,9 @@ docs/
 | **ABAI-24** (`ABAI_20260922-150000_SECURITY_BIOT_SITCENTER`) | Институциональный комплекс безопасности кампуса, антитеррора (Приказ № 476), БиОТ, ГО и 4-контурный Ситуационный центр (126 НПА) | 🟢 Выполнено (Фазы A и B) | `DONE` | Coordinator / Reviewer | [`workspace/.../REVIEW_PHASE_B.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260922-150000_SECURITY_BIOT_SITCENTER/review/REVIEW_PHASE_B.md) |
 | **ABAI-25** (`ABAI_20260922-173500_ATAMEKEN_PROF_STANDARDS`) | Анализ профессиональных стандартов НПП «Атамекен» (129 НПА, стандарт STD-RK-013, Gap Analysis 37 должностей, паспорта JCC, конкурсы) | 🟢 Выполнено (Фазы A и B) | `DONE` | Coordinator / Reviewer | [`workspace/.../REVIEW_PHASE_B.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260922-173500_ATAMEKEN_PROF_STANDARDS/review/REVIEW_PHASE_B.md) |
 | **ABAI-26** (`ABAI_20260923-151500_AI_POLICY`) | Институциональная политика этичного использования ИИ (GenAI), аутентичное оценивание и публикационная этика по COPE | 🟢 Выполнено (Фазы A и B) | `DONE` | Coordinator / Reviewer | [`workspace/.../REVIEW_PHASE_B.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260923-151500_AI_POLICY/review/REVIEW_PHASE_B.md) |
+| **ABAI-27** (`ABAI_20260925-104500_BOARD_GOV`) | Высший эшелон корпоративного управления НАО: Совет директоров, Комитеты СД, Корпсекретарь (DFO.kz), СВА (Закон об АО № 415-II) | 🟢 Выполнено (Фазы A и B) | `DONE` | Coordinator / Reviewer | [`workspace/.../REVIEW_PHASE_B.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260925-104500_BOARD_GOV/review/REVIEW_PHASE_B.md) |
+| **ABAI-29** (`ABAI_20260925-164600_ENDOWMENT`) | Эндаумент-фонд (Endowment), целевой капитал и Ассоциация выпускников (ст. 18 Закона № 103-VIII) | 🟢 Выполнено (Фазы A и B) | `DONE` | Coordinator / Reviewer | [`workspace/.../REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260925-164600_ENDOWMENT/review/REVIEW.md) |
+| **ABAI-30** (`ABAI_20260925-175500_ENTERPRISE_SLA`) | Общеуниверситетский каталог межфункциональных услуг и матрица внутрикорпоративного SLA (14 доменов, B2B-сервисы сослуживцев) | 🟢 Выполнено | `DONE` | Coordinator / Reviewer | [`workspace/.../REVIEW.md`](file:///g:/Мой%20диск/Google%20AI%20Studio/Abai%20Unviersity%20Transformation/workspace/ABAI_20260925-175500_ENTERPRISE_SLA/review/REVIEW.md) |
 
 ---
 
